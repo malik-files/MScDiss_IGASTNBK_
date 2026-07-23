@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Creating a new, cleaner, organised repository for the dissertation.">
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Adding the statistics for MusicBrainz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/func/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1784820829617</updated>
-      <workItem from="1784820830608" duration="2997000" />
+      <workItem from="1784820830608" duration="8680000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784821545342</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding the statistics for MusicBrainz">
+      <option name="closed" value="true" />
+      <created>1784823901635</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784823901635</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating a new, cleaner, organised repository for the dissertation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a new, cleaner, organised repository for the dissertation." />
+    <MESSAGE value="Adding the statistics for MusicBrainz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the statistics for MusicBrainz" />
   </component>
 </project>
