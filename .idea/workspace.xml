@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Working on the analysis of the groups data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Started the base analysis for artists and groups in the jupyter notebooks.">
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1784820829617</updated>
       <workItem from="1784820830608" duration="14128000" />
-      <workItem from="1784898062576" duration="995000" />
+      <workItem from="1784898062576" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784897397339</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Started the base analysis for artists and groups in the jupyter notebooks.">
+      <option name="closed" value="true" />
+      <created>1784899637596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784899637596</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,7 @@
     <MESSAGE value="Adding the statistics for MusicBrainz" />
     <MESSAGE value="Checking the genre count for music brainz artists" />
     <MESSAGE value="Working on the analysis of the groups data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on the analysis of the groups data" />
+    <MESSAGE value="Started the base analysis for artists and groups in the jupyter notebooks." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started the base analysis for artists and groups in the jupyter notebooks." />
   </component>
 </project>
