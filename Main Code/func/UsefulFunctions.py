@@ -46,8 +46,8 @@ def getLabelWithSparql(listOfIDS):
                 dictionaryOfLabels[getEntityIDValue(item['item']['value'])] = item['itemLabel']['value']
             
             
-        except:
-            print("There was an error") 
+        except Exception as e:
+            print(f"There was an error: {e}")
     print(dictionaryOfLabels.values())
     
     return dictionaryOfLabels
@@ -62,7 +62,15 @@ def processEntityNumbers(listOfEntityNumbers):
     stringForQuerying = "{" + stringForQuerying + "}"
     return stringForQuerying
 
+def getLabels(listOfIDS):
+    dictionaryOfLabels = dict()
+    if len(listOfIDS) > 0:
+        dictionaryOfLabels = {k : None for k in listOfIDS}
+    else:
+        raise Exception("No IDS provided")
+    return addEntityLabels(dictionaryOfLabels)
 
+    return
 def addEntityLabels(dictionary):
     #Do it in groups of 500
     keys = list(dictionary.keys())

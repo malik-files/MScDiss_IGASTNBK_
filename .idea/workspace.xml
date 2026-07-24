@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Started the base analysis for artists and groups in the jupyter notebooks.">
-      <change afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_artists.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/label_artist_from_wikidata.ipynb" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender">
+      <change afterPath="$PROJECT_DIR$/Main Code/Data/pipelinesArtistsWikidata.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGender.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/label_artist_from_wikidata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/label_artist_from_wikidata.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,7 @@
       <recent name="$PROJECT_DIR$/Main Code/func" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Code/Data" />
       <recent name="$PROJECT_DIR$/Main Code" />
     </key>
   </component>
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1784820829617</updated>
       <workItem from="1784820830608" duration="14128000" />
-      <workItem from="1784898062576" duration="3809000" />
+      <workItem from="1784898062576" duration="16672000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -137,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784899642506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Started the base analysis for artists and groups on wikidata in the jupyter notebooks.">
+      <option name="closed" value="true" />
+      <created>1784902027806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784902027806</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +160,8 @@
     <MESSAGE value="Checking the genre count for music brainz artists" />
     <MESSAGE value="Working on the analysis of the groups data" />
     <MESSAGE value="Started the base analysis for artists and groups in the jupyter notebooks." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started the base analysis for artists and groups in the jupyter notebooks." />
+    <MESSAGE value="Started the base analysis for artists and groups on wikidata in the jupyter notebooks." />
+    <MESSAGE value="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender" />
   </component>
 </project>
