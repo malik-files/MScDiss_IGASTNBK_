@@ -9,7 +9,13 @@ def getEntityIDValue(link):
     except:
         return link
 
+#This makes the genre dictionaries into a list of genres
 
+def prettifyGenres(item):
+    genreList = []
+    for x in item:
+        genreList.append(x.get("name",None))
+    return genreList
 
 def getLabelWithSparql(listOfIDS):
 
