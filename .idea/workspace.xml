@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender">
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/pipelinesArtistsWikidata.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGender.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/label_artist_from_wikidata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/label_artist_from_wikidata.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1784820829617</updated>
       <workItem from="1784820830608" duration="14128000" />
-      <workItem from="1784898062576" duration="16672000" />
+      <workItem from="1784898062576" duration="20698000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -148,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784902027806</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender">
+      <option name="closed" value="true" />
+      <created>1784919368931</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784919368931</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
