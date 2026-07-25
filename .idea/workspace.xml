@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Looking at the gender distribution of the artists on wikidata.">
-      <change beforePath="$PROJECT_DIR$/.idea/IGASTNBK_MScDiss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IGASTNBK_MScDiss.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Redoing the inspecting and the cleaning of the data">
       <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784978022418</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Redoing the inspecting and the cleaning of the data">
+      <option name="closed" value="true" />
+      <created>1785005363597</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1785005363597</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +184,7 @@
     <MESSAGE value="Started the base analysis for artists and groups on wikidata in the jupyter notebooks." />
     <MESSAGE value="Created the first pipeline for filtering artists data using pandas and saved the parquet. Also obtained the entities with no known gender" />
     <MESSAGE value="Looking at the gender distribution of the artists on wikidata." />
-    <option name="LAST_COMMIT_MESSAGE" value="Looking at the gender distribution of the artists on wikidata." />
+    <MESSAGE value="Redoing the inspecting and the cleaning of the data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redoing the inspecting and the cleaning of the data" />
   </component>
 </project>
