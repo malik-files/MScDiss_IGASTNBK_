@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Redoing the inspecting and the cleaning of the data - now country names">
-      <change beforePath="$PROJECT_DIR$/.idea/IGASTNBK_MScDiss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IGASTNBK_MScDiss.iml" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Fixing the issues with the influences and musicBrainzID">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGender.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledCountries.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenres.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluences.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabels.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledCountries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledCountries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +184,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785006153577</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fixing the issues with the influences and musicBrainzID">
+      <option name="closed" value="true" />
+      <created>1785069121154</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1785069121154</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixing the issues with the influences and musicBrainzID">
+      <option name="closed" value="true" />
+      <created>1785069147217</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785069147217</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +228,7 @@
     <MESSAGE value="Looking at the gender distribution of the artists on wikidata." />
     <MESSAGE value="Redoing the inspecting and the cleaning of the data" />
     <MESSAGE value="Redoing the inspecting and the cleaning of the data - now country names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Redoing the inspecting and the cleaning of the data - now country names" />
+    <MESSAGE value="Fixing the issues with the influences and musicBrainzID" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing the issues with the influences and musicBrainzID" />
   </component>
 </project>
