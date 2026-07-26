@@ -1,31 +1,31 @@
 gender,genderLabel,artist
-Q9151342,androgyne,2
-Q93954933,demiboy,1
-Q15145779,cisgender woman,6
 Q12964198,genderqueer,46
-Q1052281,trans woman,471
-Q121307100,intersex woman,4
-null/unknown,null/unknown,41
-Q27679684,transfeminine,15
 Q130477254,non-binary woman,1
-Q6581097,male,331681
-Q93955709,demigirl,1
-Q124850662,apagender,1
-Q1097630,intersex,8
-Q301702,two-spirit,14
-Q138806923,intersex trans woman,5
-Q15145778,cisgender man,5
-Q124637723,gender agnostic,1
-Q27679766,transmasculine,15
-Q189125,transgender,22
-Q113124952,undisclosed gender,10
-Q6581072,female,112112
-Q52261234,neutral sex,1
-Q18116794,genderfluid,56
-Q121307094,intersex man,3
-Q859614,bigender,4
-Q7677449,takatāpui,3
-Q48270,non-binary,472
-Q2449503,trans man,107
-Q505371,agender,12
+Q15145779,cisgender woman,6
 Q17148251,travesti,7
+Q138806923,intersex trans woman,5
+Q121307094,intersex man,3
+Q113124952,undisclosed gender,10
+Q27679766,transmasculine,15
+Q1052281,trans woman,471
+Q124637723,gender agnostic,1
+Q301702,two-spirit,14
+Q124850662,apagender,1
+null/unknown,null/unknown,41
+Q9151342,androgyne,2
+Q93955709,demigirl,1
+Q121307100,intersex woman,4
+Q7677449,takatāpui,3
+Q859614,bigender,4
+Q52261234,neutral sex,1
+Q48270,non-binary,472
+Q505371,agender,12
+Q189125,transgender,22
+Q6581097,male,331681
+Q93954933,demiboy,1
+Q6581072,female,112112
+Q2449503,trans man,107
+Q1097630,intersex,8
+Q27679684,transfeminine,15
+Q18116794,genderfluid,56
+Q15145778,cisgender man,5
