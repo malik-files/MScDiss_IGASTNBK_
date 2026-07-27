@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Redoing the inspecting and the cleaning of the data - now country names">
+      <change afterPath="$PROJECT_DIR$/Main Code/label_merging_groups_wikidata.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
@@ -86,7 +90,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
   </component>

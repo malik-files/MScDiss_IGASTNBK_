@@ -1,692 +1,267 @@
-occupation,occupationLabel,genderLabel,artist
-Q13424456,hymnwriter,male,1655
-Q101084010,folk musician,male,555
-Q177220,singer,trans man,49
-Q24574678,cornetist,male,83
-Q855091,guitarist,non-binary,26
-Q1062433,chanteuse,undisclosed gender,1
-Q177220,singer,cisgender woman,3
-Q956365,Liedermacher,non-binary,1
-Q118865,clarinetist,male,2040
-Q4386521,biwa hÅshi,male,1
-Q107888647,piccolo player,male,3
-Q691031,concertmaster,male,749
-Q15981151,jazz musician,non-binary,2
-Q124738507,melodica player,male,3
-Q1198887,music director,takatāpui,1
-Q822146,lyricist,transmasculine,1
-Q1259917,violinist,female,2778
-Q124738290,podorythmist,female,1
-Q1783698,concert singer,male,107
-Q66763708,country singer,male,50
-Q81729510,classical violinist,female,106
-Q1294626,music artist,male,259
-Q183945,record producer,genderfluid,3
-Q107590560,cor anglais player,male,12
-Q855091,guitarist,genderqueer,3
-Q107888647,piccolo player,female,2
-Q67200257,estrada artist,male,21
-Q177220,singer,intersex,2
-Q67200504,heavy metal singer,male,15
-Q19723482,mandolinist,female,42
-Q104218554,rock singer,male,175
-Q79376387,qanun performer,male,1
-Q91478678,tÃ¡rogatÃ³ player,male,10
-Q630993,bertsolari,trans man,1
-Q112671900,raspevschik,male,5
-Q36834,composer,two-spirit,3
-Q117288102,cittern player,male,1
-Q25829748,brass player,female,1
-Q36834,composer,female,15515
-Q63809325,regueifeiro / regueifeira,male,1
-Q4854747,bandurist,male,350
-Q15981151,jazz musician,female,1690
-Q639669,musician,neutral sex,1
-Q1783698,concert singer,female,154
-Q106786801,basset hornist,male,4
-Q135936594,bass clarinetist,male,2
-Q85719095,merengue musician,female,1
-Q72268111,boha player,female,1
-Q106604158,nyckelharpa player,male,71
-Q4926655,blind musician,male,1
-Q105755601,chamber musician,male,34
-Q67158337,bluegrass musician,female,2
-Q822146,lyricist,non-binary,7
-Q4087517,beatmaker,female,2
-Q51679083,sitarist,female,9
-Q639669,musician,transmasculine,10
-Q111305456,fiscorn player,male,2
-Q55960555,recording artist,genderfluid,3
-Q183945,record producer,transmasculine,2
-Q63243029,gospel musician,male,28
-Q4087517,beatmaker,male,50
-Q72268111,boha player,male,10
-Q67200506,metal musician,trans man,1
-Q64353861,jazz bassist,male,201
-Q107467726,gamelan conductor,female,1
-Q123678324,thereminist,male,2
-Q97572814,wind instrument player,male,124
-Q22078111,cimbalom player,male,41
-Q115246813,plucked instrument player,female,1
-Q136773949,manipulator,male,2
-Q19747285,academic musician,female,14
-Q134087378,setar player,male,3
-Q105103729,bolero singer,female,2
-Q1198887,music director,male,1552
-Q16157763,kveder,female,3
-Q956365,Liedermacher,genderfluid,1
-Q73399344,MC,trans woman,1
-Q2252262,rapper,genderfluid,7
-Q177220,singer,genderqueer,18
-Q21088197,fortepianist,female,15
-Q488205,singer-songwriter,non-binary,85
-Q486748,pianist,trans man,1
-Q12795793,marimba player,female,10
-Q956365,Liedermacher,genderqueer,1
-Q110829594,classical cellist,male,16
-Q88821468,fado musician,male,1
-Q11308619,synthesizer player,male,9
-Q806349,bandleader,null/unknown,1
-Q639669,musician,intersex man,2
-Q2252262,rapper,intersex,1
-Q177220,singer,intersex trans woman,1
-Q181922,citharode,male,12
-Q106625143,choir singer,female,88
-Q16157763,kveder,male,2
-Q7131406,pannist,female,1
-Q806349,bandleader,male,3133
-Q101584469,military conductor,male,16
-Q97468869,French horn player,male,66
-Q639669,musician,androgyne,1
-Q183945,record producer,female,1300
-Q102276804,gospel singer,female,78
-Q36834,composer,transfeminine,1
-Q177220,singer,transgender,8
-Q51679083,sitarist,male,87
-Q36834,composer,trans man,11
-Q488205,singer-songwriter,demigirl,1
-Q81727892,jazz vibraphonist,female,1
-Q98523757,reggae singer,female,4
-Q18749693,carillonist,male,87
-Q66314404,jazz singer,male,99
-Q106512734,cymbal player,female,1
-Q81729632,classical musician,male,19
-Q1268911,spelman,male,106
-Q639669,musician,trans woman,205
-Q116938279,jazz composer,male,24
-Q125522990,nadaswaram player,male,1
-Q121484507,raÃ¯ musician,male,1
-Q4801269,artistic director,male,54
-Q60643157,ukulelist,male,11
-Q1259917,violinist,trans woman,3
-Q105652933,pedal steel guitar player,male,5
-Q105175276,bossa nova singer,male,1
-Q639669,musician,takatāpui,2
-Q104849353,throat singer,female,3
-Q101084010,folk musician,female,98
-Q19729565,horn player,male,897
-Q12846426,tar player,female,1
-Q113621223,soukous musician,male,2
-Q105175276,bossa nova singer,female,1
-Q1214796,double-bassist,male,1249
-Q115246813,plucked instrument player,male,13
-Q36834,composer,genderfluid,9
-Q4801269,artistic director,female,13
-Q135936594,bass clarinetist,female,1
-Q105103729,bolero singer,male,2
-Q183945,record producer,trans man,3
-Q130857,disc jockey,transgender,1
-Q116938279,jazz composer,female,11
-Q122499964,cantastorie,female,2
-Q1076502,choir director,female,971
-Q47456580,oud player,male,51
-Q1294626,music artist,non-binary,2
-Q67200257,estrada artist,female,2
-Q10816969,club DJ,female,17
-Q60723829,pop singer,male,454
-Q1294626,music artist,female,78
-Q100493654,hip-hop musician,male,59
-Q6554404,tambourinaire,female,164
-Q2865819,opera singer,transgender,1
-Q55960555,recording artist,agender,1
-Q66763670,country musician,female,47
-Q1259917,violinist,non-binary,1
-Q3127709,harpist,non-binary,1
-Q107161894,trikitilari,male,17
-Q32999759,euphoniumist,male,17
-Q2252262,rapper,transmasculine,2
-Q753110,songwriter,female,6220
-Q486748,pianist,transgender,2
-Q130857,disc jockey,male,6236
-Q67200506,metal musician,male,11
-Q130857,disc jockey,transfeminine,1
-Q66759319,flabioler,female,1
-Q19723482,mandolinist,male,381
-Q21855974,vibraphonist,male,102
-Q822146,lyricist,null/unknown,3
-Q36834,composer,bigender,1
-Q21166956,lutenist,female,44
-Q36834,composer,genderqueer,9
-Q55960555,recording artist,male,2860
-Q63536580,video game composer,female,13
-Q118397797,flutist,male,9
-Q81558583,salsa musician,male,14
-Q130857,disc jockey,undisclosed gender,1
-Q94949794,Occitania string tambourine player,male,6
-Q15981151,jazz musician,trans woman,3
-Q36834,composer,non-binary,65
-Q12800682,saxophonist,trans woman,2
-Q177220,singer,intersex man,1
-Q116973500,Sasanduist,male,1
-Q488205,singer-songwriter,travesti,3
-Q60643157,ukulelist,female,5
-Q51397277,tocaor,male,22
-Q1198887,music director,intersex,1
-Q106302506,didgeridooist,female,1
-Q1067977,hazzan,male,453
-Q83638438,glass harmonica player,female,2
-Q1198887,music director,non-binary,3
-Q110818502,taiko player,transgender,1
-Q20791985,bandoneonist,male,368
-Q11565465,enka singer,female,28
-Q10666486,session musician,female,19
-Q100493654,hip-hop musician,female,11
-Q42227156,chorus master,male,68
-Q488205,singer-songwriter,transgender,1
-Q486748,pianist,female,7759
-Q20791985,bandoneonist,female,6
-Q55960555,recording artist,intersex woman,1
-Q118865,clarinetist,non-binary,2
-Q106211908,morin khuur player,male,1
-Q183945,record producer,agender,1
-Q54935442,string arranger,male,6
-Q24841721,classical singer,female,72
-Q630993,bertsolari,male,463
-Q177220,singer,undisclosed gender,4
-Q12800682,saxophonist,female,330
-Q1643514,music arranger,trans woman,1
-Q55960555,recording artist,genderqueer,1
-Q639669,musician,female,23342
-Q96146337,hurdy gurdy player,female,5
-Q177220,singer,trans woman,195
-Q21855974,vibraphonist,female,11
-Q63536580,video game composer,male,91
-Q855091,guitarist,trans woman,14
-Q486748,pianist,male,20327
-Q1792566,whistle artist,trans woman,1
-Q753110,songwriter,agender,3
-Q1643514,music arranger,female,519
-Q104224827,disco singer,female,3
-Q61947786,jazz trumpeter,male,109
-Q67892846,metal guitarist,male,16
-Q94949794,Occitania string tambourine player,female,5
-Q2252262,rapper,male,9921
-Q47456580,oud player,female,7
-Q110829594,classical cellist,female,6
-Q18749693,carillonist,female,17
-Q639669,musician,undisclosed gender,4
-Q798487,backing vocalist,female,181
-Q42227156,chorus master,female,21
-Q67893090,heavy metal drummer,male,5
-Q12800682,saxophonist,non-binary,1
-Q20850090,harmonicist,male,175
-Q98523757,reggae singer,male,18
-Q855091,guitarist,cisgender woman,1
-Q753110,songwriter,cisgender woman,1
-Q130757565,ocarinist,male,2
-Q177220,singer,agender,8
-Q42303796,boogie-woogie musician,male,1
-Q135107015,orchestra leader,female,2
-Q54844699,harmonium player,male,5
-Q1294626,music artist,trans woman,2
-Q1415090,film score composer,trans woman,6
-Q3153559,music interpreter,trans woman,1
-Q2252262,rapper,trans man,7
-Q56418646,balalaikist,female,1
-Q99510107,sufi singer,male,5
-Q753110,songwriter,transmasculine,1
-Q81727892,jazz vibraphonist,male,10
-Q66763670,country musician,male,178
-Q24067349,classical guitarist,male,656
-Q61996187,classical pianist,female,266
-Q12795793,marimba player,male,10
-Q21680663,classical composer,transgender,1
-Q855091,guitarist,trans man,4
-Q765778,organist,trans woman,2
-Q4391922,church choirmaster,male,37
-Q2865819,opera singer,trans woman,6
-Q105754803,symphonist,male,1
-Q100269042,tango singer,female,3
-Q1415090,film score composer,female,211
-Q177220,singer,androgyne,1
-Q486748,pianist,trans woman,7
-Q56441179,domra player,male,3
-Q67200504,heavy metal singer,female,11
-Q177220,singer,male,70810
-Q98523719,reggae musician,male,51
-Q639669,musician,non-binary,230
-Q105440662,rockabilly musician,male,2
-Q114369765,djembe player,male,2
-Q104218554,rock singer,female,36
-Q12868609,sazanda,male,1
-Q639669,musician,genderfluid,16
-Q21166956,lutenist,male,486
-Q63643090,fado singer,female,36
-Q2252262,rapper,transfeminine,2
-Q488205,singer-songwriter,trans woman,55
-Q110244331,bouzouki player,male,10
-Q486748,pianist,cisgender man,1
-Q21550382,bagpiper,male,109
-Q99460544,orchestral musician,female,5
-Q16003954,oboist,female,142
-Q639669,musician,genderqueer,24
-Q488205,singer-songwriter,intersex trans woman,1
-Q1062433,chanteuse,trans woman,3
-Q5358395,electronic musician,trans woman,2
-Q56441179,domra player,female,1
-Q11442087,Åtsuzumikata,female,1
-Q3197853,klezmer musician,female,1
-Q31271779,orchestra conductor,male,8
-Q11305911,sambista,female,5
-Q21680731,opera composer,male,136
-Q84488218,heavy metal bass guitarist,male,3
-Q99460544,orchestral musician,male,46
-Q140251484,battle rapper,male,1
-Q765778,organist,male,10629
-Q105175076,bossa nova musician,male,1
-Q3074722,recorder player,female,53
-Q36834,composer,male,113929
-Q1214796,double-bassist,female,84
-Q96625642,jazz harpist,female,1
-Q36834,composer,agender,2
-Q177220,singer,takatāpui,1
-Q110829086,classical flautist,male,13
-Q81558583,salsa musician,female,1
-Q104224740,dansband singer,male,18
-Q136404940,serpentist,male,2
-Q13219637,cellist,female,841
-Q130857,disc jockey,non-binary,21
-Q3127709,harpist,agender,1
-Q136324624,lyrist,male,3
-Q85873795,Vocaloid producer,null/unknown,1
-Q3153559,music interpreter,male,73
-Q544972,trombonist,female,37
-Q5358395,electronic musician,male,195
-Q753110,songwriter,trans woman,24
-Q2252262,rapper,trans woman,19
-Q63197546,classical trumpeter,male,8
-Q639669,musician,trans man,37
-Q139945881,kanklist,female,6
-Q177220,singer,non-binary woman,1
-Q486748,pianist,genderqueer,1
-Q139945881,kanklist,male,4
-Q42303786,blues musician,male,208
-Q100951393,jÅrurikatari,male,11
-Q639669,musician,bigender,1
-Q117043724,alphorn player,male,2
-Q2477135,lÄƒutar,male,14
-Q60723829,pop singer,female,701
-Q31271779,orchestra conductor,female,1
-Q106786801,basset hornist,female,1
-Q105754940,symphonist,male,2
-Q105652947,soul musician,female,28
-Q1259917,violinist,trans man,1
-Q100539888,flÃ»te Ã  trois trous player,female,1
-Q2252262,rapper,non-binary,35
-Q96146337,hurdy gurdy player,male,13
-Q25616474,woodwind instrument player,female,1
-Q753110,songwriter,trans man,9
-Q88105790,concertinist,female,3
-Q117217820,television composer,male,45
-Q183945,record producer,non-binary,34
-Q109250234,Samba-enredo interpreter,male,49
-Q16003954,oboist,male,929
-Q639669,musician,intersex,4
-Q386854,drummer,trans woman,1
-Q584301,bassist,trans man,1
-Q177220,singer,two-spirit,4
-Q3074722,recorder player,male,82
-Q2865819,opera singer,male,10535
-Q84488218,heavy metal bass guitarist,female,1
-Q51397277,tocaor,female,1
-Q62747204,big band musician,male,1
-Q183945,record producer,undisclosed gender,1
-Q117085438,kokle player,female,1
-Q55960555,recording artist,intersex man,1
-Q11565465,enka singer,agender,1
-Q130857,disc jockey,female,978
-Q55960555,recording artist,non-binary,14
-Q97468869,French horn player,female,10
-Q488205,singer-songwriter,apagender,1
-Q822146,lyricist,trans woman,1
-Q1214796,double-bassist,trans woman,1
-Q36834,composer,transmasculine,2
-Q158852,conductor,male,24017
-Q1863064,accordionist,male,984
-Q25616474,woodwind instrument player,male,9
-Q113097821,trapper,male,7
-Q130857,disc jockey,agender,1
-Q63536580,video game composer,null/unknown,3
-Q12377274,trumpeter,female,96
-Q1294626,music artist,trans man,1
-Q544972,trombonist,male,960
-Q119722274,cavaquinist,male,1
-Q177220,singer,non-binary,199
-Q56418646,balalaikist,male,19
-Q753110,songwriter,null/unknown,1
-Q488205,singer-songwriter,genderqueer,13
-Q3127709,harpist,trans woman,1
-Q66314404,jazz singer,female,664
-Q6168364,jazz guitarist,male,1661
-Q117043724,alphorn player,female,2
-Q20198734,ondist,female,7
-Q5358395,electronic musician,non-binary,1
-Q488205,singer-songwriter,agender,1
-Q386854,drummer,female,279
-Q158852,conductor,female,1399
-Q106302506,didgeridooist,male,6
-Q20198734,ondist,male,12
-Q103600172,surbaharist,female,1
-Q66314404,jazz singer,non-binary,1
-Q177220,singer,neutral sex,1
-Q11418490,utasha,male,1
-Q4351403,percussionist,male,2287
-Q61947786,jazz trumpeter,female,6
-Q115463529,tsymbalist,male,1
-Q2865819,opera singer,trans man,2
-Q855091,guitarist,female,1647
-Q386854,drummer,cisgender man,1
-Q55960555,recording artist,trans woman,7
-Q12800682,saxophonist,male,4134
-Q584301,bassist,non-binary,1
-Q3528729,timpanist,female,2
-Q4351403,percussionist,trans woman,1
-Q753110,songwriter,male,22509
-Q12310971,bassoonist,male,567
-Q183945,record producer,intersex,1
-Q486748,pianist,undisclosed gender,1
-Q63643090,fado singer,male,15
-Q11442087,Åtsuzumikata,male,1
-Q130857,disc jockey,intersex trans woman,1
-Q24067349,classical guitarist,female,80
-Q2252262,rapper,cisgender man,1
-Q12377274,trumpeter,male,2593
-Q1643514,music arranger,male,6887
-Q158852,conductor,trans woman,1
-Q103600172,surbaharist,male,5
-Q488205,singer-songwriter,transmasculine,2
-Q64168477,principal flute,male,1
-Q111213128,Director of the Percussion Band,male,5
-Q68942197,blues pianist,male,2
-Q177220,singer,demiboy,1
-Q67892846,metal guitarist,female,1
-Q122499964,cantastorie,male,10
-Q488205,singer-songwriter,takatāpui,1
-Q753110,songwriter,two-spirit,1
-Q12310971,bassoonist,female,47
-Q2865819,opera singer,two-spirit,1
-Q124738290,podorythmist,male,3
-Q21680663,classical composer,male,426
-Q107161894,trikitilari,female,13
-Q806349,bandleader,female,99
-Q1259917,violinist,male,9050
-Q61946839,jazz drummer,male,193
-Q85873795,Vocaloid producer,female,4
-Q177220,singer,travesti,6
-Q1415090,film score composer,genderfluid,1
-Q63243029,gospel musician,female,31
-Q2252262,rapper,agender,2
-Q88105790,concertinist,male,7
-Q3560496,fiddler,male,613
-Q98523719,reggae musician,female,3
-Q753110,songwriter,non-binary,55
-Q139142334,classical oboist,male,24
-Q1062433,chanteuse,female,96
-Q116266848,jazz harmonicist,male,1
-Q753110,songwriter,genderqueer,7
-Q106604158,nyckelharpa player,female,15
-Q822146,lyricist,male,9419
-Q16003954,oboist,genderfluid,1
-Q502323,goze,female,2
-Q15981151,jazz musician,male,11120
-Q51844772,shamisen player,male,58
-Q488205,singer-songwriter,null/unknown,1
-Q753110,songwriter,transfeminine,1
-Q130857,disc jockey,genderqueer,4
-Q177220,singer,female,60445
-Q85873795,Vocaloid producer,male,41
-Q1062433,chanteuse,male,1
-Q104224827,disco singer,male,3
-Q110829086,classical flautist,female,1
-Q55960555,recording artist,trans man,1
-Q121754124,electric guitarist,male,6
-Q24574678,cornetist,female,4
-Q36834,composer,trans woman,50
-Q118397797,flutist,female,9
-Q106580694,polka musician,male,1
-Q15981151,jazz musician,intersex woman,1
-Q13424456,hymnwriter,female,393
-Q177220,singer,transfeminine,3
-Q101579657,clavichordist,female,2
-Q36834,composer,null/unknown,9
-Q9648008,banjoist,trans woman,1
-Q32999759,euphoniumist,female,1
-Q584301,bassist,male,1845
-Q44894559,military musician,male,140
-Q855091,guitarist,male,18165
-Q19723482,mandolinist,genderqueer,1
-Q21680663,classical composer,female,90
-Q124738259,melodist,male,2
-Q177220,singer,transmasculine,4
-Q3477050,second violin,male,1
-Q488205,singer-songwriter,genderfluid,17
-Q17220304,Enka,male,1
-Q124738271,rhythmist,male,1
-Q639669,musician,intersex trans woman,1
-Q158852,conductor,transmasculine,1
-Q765778,organist,female,990
-Q10816969,club DJ,male,302
-Q1792566,whistle artist,female,2
-Q10475818,titular organist,male,12
-Q83638438,glass harmonica player,male,2
-Q1268911,spelman,female,5
-Q11321790,track maker,male,26
-Q753110,songwriter,genderfluid,11
-Q136489193,steel drummer,male,2
-Q177220,singer,null/unknown,4
-Q131417411,tambourine player,female,8
-Q753110,songwriter,cisgender man,1
-Q1198887,music director,female,117
-Q2865819,opera singer,female,11654
-Q55389920,aulete,male,5
-Q9648008,banjoist,female,54
-Q99576286,santurist,male,23
-Q2865819,opera singer,intersex woman,1
-Q61946839,jazz drummer,female,8
-Q639669,musician,transgender,12
-Q177220,singer,intersex woman,1
-Q60723829,pop singer,genderfluid,1
-Q24054289,dangdut singer,female,1
-Q13219637,cellist,undisclosed gender,1
-Q106580694,polka musician,female,1
-Q639669,musician,male,105235
-Q1863064,accordionist,female,225
-Q183945,record producer,genderqueer,4
-Q81729632,classical musician,female,14
-Q114961790,tambourinist,female,4
-Q66763708,country singer,female,42
-Q79376387,qanun performer,female,1
-Q177220,singer,genderfluid,27
-Q124369412,baÄŸlama player,male,1
-Q10475818,titular organist,female,3
-Q3153559,music interpreter,non-binary,1
-Q96625642,jazz harpist,male,1
-Q65554756,steel guitarist,male,14
-Q855091,guitarist,transfeminine,1
-Q106638895,mbira player,female,1
-Q64353861,jazz bassist,female,13
-Q956365,Liedermacher,male,631
-Q104849353,throat singer,male,6
-Q3153559,music interpreter,female,38
-Q66759319,flabioler,male,7
-Q639669,musician,cisgender woman,1
-Q3127709,harpist,male,344
-Q118865,clarinetist,female,159
-Q13219637,cellist,male,2968
-Q1792566,whistle artist,male,18
-Q104224860,disco musician,male,1
-Q386854,drummer,non-binary,4
-Q101567652,bugler,male,2
-Q97572814,wind instrument player,female,9
-Q106565196,musical saw player,male,3
-Q118865,clarinetist,genderfluid,1
-Q822146,lyricist,female,2085
-Q1259917,violinist,intersex,1
-Q19747285,academic musician,male,97
-Q3560496,fiddler,female,134
-Q956365,Liedermacher,female,140
-Q181922,citharode,female,1
-Q130857,disc jockey,genderfluid,5
-Q21680663,classical composer,genderqueer,1
-Q2391699,jazz violinist,female,7
-Q36834,composer,gender agnostic,1
-Q1062433,chanteuse,non-binary,1
-Q584301,bassist,female,141
-Q639669,musician,cisgender man,2
-Q488205,singer-songwriter,trans man,22
-Q486748,pianist,cisgender woman,1
-Q73399344,MC,female,8
-Q386854,drummer,male,6265
-Q22078111,cimbalom player,female,14
-Q55960555,recording artist,female,1653
-Q36834,composer,intersex trans woman,1
-Q73399344,MC,male,22
-Q183945,record producer,trans woman,29
-Q639669,musician,transfeminine,11
-Q4391922,church choirmaster,female,1
-Q106625143,choir singer,male,102
-Q855091,guitarist,transgender,1
-Q11565465,enka singer,male,19
-Q130606494,torbanist,male,8
-Q3127709,harpist,female,645
-Q100269042,tango singer,male,11
-Q12377274,trumpeter,non-binary,1
-Q15981151,jazz musician,trans man,2
-Q136374172,ophicleidist,male,6
-Q2252262,rapper,female,1217
-Q12800682,saxophonist,trans man,1
-Q386854,drummer,trans man,1
-Q12360214,bass guitarist,female,54
-Q63809325,regueifeiro / regueifeira,female,1
-Q85719095,merengue musician,male,2
-Q4801269,artistic director,undisclosed gender,1
-Q6168364,jazz guitarist,female,49
-Q855091,guitarist,genderfluid,2
-Q117217820,television composer,female,7
-Q12902372,flautist,female,641
-Q630993,bertsolari,female,134
-Q1863064,accordionist,androgyne,1
-Q3560496,fiddler,non-binary,1
-Q6554404,tambourinaire,male,582
-Q24841721,classical singer,male,54
-Q12846426,tar player,male,27
-Q104224740,dansband singer,female,15
-Q36834,composer,transgender,2
-Q12902372,flautist,male,1621
-Q822146,lyricist,agender,2
-Q105652965,schlager musician,female,1
-Q544972,trombonist,non-binary,2
-Q7131406,pannist,male,3
-Q67158337,bluegrass musician,male,11
-Q36834,composer,intersex,1
-Q639669,musician,agender,1
-Q1067977,hazzan,female,16
-Q130857,disc jockey,trans woman,36
-Q106750916,concert artist,female,18
-Q11321790,track maker,female,1
-Q130857,disc jockey,two-spirit,1
-Q100951393,jÅrurikatari,female,1
-Q488205,singer-songwriter,cisgender woman,1
-Q822146,lyricist,bigender,1
-Q21088197,fortepianist,male,21
-Q21550382,bagpiper,female,12
-Q124369412,baÄŸlama player,female,1
-Q177220,singer,bigender,3
-Q10666486,session musician,male,261
-Q51844772,shamisen player,female,17
-Q105652947,soul musician,male,26
-Q110818502,taiko player,non-binary,1
-Q102276804,gospel singer,male,72
-Q54844699,harmonium player,female,1
-Q3528729,timpanist,male,83
-Q798487,backing vocalist,male,92
-Q25829748,brass player,male,62
-Q60723829,pop singer,genderqueer,1
-Q104687202,meyxanaci,male,17
-Q2865819,opera singer,non-binary,4
-Q177220,singer,cisgender man,1
-Q11305911,sambista,male,21
-Q19729565,horn player,female,39
-Q139142334,classical oboist,female,2
-Q183945,record producer,null/unknown,2
-Q74093582,funk musician,male,6
-Q183945,record producer,male,17926
-Q61996187,classical pianist,male,377
-Q13391399,chansonnier,male,587
-Q9648008,banjoist,male,547
-Q109250234,Samba-enredo interpreter,female,6
-Q55960555,recording artist,transmasculine,1
-Q1076502,choir director,male,5437
-Q21234378,yodeler,male,49
-Q486748,pianist,transmasculine,2
-Q42303786,blues musician,female,15
-Q183945,record producer,transfeminine,1
-Q2391699,jazz violinist,male,41
-Q4854747,bandurist,female,76
-Q5358395,electronic musician,transfeminine,1
-Q106750916,concert artist,male,15
-Q59139094,cornettist,male,8
-Q81730334,classical trombonist,male,9
-Q105755601,chamber musician,female,15
-Q116811307,gamelan player,male,1
-Q3197853,klezmer musician,male,19
-Q101579657,clavichordist,male,6
-Q16156383,tubist,male,173
-Q691031,concertmaster,female,127
-Q99510107,sufi singer,female,4
-Q60723829,pop singer,trans woman,3
-Q4972949,Broder singer,male,1
-Q99576286,santurist,female,8
-Q135107015,orchestra leader,male,16
-Q855091,guitarist,cisgender man,2
-Q60723829,pop singer,non-binary,3
-Q753110,songwriter,intersex,1
-Q486748,pianist,non-binary,8
-Q13391399,chansonnier,female,101
-Q639669,musician,travesti,1
-Q21234378,yodeler,female,37
-Q81729510,classical violinist,male,150
-Q5358395,electronic musician,female,32
-Q64005969,calypso musician,male,2
-Q488205,singer-songwriter,female,7192
-Q21680731,opera composer,female,18
-Q98822525,scat singer,male,2
-Q488205,singer-songwriter,intersex,1
-Q2252262,rapper,genderqueer,1
-Q12360214,bass guitarist,male,788
-Q488205,singer-songwriter,transfeminine,2
-Q24054289,dangdut singer,male,1
-Q639669,musician,intersex woman,2
-Q36834,composer,undisclosed gender,1
-Q16156383,tubist,female,7
-Q1415090,film score composer,male,3519
-Q639669,musician,two-spirit,9
-Q3560496,fiddler,trans woman,1
-Q488205,singer-songwriter,male,12252
-Q18224494,organ grinder,male,6
-Q20850090,harmonicist,female,11
-Q1415090,film score composer,non-binary,2
-Q130857,disc jockey,intersex,1
-Q104224753,dansband musician,male,18
-Q4351403,percussionist,female,199
-Q639669,musician,null/unknown,19
+occupation,occupationLabel,male,non-binary,trans woman,female,null,undisclosed gender,agender,intersex man,transfeminine,cisgender woman,intersex trans woman,genderqueer,two-spirit,genderfluid,transmasculine,trans man,takatāpui,demiboy,intersex woman,transgender,travesti,apagender,neutral sex,bigender,intersex,cisgender man,androgyne,demigirl,non-binary woman,gender agnostic
+Q12800682,saxophonist,4134,1,2,330,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1792566,whistle artist,18,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q386854,drummer,6265,4,1,279,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Q1415090,film score composer,3519,2,6,211,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q88821468,fado musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q100269042,tango singer,11,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q81727892,jazz vibraphonist,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q639669,musician,105235,230,205,23342,19,4,1,2,11,1,1,24,9,16,10,37,2,0,2,12,1,0,1,1,4,2,1,0,0,0
+Q822146,lyricist,9419,7,1,2085,3,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Q5358395,electronic musician,195,1,2,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21088197,fortepianist,21,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q63536580,video game composer,91,0,0,13,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q103600172,surbaharist,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q13424456,hymnwriter,1655,0,0,393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q13219637,cellist,2968,0,0,841,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q855091,guitarist,18165,26,14,1647,0,0,0,0,1,1,0,3,0,2,0,4,0,0,0,1,0,0,0,0,0,2,0,0,0,0
+Q177220,singer,70810,199,195,60445,4,4,8,1,3,3,1,18,4,27,4,49,1,1,1,8,6,0,1,3,2,1,1,0,1,0
+Q81729510,classical violinist,150,0,0,106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105755601,chamber musician,34,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q691031,concertmaster,749,0,0,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q110829086,classical flautist,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q31271779,orchestra conductor,8,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3197853,klezmer musician,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q56418646,balalaikist,19,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q19723482,mandolinist,381,0,0,42,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104224740,dansband singer,18,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4801269,artistic director,54,0,0,13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q98523719,reggae musician,51,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q66314404,jazz singer,99,1,0,664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21234378,yodeler,49,0,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q115246813,plucked instrument player,13,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q6554404,tambourinaire,582,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1259917,violinist,9050,1,3,2778,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Q3074722,recorder player,82,0,0,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q13391399,chansonnier,587,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q66763708,country singer,50,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q121754124,electric guitarist,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q64005969,calypso musician,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q42227156,chorus master,68,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q753110,songwriter,22509,55,24,6220,1,0,3,0,1,1,0,7,1,11,1,9,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Q486748,pianist,20327,8,7,7759,0,1,0,0,0,1,0,1,0,0,2,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0
+Q24574678,cornetist,83,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q67892846,metal guitarist,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q112671900,raspevschik,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q136489193,steel drummer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q15981151,jazz musician,11120,2,3,1690,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Q7131406,pannist,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q136404940,serpentist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q107161894,trikitilari,17,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q61947786,jazz trumpeter,109,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1783698,concert singer,107,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q488205,singer-songwriter,12252,85,55,7192,1,0,1,0,2,1,1,13,0,17,2,22,1,0,0,1,3,1,0,0,1,0,0,1,0,0
+Q11305911,sambista,21,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21680663,classical composer,426,0,0,90,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Q21680731,opera composer,136,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q36834,composer,113929,65,50,15515,9,1,2,0,1,0,1,9,3,9,2,11,0,0,0,2,0,0,0,1,1,0,0,0,0,1
+Q101584469,military conductor,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106512734,cymbal player,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q11442087,Åtsuzumikata,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q130857,disc jockey,6236,21,36,978,0,1,1,0,1,0,1,4,1,5,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Q106625143,choir singer,102,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q118865,clarinetist,2040,2,0,159,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q73399344,MC,22,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q100539888,flÃ»te Ã  trois trous player,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q99576286,santurist,23,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4386521,biwa hÅshi,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q110829594,classical cellist,16,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q54844699,harmonium player,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q135107015,orchestra leader,16,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12310971,bassoonist,567,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q24067349,classical guitarist,656,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4391922,church choirmaster,37,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q81558583,salsa musician,14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q19747285,academic musician,97,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q51844772,shamisen player,58,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q20791985,bandoneonist,368,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q97572814,wind instrument player,124,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q183945,record producer,17926,34,29,1300,2,1,1,0,1,0,0,4,0,3,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Q67200504,heavy metal singer,15,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q20850090,harmonicist,175,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105175276,bossa nova singer,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q85873795,Vocaloid producer,41,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q2865819,opera singer,10535,4,6,11654,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Q55960555,recording artist,2860,14,7,1653,0,0,1,1,0,0,0,1,0,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Q81730334,classical trombonist,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q956365,Liedermacher,631,1,0,140,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1198887,music director,1552,3,0,117,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Q55389920,aulete,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q16156383,tubist,173,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q806349,bandleader,3133,0,0,99,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105754940,symphonist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q122499964,cantastorie,10,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q158852,conductor,24017,0,1,1399,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1214796,double-bassist,1249,0,1,84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q16003954,oboist,929,0,0,142,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106580694,polka musician,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q63243029,gospel musician,28,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q117043724,alphorn player,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q123678324,thereminist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21550382,bagpiper,109,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q97468869,French horn player,66,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q18224494,organ grinder,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104224860,disco musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q11565465,enka singer,19,0,0,28,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12795793,marimba player,10,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q67200257,estrada artist,21,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q117085438,kokle player,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q66763670,country musician,178,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q65554756,steel guitarist,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12377274,trumpeter,2593,1,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4087517,beatmaker,50,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q100493654,hip-hop musician,59,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q10816969,club DJ,302,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q111305456,fiscorn player,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q59139094,cornettist,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q544972,trombonist,960,2,0,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q10475818,titular organist,12,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4351403,percussionist,2287,0,1,199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q9648008,banjoist,547,0,1,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q124738290,podorythmist,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3127709,harpist,344,1,1,645,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q99460544,orchestral musician,46,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1268911,spelman,106,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1076502,choir director,5437,0,0,971,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q584301,bassist,1845,1,0,141,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q11418490,utasha,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q110818502,taiko player,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Q139142334,classical oboist,24,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q130606494,torbanist,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q67200506,metal musician,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q115463529,tsymbalist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q61996187,classical pianist,377,0,0,266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105652947,soul musician,26,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1067977,hazzan,453,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q98822525,scat singer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1643514,music arranger,6887,0,1,519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q2252262,rapper,9921,35,19,1217,0,0,2,0,2,0,0,1,0,7,2,7,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Q630993,bertsolari,463,0,0,134,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q47456580,oud player,51,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q110244331,bouzouki player,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q20198734,ondist,12,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q24841721,classical singer,54,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4926655,blind musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q60723829,pop singer,454,3,3,701,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q85719095,merengue musician,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q111213128,Director of the Percussion Band,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1062433,chanteuse,1,1,3,96,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q2391699,jazz violinist,41,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12902372,flautist,1621,0,0,641,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q102276804,gospel singer,72,0,0,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q19729565,horn player,897,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q79376387,qanun performer,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q135936594,bass clarinetist,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q798487,backing vocalist,92,0,0,181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q25829748,brass player,62,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q24054289,dangdut singer,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q25616474,woodwind instrument player,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q84488218,heavy metal bass guitarist,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q54935442,string arranger,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q118397797,flutist,9,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106565196,musical saw player,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q117217820,television composer,45,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q32999759,euphoniumist,17,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q60643157,ukulelist,11,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q124369412,baÄŸlama player,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105103729,bolero singer,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104224753,dansband musician,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q68942197,blues pianist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106604158,nyckelharpa player,71,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q140251484,battle rapper,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q96146337,hurdy gurdy player,13,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104224827,disco singer,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q114369765,djembe player,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q101084010,folk musician,555,0,0,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q51679083,sitarist,87,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3560496,fiddler,613,1,1,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105652965,schlager musician,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q136374172,ophicleidist,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q18749693,carillonist,87,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106750916,concert artist,15,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q107888647,piccolo player,3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q101579657,clavichordist,6,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q121484507,raÃ¯ musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q66759319,flabioler,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q100951393,jÅrurikatari,11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q116938279,jazz composer,24,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q109250234,Samba-enredo interpreter,49,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q16157763,kveder,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q765778,organist,10629,0,2,990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q2477135,lÄƒutar,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q124738259,melodist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q44894559,military musician,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q124738507,melodica player,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1294626,music artist,259,2,2,78,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q83638438,glass harmonica player,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105652933,pedal steel guitar player,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q99510107,sufi singer,5,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21855974,vibraphonist,102,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q181922,citharode,12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q116266848,jazz harmonicist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q124738271,rhythmist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q22078111,cimbalom player,41,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12360214,bass guitarist,788,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q11321790,track maker,26,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q64353861,jazz bassist,201,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106211908,morin khuur player,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106786801,basset hornist,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3528729,timpanist,83,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q134087378,setar player,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q67893090,heavy metal drummer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q119722274,cavaquinist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3153559,music interpreter,73,1,1,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q56441179,domra player,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q131417411,tambourine player,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105175076,bossa nova musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12846426,tar player,27,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q51397277,tocaor,22,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105754803,symphonist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q107590560,cor anglais player,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104687202,meyxanaci,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q113097821,trapper,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q61946839,jazz drummer,193,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q63197546,classical trumpeter,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q88105790,concertinist,7,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q72268111,boha player,10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q91478678,tÃ¡rogatÃ³ player,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q116973500,Sasanduist,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4854747,bandurist,350,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q42303786,blues musician,208,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104849353,throat singer,6,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q139945881,kanklist,4,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q96625642,jazz harpist,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q21166956,lutenist,486,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q130757565,ocarinist,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q67158337,bluegrass musician,11,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q63809325,regueifeiro / regueifeira,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q125522990,nadaswaram player,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q136773949,manipulator,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q81729632,classical musician,19,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q107467726,gamelan conductor,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q17220304,Enka,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q94949794,Occitania string tambourine player,6,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q116811307,gamelan player,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q98523757,reggae singer,18,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q136324624,lyrist,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q62747204,big band musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q12868609,sazanda,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q101567652,bugler,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q117288102,cittern player,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q502323,goze,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q10666486,session musician,261,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q113621223,soukous musician,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q1863064,accordionist,984,0,0,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Q74093582,funk musician,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q6168364,jazz guitarist,1661,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q104218554,rock singer,175,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q63643090,fado singer,15,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q105440662,rockabilly musician,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q64168477,principal flute,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q11308619,synthesizer player,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106302506,didgeridooist,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q42303796,boogie-woogie musician,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q106638895,mbira player,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q3477050,second violin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q114961790,tambourinist,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Q4972949,Broder singer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -91,7 +91,7 @@ def addEntityLabels(dictionary):
 '''
 This function takes in a string (which is time) and extarcts the year out of it to return a integer
 '''
-def getYear(time: str) -> int:
+def getYear(time: str) -> int | None:
     try:
         date_time = dt.datetime.strptime(time, "%Y-%m-%dT%H:%M:%SZ")
         date_time = date_time.strftime('%Y')
@@ -99,4 +99,4 @@ def getYear(time: str) -> int:
     except:
         #This is for the situations where there is no start and end of work period so it doesn't return 
         #an error
-        return time
+        return None
