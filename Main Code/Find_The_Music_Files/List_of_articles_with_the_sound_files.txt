@@ -1,0 +1,3329 @@
+POLYPHONY,{'File:BachBWV862Bar.mid'}
+GOTHIC METAL,{'File:Within Temptation - Mother Earth.ogg', 'File:Epica - Facade of Reality.ogg', 'File:Theatre of Tragedy - A Hamlet for a Slothful Vassal.ogg', 'File:Tristania - Angina.ogg'}
+OPERA,{'File:No Pagliaccio non son.ogg', 'File:Wolfgang Amadeus Mozart - Don Giovanni - Overtüre.ogg', 'File:Pasquale Amato, Georges Bizet, Chanson du toréador, Carmen.ogg', 'File:Stay, Prince and hear.ogg', 'File:La Donna E Mobile Rigoletto.ogg'}
+PUNK ROCK,{'File:Anarchy in the UK.ogg', 'File:The Exploited Punks not dead.ogg'}
+MUSICAL THEATRE,none
+TRADITIONAL FOLK MUSIC,none
+ZOUK,none
+MINIMAL MUSIC,none
+MUSIC OF JAMAICA,none
+MBALAX,none
+GIGUE,none
+ARIA DI SORBETTO,none
+METALCORE,none
+JAZZ,{'File:New orleans blues corrected.mid', 'File:Shuffle feel straight.mid', 'File:Shuffle feel.mid', 'File:Tresillo divisive.mid', 'File:Maple Leaf Rag seventh chord resolution.mid', 'File:Tresillo+ backbeat.mid', 'File:3-2 son clave.mid', 'File:Big four Buddy Bolden.mid', 'File:Cinquillo.mid', 'File:OriginalDixielandJassBand-JazzMeBlues.ogg'}
+LATIN ROCK,none
+DOWNTEMPO,{'File:Wickethewok - Deepecho.ogg'}
+JOTA (MUSIC),none
+ALPINE FOLK MUSIC,none
+ROCK OPERA,none
+NEW WAVE MUSIC,none
+SYMPHONY,{'File:Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - iii. allegro.ogg', 'File:Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - iv. allegro.ogg', 'File:Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - ii. andante con moto.ogg', 'File:Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - i. allegro con brio.ogg'}
+SYMPHONIC POEM,none
+MUSIC OF THE UNITED KINGDOM,none
+EARLY MUSIC,none
+TEJANO MUSIC,none
+ALTERNATIVE COUNTRY,none
+ALTERNATIVE HIP-HOP,none
+JAZZ STANDARD,none
+BEND-SKIN,none
+SHOEGAZE,{'File:Soon.ogg', 'File:1998- karaoke.wav', 'File:Soon (My Bloody Valentine song - sample).ogg'}
+MUSIC OF CAPE VERDE,none
+NEO SOUL,none
+MOTET,none
+MUSIC OF BHUTAN,none
+NEW ROMANTIC,none
+FREE IMPROVISATION,none
+DREAM POP,{'File:Chorus + delay (electric guitar) stereo.ogg'}
+CHACARERA,none
+TECH HOUSE,none
+CLASSICAL MUSIC,{'File:Clair de lune (Claude Debussy) Suite bergamasque.ogg', 'File:W. A. Mozart - Die Zauberflöte - 03. Der Vogelfänger bin ich ja (Ferenc Fricsay, 1953).ogg', 'File:The Tudor Consort - Thomas Tallis - Loquebantur variis linguis.ogg', 'File:Piano Sonata N° 1 - 1. Allegro (Beethoven, Schnabel).ogg', "File:Alfonso Ferrabosco the Elder (1543-1588) - Fantasia 'Di Sei Bassi’ NYp, Drexel 4302, p.255, no.45.ogg", 'File:US Marine Band Rhapsody in Blue.oga', 'File:Johann Sebastian Bach - The Well-tempered Clavier - Book 1 - 02Epre cmaj.ogg', 'File:Ludwig van Beethoven - Symphonie 5 c-moll - 1. Allegro con brio.ogg', 'File:Vivaldi - Four Seasons 1 Spring mvt 1 Allegro - John Harrison violin.oga', 'File:Bolero-Maurice Ravel-Paris Orchestra-Charles Munch-1956.ogg', 'File:Ride of the Valkyries.ogg', 'File:"An der schönen, blauen Donau" performed by the U.S. Marine Band.flac', 'File:Telemann - Concert Suite in D major TWV55d6 - 6. Courante.ogg', 'File:Breves dies hominis.ogg', 'File:01Haydn NelsonMass-Kyrie.ogg', 'File:Dance of the Sugar Plum Fairies (ISRC USUAN1100270).mp3'}
+BAROQUE MUSIC,none
+POST-PUNK,none
+A CAPPELLA,none
+RAGTIME,{'File:Maple Leaf RagQ.ogg', 'File:Lyons and Yosco - Spaghetti Rag (1910).ogg'}
+FADO,none
+DOOM METAL,none
+FRANCO-FLEMISH SCHOOL,none
+FOLK ROCK,{'File:Beatles hide your love away.ogg', 'File:KingstonTrioTomDooley.ogg', 'File:Beatles loser.ogg'}
+CONCERTO,none
+BLUES,{'File:Blues shuffle in E.mid', 'File:"Texarkana and Northern" Boogie-woogie bassline.mid', 'File:Gamme blues la mineur.mid'}
+ANTI-FOLK,none
+LAUDA (SONG),none
+DESCANT,none
+GRINDCORE,{'File:Blast beat.ogg'}
+ELECTROPOP,none
+SCHUHPLATTLER,none
+MELODIC DEATH METAL,none
+FLAMENCO,none
+TSWANA MUSIC,none
+NU METAL,{'File:Headup - Deftones featuring Max Cavalera.ogg', 'File:Korn - Falling Away from Me.ogg', 'File:Slipknot - Surfacing.ogg'}
+DITHYRAMB,none
+GLAM METAL,none
+CRAB CANON,{'File:Crab canon.mid'}
+NEO-MEDIEVAL MUSIC,none
+MUSIC OF CHINA,{'File:Guqin-Yangguan Sandie.ogg', 'File:Guqin-Zuiyu Changwan.ogg', 'File:二泉映月.ogg'}
+SWING REVIVAL,none
+ENSALADA (MUSIC),none
+UK RAP,none
+ROMANCE (MUSIC),none
+AMERICAN PRIMITIVE GUITAR,none
+PAEAN,{'File:LL-Q1860 (eng)-Naomi Persephone Amethyst (NaomiAmethyst)-Paean.wav'}
+HIP HOUSE,none
+ORGANUM,{'File:Perotinus - organum Quid tu vides.ogg'}
+NAZI PUNK,none
+GOSPEL MUSIC,{'File:The Golden Jubilee Quartet - Oh Jonah.ogg', "File:The Four Brothers - Death Come a-Knockin'.ogg", "File:Cochran Field Singers - My Lord Is Writin'.ogg", 'File:Bertha Houston - We are Americans, Praise the Lord.ogg', 'File:The Spiritual Four Quartet - John the Revelator.ogg', 'File:Middle Georgia Singers - Death is an Awful Thing.ogg'}
+JINGLE,none
+DUNEDIN SOUND,none
+ROCKSTEADY,{'File:Ska-Rock Steady on D and Em64.mid'}
+SOPHISTI-POP,none
+ROCK AND ROLL,none
+RESPONSORY,none
+ELECTRO SWING,none
+COMEDY HIP-HOP,none
+LAMENTATIONS OF JEREMIAH THE PROPHET,none
+FORRÓ,none
+KHALIJI (MUSIC),none
+ANTIPHON,{'File:Liber Usualis 0340a.mid', 'File:Liber Usualis 0340b.mid'}
+PORNOGRIND,none
+OI!,none
+DRUM AND BASS,{'File:Ars Niemo - Small Talk Build IV.ogg'}
+RUBA'I,none
+ZYDECO,none
+MUSIC OF CYPRUS,none
+PAVANE,{'File:Maurice Ravel - Thérèse Dussaut - Pavane pour une infante défunte.ogg', 'File:John Jenkins (1592-1678) - Pavan à6 in F, VdGS No.2 (ca.1667).ogg'}
+HARD BOP,none
+NEOTRADITIONAL COUNTRY,none
+SAMBA REGGAE,none
+SKA PUNK,none
+MUSIC IN ADVERTISING,none
+GERMAN HIP-HOP,none
+MUSIC OF JAPAN,none
+ULTRA (MUSIC),none
+NOVA CANÇÓ,none
+JAZZ RAP,none
+MIAMI BASS,none
+MAXIXE (DANCE),{'File:Atraente chiquinha pixinguinha.ogg', 'File:Amapá - Dante Santoro - 1941- Juca Storoni.ogg', 'File:ESCOVADO (Ernesto Nazareth) - Ernesto Nazareth 1907.ogg', 'File:Corta jaca 1912.ogg', 'File:Cigana de Catumbi - maxixe - 1925 - José Resende de Almeida - Orquestra Cícero.ogg'}
+BEAT MUSIC,none
+INDIAN FILM MUSIC,none
+CUBAN RUMBA,{'File:Four common timbale bell patterns 2.mid', 'File:Four common timbale bell patterns 1.mid', 'File:Four common timbale bell patterns 4.mid', 'File:Four common timbale bell patterns 3.mid'}
+HARDCORE (ELECTRONIC DANCE MUSIC GENRE),none
+MARIACHI,none
+EXTREME METAL,none
+CHANGE RINGING,{'File:Tittums.ogg', 'File:Rounds.ogg', 'File:Back Rounds.ogg', 'File:Queens.ogg', 'File:Bob Minor, Synthesised Bell Sounds.ogg'}
+FUGUE,{'File:Fugue in C major by Johann Caspar Ferdinand Fischer.mid', 'File:Mozart Symphony 41, finale, fugal passage.wav', 'File:Wiki fugue analysis audio.mid'}
+ELECTRONIC MUSIC,none
+DOO-WOP,none
+LATIN POP,none
+RAPPING,{'File:Joe Hill Louis - Gotta Let You Go.ogg'}
+CONJUNTO,none
+MUSIC OF ISRAEL,{'File:Chava Alberstein - Lemele.ogg', 'File:PashutVeAmiti.ogg', 'File:Ayliluli.ogg', 'File:Ghareeba (Kamilya Joubran song - sample).ogg', 'File:Eliphelet.ogg', 'File:You Land.ogg', 'File:Sleep My Child.ogg', 'File:Truth God Your Name.ogg', 'File:LaKahatEtYadiBeYadeh.ogg', 'File:Shadmati.ogg', 'File:RaashLavan.ogg', "File:There's No Mighty Like Almighty.ogg", 'File:Shavlul.ogg', 'File:Nehederet.ogg', 'File:Moshe.ogg', 'File:We Will Be The First Pioneers.ogg', 'File:ShtuHaAdarim.ogg', 'File:HaPerachBeGani.ogg', 'File:AmalMurkus.OGG', 'File:Ghareeba.ogg', 'File:TcholHamitpachat.ogg'}
+AIR DE COUR,{'File:Enfin la Beauté.ogg', 'File:Je.suis.ravi.de.mon.Uranie.ogg'}
+JEONGAK,none
+JUMPSTYLE,none
+INTUITIVE MUSIC,none
+AIR (MUSIC),none
+SKA JAZZ,none
+NOISE ROCK,none
+STRIDE (MUSIC),none
+INDIE ROCK,none
+CHAMBER MUSIC,{'File:Bartók - Sonata for two pianos and percussion - Assai lento - Allegro molto (clip).ogg', 'File:Brahms - Clarinet Quintet - 1. Allegro.ogg', 'File:Franz Schubert - Octet - 1. Adagio - Allegro.ogg', 'File:Schoenberg Quartet No. 2 4th movement.OGG', 'File:Schumann Op 44 Explained.OGG', 'File:Mendelssohn Op13 third movement.OGG', 'File:Bartok Op. 17, Second Movement.OGG', 'File:Wolfgang Amadeus mozart - String Quintet No. 4 K.516 - 1. Allegro.ogg'}
+REGGAE,{'File:Reggae double riff on D and Em64 shuffle.mid', 'File:Reggae double riff on D and Em64 straight.mid', 'File:En-us-reggae.ogg'}
+EMO,{'File:Mineral - If I Could.ogg', 'File:The Promise Ring - Why Did We Ever Meet.ogg', 'File:Jawbreaker - Kiss the Bottle.ogg', 'File:Jimmy Eat World - The Middle.ogg', 'File:Rites of Spring - Remainder.ogg'}
+HARDCORE PUNK,none
+SPACE ROCK,none
+MADRIGAL,none
+AMBIENT MUSIC,{'File:Moby - LA1.mp3', 'File:Tamaki Tso - La Silla - 01 Interstellar.flac'}
+BRITPOP,none
+TRIP ROCK,none
+GROOVE METAL,none
+ACID ROCK,{'File:Psychotic Reaction - Count Five.ogg', 'File:Sky Pilot Animals.ogg', 'File:In-a-Gadda-Da-Vida sample.ogg'}
+GRUNGE,none
+SCREAMO,{'File:Thursday Cross Out The Eyes.ogg', 'File:Loma Prieta - Fly By Night.ogg', 'File:Bang Yer Head.ogg'}
+LGBTQ REPRESENTATION IN HIP-HOP,none
+MUSIC OF PUERTO RICO,none
+ACOUSMATIC MUSIC,none
+ALBUM-ORIENTED ROCK,none
+WEST COAST HIP-HOP,none
+HOKKIEN POP,none
+BLUES ROCK,none
+KRAUTROCK,none
+ABENDMUSIK,none
+LULLABY,{'File:Suo Gan - Susan Bullock (Darlun Fy Mam).oga', 'File:Nana - Macastre (8-A).ogg'}
+ROCK MUSIC,none
+NOCTURNE,none
+TARANTELLA,none
+SLOW JAM,none
+SYNTH-PUNK,none
+ALTERNATIVE ROCK,none
+HIP-HOP,{'File:Pigmeat Markham - Here Comes the Judge.ogg'}
+INDIETRONICA,none
+COOL JAZZ,none
+ELECTRONIC ROCK,none
+GERMAN JAZZ,{'File:Cool in Rhythmn basset clarinet solo improvisation 2008.ogg'}
+GHAZAL,none
+PIPHAT,{'File:Piphat in Wat Khung Taphao.ogg', 'File:ปี่พาทย์.ogg'}
+PANSORI,{'File:Song Mangab - Jingukmyeongsan.ogg'}
+ACID TRANCE,none
+DEATH METAL,none
+GAMELAN,none
+ZEUHL,none
+FOLK METAL,{'File:Shaman - Il Lea Voibmi.ogg', 'File:Skyclad - The Widdershins Jig.ogg', 'File:Orphaned Land - The Kiss Of Babylon (The Sins).ogg', 'File:Korpiklaani - Wooden Pints.ogg', 'File:Balkandji - Diavolska shterka.ogg', 'File:Subway to Sally - Krähenfrass.ogg', 'File:Finntroll-slaget vid blodsalv.ogg', 'File:Khepri The Fangs of Apep oriental metal vocals.ogg'}
+ANATOLIAN ROCK,none
+ZIGLIBITHY,none
+OVERTURE,{'File:Pyotr Ilyich Tchaikovsky - 1812 overture.ogg'}
+RENAISSANCE MUSIC,{'File:Avemarisstella.mid'}
+PROGRESSIVE METAL,none
+THRASH METAL,none
+ACOUSTIC MUSIC,none
+ETHEREAL WAVE,{'File:Trance to the Sun - Head Horse Lake.ogg', 'File:Ethereal Medley.ogg'}
+PUNTA,{'File:Punta Music Example.ogg'}
+MERENGUE MUSIC,none
+DANCE MUSIC,{'File:Soft and Furious - 03 - Lucidity.ogg'}
+LOWERCASE (MUSIC),none
+JARANA YUCATECA,none
+SON MONTUNO,{'File:Son Clave Pattern duple.mid', 'File:2-3 Son Clave.MID'}
+MUSIC OF RAJASTHAN,none
+GALLIARD,none
+REGGAETON,{'File:Perreo Wiki.wav', 'File:Summer 1995 Music scene at beach in Vega Baja, Puerto Rico - Snoop Dogg cameo.ogg', 'File:Dembow Perreo, Classic Dembow, and Rich Dembow Beats.ogg'}
+TRIBAL HOUSE,none
+BERCEUSE,none
+COUNTRY ROCK,none
+EXPRESSIONIST MUSIC,none
+CANADIAN HIP-HOP,none
+MUSIC OF POLAND,{"File:Polish National Dance Charles D'Almaine.ogg"}
+ITALIAN HIP-HOP,none
+POP ROCK,none
+APPENZELLER STRING MUSIC,none
+PSYCHEDELIC TRANCE,{'File:The Rainbow God.ogg', 'File:Square Punch - Thundercat.flac', 'File:Aghori tantrik - freaks of byron bay (sonic tantra recs)-02.ogg', 'File:Inavon - 3303.ogg'}
+ROCKABILLY,{'File:Bill Haley and His Comets - Rock Around the Clock.ogg', "File:That's All Right (Elvis song - sample).ogg", 'File:Thatsallright.ogg'}
+DUBSTEP,none
+ARABESQUE (CLASSICAL MUSIC),none
+ARABESQUE (TURKISH MUSIC),none
+ALEATORIC MUSIC,none
+DANCEHALL,none
+SKIFFLE,none
+DEATHCORE,none
+DISCO HOUSE,none
+MUSIC OF AFRICA,none
+PACHANGA,none
+WIENERLIED,none
+CABALETTA,none
+LHAMO,none
+SONORISM,none
+NEOCLASSICAL NEW-AGE MUSIC,none
+PIREKUA,none
+MATHCORE,none
+CIRCUS MUSIC,{'File:Julius Fučík\'s "Entrance of the Gladiators", performed by the United States Marine Band.wav', 'File:RollingThunder (USAFB).ogg', 'File:The Circus Bee.ogg'}
+PSYCHEDELIC ROCK,{'File:Byrds - Eight Miles High.ogg', 'File:Rain - The Beatles.ogg'}
+MUSIC OF NAMIBIA,none
+ANIME SONG,none
+HI-NRG,none
+KASEKO,none
+ANDALUSI CLASSICAL MUSIC,none
+ARABIC MUSIC,none
+ARABIC POP,none
+STONER ROCK,none
+APALA,none
+CONTEMPORARY CLASSICAL MUSIC,none
+CANZONA,none
+HOUSE MUSIC,{'File:909 house pattern.ogg', 'File:House Music Demo.ogg'}
+NEW WAVE OF BRITISH HEAVY METAL,{'File:Saxon - Denim and Leather.ogg', 'File:Metallica - Am i Evil.ogg'}
+TWEE POP,none
+BOSSA NOVA,{'File:Bossa-nova-rhythm1.mid', 'File:Br-BossaNova.ogg'}
+SAMBA,{'File:Samba de fato 1932.ogg', 'File:O QUE SERÁ DE MIM- Francisco Alves e Mário Reis 1931.ogg', 'File:Br-Samba.ogg', 'File:Agora é Cinza-Mario Reis-Bide e Marçal1933.ogg', 'File:Pelo Telephone (1916).ogg', 'File:Na Pavuna-Almirante-Homero Dornelas1929.ogg', 'File:Primeira Linha-Benedito Lacerda e Gente do Morro-Heitor dos Prazeres1930.ogg', 'File:UVA DE CAMINHÃO - Carmen Miranda 1939.ogg'}
+JUKEBOX MUSICAL,none
+MANELE,none
+MUSIC OF ARGENTINA,{'File:CELLO ENCORES JOHN MICHEL-Mats Lidstrom Tango.ogg'}
+TULSA SOUND,none
+PROGRAM MUSIC,none
+CONCERTO GROSSO,{'File:Corelli - Concerto Grosso Op. 6 No. 4 - 1. Adagio - Allegro.ogg'}
+ROMANTIC MUSIC,none
+SCHOTTISCHE,none
+YUGOSLAV NEW WAVE,none
+NEUE DEUTSCHE WELLE,none
+ARGENTINE ROCK,none
+BRITISH INVASION,none
+BONGO FLAVA,none
+SICILIANA,{'File:TelefunkenE2688 01.oga', 'File:Rachmaninoff Prelude in B Minor, Op. 32, No. 10.oga', 'File:Mozart - Piano Sonata No. 11 in A major - I. Andante grazioso.ogg', 'File:Bach - Flute Sonata E flat Maj - 2. Siciliana.ogg', 'File:Johannes Brahms - Variations and Fugue on a Theme by Handel - 19.ogg'}
+BERTSOLARITZA,{'File:Maialenlujanbio.ogg', 'File:LL-Q8752 (eus)-Eider Apezetxea Gogortza-Bertsolaritza.wav', 'File:Aitorrenizkuntzzarra.ogg'}
+TIENTO,none
+FANFARE,{'File:Fanfares of President of the Czech Republic.ogg'}
+INDUSTRIAL FOLK MUSIC,none
+ARABIC HIP-HOP,none
+ELECTRO HOUSE,none
+ÉTUDE,{'File:20091104 Awadagin Pratt - Scriabin, Étude Op. 8 No. 12 edit1.ogg', 'File:Chopin, Frédéric - Opus 25 - Twelve Grand Etudes - a minor (2).ogg', 'File:Frederic Chopin - Opus 25 - Twelve Grand Etudes - a minor (2).ogg'}
+SALSA MUSIC,{'File:Son clave.ogg'}
+ANARCHO-PUNK,none
+SYMPHONIC METAL,{'File:Abyss of Time - Countdown to Singularity.ogg', 'File:Fall Of An Empire - Chapter 3 - Heavy Is The Crown (instrumental).ogg', 'File:The Time Has Come.ogg'}
+MUSIC OF URUGUAY,none
+ROCK MUSIC IN GERMANY,none
+ARGENTINE TANGO,none
+BROSTEP,none
+MOOMBAHTON,none
+PASODOBLE,none
+INDUSTRIAL METAL,none
+BAGAD,none
+CLASSICAL PERIOD (MUSIC),{'File:Divertimento in E-flat major - KV 113 - 2nd movement.oga', "File:Muzio Clementi - sonata in g minor no.3, op 50, 'didone abbandonata' - ii. adagio dolente.ogg"}
+SWING MUSIC,none
+POPULAR MUSIC,none
+ELECTRONIC BODY MUSIC,none
+TIMBA,none
+ELECTRIC BLUES,none
+INSTRUMENTAL,{'File:Steve Combs Delta Is - 01 - Theme Q.ogg'}
+GARAGE ROCK,{'File:Psychotic Reaction - Count Five.ogg', "File:Let's Dance - Chris Montez.ogg", 'File:Louie Louie - Kingsmen.ogg', 'File:Question Mark 96 Tears.ogg'}
+SPEED METAL,none
+BATUCADA,none
+ANCIENT MUSIC,none
+ALTERNATIVE METAL,none
+PROTO-PUNK,none
+GREGORIAN CHANT,{'File:Alma Redemptoris Mater.ogg', 'File:Epistle for the Solemn Mass of Easter Day.ogg', 'File:Gradual chant - Universi qui te expectant.ogg', 'File:Kyrie 55, Vatican ad lib. VI, Cambrai.ogg', 'File:Gaudeamus omnes - Graduale Aboense.ogg', 'File:De profundis.ogg', 'File:Loquetur Dominus.ogg'}
+COLINDĂ,none
+ABSOLUTE MUSIC,none
+HYMN,{'File:Battle Hymn of the Republic, Frank C. Stanley, Elise Stevenson.ogg', "File:Ein' Feste Burg.ogg", 'File:Shen khar venakhi1.ogg', 'File:Love Divine All Loves Excelling.oga', 'File:गारम्(अच्छावाकशस्त्रम्).ogg'}
+ACCENTUS,none
+HAPPY HARDCORE,none
+AFRO/COSMIC MUSIC,none
+POP-PUNK,none
+WORLD MUSIC,none
+SWEDISH HIP-HOP,none
+STRATHSPEY (DANCE),none
+ACID TECHNO,none
+ACID HOUSE,{'File:Two Simple 303 Patterns.ogg', 'File:Overdriven TB303 Patterns varying resonance.ogg'}
+MUSIC OF THE NETHERLANDS,{'File:Lang zal hij leven.ogg'}
+POST-HARDCORE,none
+LOGOBI,none
+POP MUSIC,{"File:Righteous Brothers - You've Lost That Lovin' Feelin'.ogg"}
+AVANT-GARDE METAL,none
+MEDIEVAL FOLK ROCK,none
+TRIP HOP,{'File:Massive Attack - Teardrop.ogg'}
+KULNING,{'File:Kulning.ogg'}
+POST-GRUNGE,none
+JAZZ-FUNK,none
+HEAVY METAL MUSIC,{'File:Heavy rythmic pattern audio.ogg'}
+BOLERO (SPANISH DANCE),none
+INDUSTRIAL MUSIC,none
+LOUISIANA BLUES,none
+QAWWALI,none
+MEMPHIS BLUES,{'File:Victor Military Band-The Memphis Blues.ogg'}
+COUPÉ-DÉCALÉ,none
+SARABANDE,{'File:Zarabanda de la partie III de la Neue Clavierübung de Johan Kuhnau.mid'}
+RUSSIAN POP,none
+ADULT CONTEMPORARY MUSIC,none
+ARENA ROCK,none
+FILM SCORE,none
+BUDDHIST MUSIC,none
+ANDEAN MUSIC,none
+RHYTHM AND BLUES,{'File:Misery piano part professor longhair.mid'}
+GOTHIC ROCK,{'File:Fields of the Nephilim - Moonchild.ogg'}
+TROT (MUSIC),{'File:Yun Sim-Deok - In Praise of Death.ogg', 'File:Camellia Lady by Lee Mi-ja (15 seconds sample).ogg', 'File:Nam Jin - With You (15 seconds sample).ogg', 'File:Na Hoon-a - Waterwell Is Turning (15 seconds sample).ogg', 'File:Park Hyang-rim - Oppaneun punggakjaeng-i.ogg'}
+NORTEC,none
+MUSIC OF AFGHANISTAN,none
+AFOXÊ,none
+STREET PUNK,none
+PSYCHEDELIC POP,none
+ARS NOVA,none
+MARCH (MUSIC),{'File:01 軍艦行進曲.ogg', 'File:Bagong Pagsilang (March of the New Society).oga', 'File:Florentiner March.ogg', 'File:Drum - Cadence B.ogg', 'File:The Circus Bee.ogg', 'File:Lupang Hinirang instrumental.ogg', 'File:1-01 分列行進曲.ogg', 'File:USMC stars stripes forever.ogg', 'File:Drums - Four Flams.ogg', 'File:Drum - Cadence A.ogg', 'File:Radetzky March.ogg'}
+CHRISTMAS CAROL,{'File:U.S. Army Band - This Endris Night.ogg'}
+MORNA (MUSIC),none
+WORK SONG,none
+XOTE,none
+BEBOP,{'File:"Bebop-rebop" early bop phrase.mid'}
+ORATORIO,{'File:Handel Messiah Hallelujah by Oratorio Chorus.ogg'}
+DIVERTIMENTO,none
+KRAKOWIAK,none
+POST-ROCK,none
+TWO-TONE (MUSIC GENRE),none
+AFRO HOUSE,none
+AFROBEAT,none
+AFRICAN-AMERICAN MUSIC,none
+MALOYA,none
+TRAD JAZZ,none
+HARD ROCK,none
+GSTANZL,none
+CA TRÙ,none
+BAROQUE POP,{'File:Walk Away Renee.ogg'}
+MASHUP (MUSIC),none
+ALBANIAN ISO-POLYPHONY,none
+REEL (DANCE),{'File:Dancing Willow - Demo-CD 2007 01 - The wind that shakes that Barley.ogg', 'File:Dancing Willow - Demo-CD 2007 05 - Drowsy Maggie.ogg'}
+JAZZ FUSION,none
+CROSSOVER MUSIC,{'File:Canon and Gigue in D.ogg'}
+AFRICAN HIP-HOP,none
+FREESTYLE RAP,none
+TWIST (DANCE),none
+SHOW TUNE,none
+ART PUNK,none
+INTELLIGENT DANCE MUSIC,none
+FUNK METAL,none
+YASS (MUSIC),none
+MUSIC OF FRANCE,{'File:Petits Chanteurs de Passy - Pavane de Thoinot Arbeau.ogg', 'File:Erik Satie - gymnopedies - la 1 ere. lent et douloureux.ogg', 'File:Maurice Ravel - Thérèse Dussaut - Pavane pour une infante défunte.ogg', 'File:Emile Vacher - Mado - French Musette.ogg', 'File:Léo Delibes - Lakmé Duo des fleurs - French Opera - Natalie Dessay & Delphine Haidan.ogg'}
+ROCK AND ROLL REVIVAL,none
+PROGRESSIVE ROCK,{'File:The Fourth Colour.mp3', 'File:King Crimson - The Court of the Crimson King.ogg', 'File:Dream Theater - A Change of Seasons (excerpt).ogg'}
+SKA,{'File:Skank on Em64.mid', 'File:Ska-Rock Steady on D and Em64.mid'}
+COUNTRY BLUES,none
+PROGRESSIVE FOLK,none
+DETROIT BLUES,none
+NEO-PSYCHEDELIA,none
+SAMUL NORI,none
+NANGUAN MUSIC,none
+KOREAN COURT MUSIC,none
+CHASTUSHKA,none
+JONGO,none
+SERIALISM,none
+DIGITAL HARDCORE,{'File:Rabbit Junk Locked.ogg'}
+POWER METAL,{'File:Riot - Thundersteel (Clip).ogg', 'File:Helloween halloween.ogg', 'File:Rhapsody - Wisdom of the Kings (clip).ogg'}
+BOOGIE-WOOGIE,{'File:"Texas & Pacific" boogie woogie bass.mid', 'File:"Texarkana and Northern" Boogie-woogie bassline.mid'}
+KLEZMER,none
+AUSTRIAN HIP-HOP,none
+GLEE (MUSIC),none
+ARIOSO,none
+BREAKBEAT,{'File:Amidst the Raindrops clip.ogg'}
+UNYAGO,none
+DISCO,{'File:Characteristic disco bass rhythm.mid', 'File:Characteristic disco drum pattern.mid'}
+DRONE MUSIC,{'File:Amœba - someday i will be like noraus..ogg'}
+BARCAROLLE,{"File:Mikhail Glinka's Barcarole in G major, from Four Musical Essays (1847).ogg"}
+RAPSO,none
+FREESTYLE MUSIC,none
+RIOT GRRRL,none
+SEVDALINKA,{'File:Sevdah - (Gitarre) Zute Dunje.ogg', 'File:Sevdah - (Floete) Sto te Nema.ogg', 'File:Sevdah - (Floete) Kad ja podjoh na bembasu.ogg', 'File:Sevdah - (Gitarre) ne klepeci nanulama.ogg', 'File:Sevdah - (Gitarre) U Stambolu na Bosforu.ogg', 'File:Sevdah - (Gitarre) kad ja podjoh.ogg', 'File:Sevdah - (Gitarre) anadolka.ogg'}
+SWAMP ROCK,none
+COCO (MUSIC),none
+NUEVA TROVA,none
+REGGAE EN ESPAÑOL,none
+PUNGMUL,none
+NEW GERMAN SCHOOL,none
+SOGAK,none
+CHORALE CANTATA,none
+ACID BREAKS,none
+VOCAL MUSIC,none
+POST-METAL,none
+CAVATINA,none
+BACHATA (MUSIC),none
+ACCLAMATIO,none
+COUNTRY MUSIC,none
+FOLK MUSIC,{'File:Ada Jones und Len Spencer, Return of the Arkansas Traveler, Indestructible Record 3108, 1910.mp3'}
+INDIE MUSIC,none
+NEUE DEUTSCHE HÄRTE,none
+SWAMP BLUES,none
+GAITA ZULIANA,none
+NEW-AGE MUSIC,none
+VIKING METAL,none
+FREE JAZZ,none
+DANCE-POP,none
+ATONALITY,none
+DHRUPAD,none
+CALINDA,none
+TUMBA (MUSIC),none
+FUNERAL DOOM,none
+ZAMACUECA,none
+MIZRAHI MUSIC,none
+MUSIC OF NIGERIA,none
+MÉLODIE,none
+PRELUDE (MUSIC),none
+ITALIAN OVERTURE,none
+GYPSY PUNK,none
+GAGAKU,none
+CATALAN RUMBA,none
+RAGGA JUNGLE,none
+VISUAL KEI,none
+MANTRA,none
+CHRISTIAN PUNK,none
+KHYAL,none
+GLAM ROCK,none
+THUMRI,none
+TAPPA,none
+THIRD STREAM,none
+MELODIC HARDCORE,none
+TROPIPOP,none
+ANTHEM,none
+KOREAN MUSIC,none
+SANJO (MUSIC),none
+CHANGGEUK,none
+NAKASI,none
+AAK,none
+J-POP,none
+BEL CANTO,none
+SPIRITUALS,none
+DUB MUSIC,none
+NEW ORLEANS BLUES,none
+ELECTRO (MUSIC),none
+CHORALE,none
+BEATBOXING,none
+ITALO HOUSE,none
+PLAINSONG,none
+COUNTRY RAP,none
+SECULAR MUSIC,none
+PARODY MUSIC,none
+QUIET STORM,none
+TORAH READING,none
+ČOČEK,none
+CANCIÓN MELÓDICA,none
+HILL COUNTRY BLUES,none
+HIMENE TARAVA,none
+HINDI DANCE MUSIC,none
+BEATDOWN HARDCORE,none
+NEDERBEAT,none
+HARDSTEP,none
+ABHANG,none
+CELTIC ROCK,none
+INDIGENOUS MUSIC OF NORTH AMERICA,none
+AHIDUS,none
+K-POP,{'File:Park Hyang-rim - Oppaneun punggakjaeng-i.ogg'}
+LAVANI,none
+PLENA,none
+COMPAS,none
+TAMBOURIN (DANCE),none
+PUNK JAZZ,none
+MOZAMBIQUE (MUSIC),{'File:Mozambique primary bell pattern.mid'}
+BAMBUCO,none
+BOOM BAP,none
+BERLIN SCHOOL OF ELECTRONIC MUSIC,none
+MUSIC OF INDIA,{'File:Basi Basistha Jabali Bamadeba.ogg'}
+BLUEGRASS MUSIC,none
+VARIATION (MUSIC),{'File:Beethoven Waldstein sonata 1st movement second subject.wav', 'File:Corelli Violin Sonata Op 5 No 9, performing version by Geminiani.wav', 'File:Ah je vous dirai maman Var 1.wav', 'File:Ah je vous dirai maman Var 8.wav', 'File:Corelli Violin Sonata Op 5 No 9.wav', 'File:Theme by Anton Diabelli.wav', 'File:Ah je vous dirai maman Var 7.wav', 'File:Schubert- Impromptu B-flat.ogg', 'File:Beethoven, Diabelli Variation No. 13.wav', 'File:Ah je vous dirai maman Var 5.wav', "File:Debussy Reflets dans l'Eau varied recapitulation of the opening.wav", 'File:Chopin Nocturne in F minor.wav', "File:Debussy Reflets dans l'Eau opening 2 bars.wav", 'File:Ah je vous dirai maman theme.wav'}
+SONATA,{'File:Beethoven - Piano Sonata No. 28 in A Major, Op. 101 - I. Etwas lebhaft, und mit der innigsten Empfindung.ogg', 'File:Beethoven - Piano Sonata No. 28 in A Major, Op. 101 - III. Langsam und sehnsuchtsvoll and IV. Geschwind, doch nicht zu sehr und mit Entschlossenheit.ogg', 'File:Beethoven - Piano Sonata No. 28 in A Major, Op. 101 - II. Lebhaft. Marschmäßig.ogg'}
+MUSIC OF THE SOVIET UNION,{'File:Марш энтузиастов.ogg'}
+WHITE VOICE,{'File:Estruna Lale li si (Martinete) Live in Sofia 2015 (sample).ogg'}
+SERENADE,none
+MUSIC OF ARMENIA,none
+GO-GO,{'File:Basic go-go beat.ogg'}
+SWEDISH DEATH METAL,none
+NEW VENICE SCHOOL,none
+POWER ELECTRONICS (MUSIC GENRE),none
+CUARTETO,none
+MUSIC OF UKRAINE,{'File:Lysenko-Dream op. 12.ogg', 'File:Lysenko-Lullaby («Пісня при колисці»).ogg'}
+EAST COAST BLUES,none
+GHARNATI MUSIC,{'File:Rani Ben Afrah.ogg'}
+PSYCHEDELIC SOUL,none
+MUSIC OF GERMANY,none
+HOLLER BLUES,none
+CAMPUS FOLK SONG,none
+HÒ KHOAN,none
+ARGENTINE HEAVY METAL,none
+HONG KONG ENGLISH POP,none
+HONG KONG HIP HOP,none
+URBAN CONTEMPORARY GOSPEL,none
+HORROR FILM SCORE,none
+GUABINA,none
+HYMN TUNE,{'File:Lilypond-screenshot-adeste.mid'}
+FULÍA,none
+HMONG MUSIC,none
+BAYAT-E ESFAHAN,none
+PAYADA,none
+HYMN CONCERTATO,none
+CACHACA (MUSICAL GENRE),none
+MÁKINA,none
+PIMBA,none
+INTERMEZZO,none
+CYBER METAL,none
+SALEGY,none
+DIVA HOUSE,none
+DETROIT TECHNO,none
+EUROPOP,none
+MUSIC OF ASIA,none
+OVERTONE SINGING,none
+KOMAGAKU,none
+AUSTROPOP,none
+SCHRAMMELMUSIK,none
+EARLY HARDCORE,none
+NEOCLASSICAL METAL,none
+ITALIAN PROGRESSIVE ROCK,none
+NOISE MUSIC,{'File:Whitenoisesound.ogg'}
+ART ROCK,none
+LIED,{'File:De-Lied.ogg', 'File:De-Lieder.ogg'}
+ZAJAL,none
+FRENCH HIP-HOP,none
+SOUL MUSIC,none
+ARS ANTIQUA,none
+MEDIEVAL MUSIC,none
+MARINERA,none
+NARCOCORRIDO,none
+HARDSTYLE,none
+NATIONAL SOCIALIST BLACK METAL,none
+LUK THUNG,none
+LAMBADA,{'File:Br-Lambada.ogg'}
+BLACK METAL,none
+CHIPTUNE,{'File:Drozerix - Computer Adventures.wav', 'File:Spoken Wikipedia - English - chiptune.oga', 'File:The Adventure Lights.ogg'}
+MUSIC IN PORNOGRAPHY,none
+MUSIC OF ANDALUSIA,none
+ZOUGLOU,none
+THRENODY,none
+WEST COAST BLUES,none
+IGBO MUSIC,{'File:LL-Q33578 (ibo)-Vivian Amalachukwu-Egwu nkwa ndi Igbo.wav'}
+TOCCATA,{'File:Johann Pachelbel Toccata e-Moll.ogg', 'File:Toccata et Fugue BWV565.ogg', 'File:Johann Pachelbel Toccata F-Dur.ogg', 'File:Scarlatti - Toccata 3.ogg', 'File:Girolamo Frescobaldi - Toccata 3.ogg', 'File:JSBach Toccata Dmaj.ogg'}
+CONSCIOUS HIP HOP,none
+ZAMROCK,none
+MAZURKA,{'File:Debussy - Mazurka.ogg', 'File:Frederic Chopin - mazurka no. 4 in a minor, op. 17.ogg', 'File:Northern California Folk Music - Mazurka.oga', 'File:Chopin - Mazurka D major Op.33 no. 2 (or 3) played by Lubka Kolessa.oga'}
+CANTATA,{'File:Bach, BWV 147, 10. Jesus bleibet meine Freude.ogg', 'File:Wo ist doch.ogg'}
+FUNK,{'File:Funky Slap Bass line.ogg', 'File:Thirteenth chord collapsed.mid'}
+SYMPHONIC ROCK,none
+SLUDGE METAL,none
+DRUM CADENCE,{'File:Drums - Four Flams.ogg', 'File:Drum - Cadence A.ogg', 'File:Drum - Cadence B.ogg'}
+DA CAPO ARIA,none
+MUSIC OF LATIN AMERICA,{'File:Vals Chiapa de Corzo.ogg', 'File:Atraente chiquinha pixinguinha.ogg', 'File:Waylarsh Wanka - sembranza huanca.ogg'}
+RANCHERA,none
+CANTERBURY SCENE,none
+GHETTO HOUSE,none
+MARABI,none
+LEÇONS DE TÉNÈBRES,none
+SANEDO,none
+MUSIC OF ANCIENT ROME,none
+SANAM (DANCE),none
+BALWO,none
+CUMBIA (COLOMBIA),none
+ASHIQS OF AZERBAIJAN,none
+MUSIC OF AZERBAIJAN,none
+HUNGARIAN FOLK MUSIC,none
+TWELVE-TONE TECHNIQUE,{'File:Schoenberg - Concerto for Violin - hexachordal invariance.mid', 'File:Schoenberg - Op. 23, mov. 5.mid', 'File:Webern - Sehr langsam.ogg', 'File:Schoenberg - Piano Piece op.33a tone row.mid', 'File:Hauer - Nomos Op. 19, beginning.mid', 'File:Hauer trope.mid'}
+ACID JAZZ,none
+CHRISTIAN ROCK,{'File:Flood sample.ogg'}
+GANGSTA RAP,none
+WHITE POWER MUSIC,none
+NOH,none
+HANDS UP (MUSIC GENRE),none
+ANATOLIAN BLUES,none
+FANTEZI,none
+BASS MUSIC,none
+ICARO,none
+IMENE REO METUA,none
+MEMPHIS RAP,none
+ICELANDIC FOLK MUSIC,none
+ICELANDIC HIP-HOP,none
+JING PING,none
+BOUNCY TECHNO,none
+PORRO,none
+JIANGNAN SIZHU,none
+LOW BAP,none
+JIKEY,none
+NEW FLAMENCO,none
+LATIN HOUSE,none
+JOVEM GUARDA,none
+TRØNDER ROCK,none
+KAWACHI ONDO,none
+IRAQI MAQAM,none
+CARAMELLES,none
+CRABCORE,none
+KENYAN HIP-HOP,none
+AL-AYYALAH,none
+KERTOK,none
+COSSACK SONGS,none
+PHONK,{'File:Phonk sample.ogg', 'File:LL-Q1860 (eng)-Vealhurl-phonk.wav'}
+GWO KA,none
+INDIGENOUS MUSIC,none
+INDO-CARIBBEAN MUSIC,none
+INDO JAZZ,none
+INDONESIAN HIP-HOP,none
+INDIAN FOLK MUSIC,{'File:Traditional song by Kumaoni girls, Uttarakhand, India.ogg'}
+KANSAS CITY JAZZ,none
+TECHNO,none
+TRANCE MUSIC,{'File:Supersaw Arp 1.ogg', 'File:Gating technique supersaw waveform.ogg'}
+BARDCORE,{'File:Bardcore Christmas Music - Copyright Free Music.opus'}
+BHOJPURI MUSIC,none
+DECONSTRUCTED CLUB,none
+DEEP SOUL,none
+MUSIC THEATRE,none
+NEOPERREO,none
+TARAB,none
+SACRED JAZZ,none
+JIT,none
+ALTERNATIVE POP,none
+BITPOP,{'File:Bitpop.wav'}
+PIYYUT,none
+NEOFOLK,none
+CANTU A TENORE,{'File:Ballu Seriu Tenores di Bitti Mialinu Pira.ogg'}
+SPEED GARAGE,none
+GALLICAN CHANT,none
+INUIT THROAT SINGING,none
+MOZARABIC CHANT,none
+SONGS OF REALIZATION,none
+CHAOUI MUSIC,none
+CHAABI,none
+CHAABI (ALGERIA),none
+CHAABI (MOROCCO),none
+CHICAGO HIP-HOP,none
+CUECA,none
+MUSIC OF LAOS,none
+PREHISTORIC MUSIC,none
+SEAN-NÓS SINGING,none
+HEBREW CANTILLATION,{'File:Cantillation Example Haftarah Ashkenazi.ogg', 'File:Cantillation Example Lamentations Ashkenazi.ogg', 'File:Cantillation Example Torah Ashkenazi.ogg'}
+TRAP MUSIC,none
+TEUTONIC THRASH METAL,none
+HEARTLAND ROCK,none
+NOVELTY PIANO,none
+AFRICAN BLUES,none
+BORDER BALLAD,none
+ANDALUSI NUBAH,none
+BASQUE MUSIC,none
+BERBER MUSIC,none
+MUSIC OF ALGERIA,none
+MUSIC OF AUVERGNE,none
+MUSIC OF BANGLADESH,none
+MUSIC OF BOLIVIA,none
+MUSIC OF MYANMAR,none
+RAGA,none
+EURODANCE,none
+ROCK MUSIC IN BELARUS,none
+THAI ROCK,none
+MALHUN,none
+STASIMON,none
+TAOIST MUSIC,none
+MASS (MUSIC),none
+SOFT ROCK,none
+LAO MUSIC,none
+MUSIC OF IRAQ,none
+MUSIC OF IVORY COAST,none
+MUSIC OF JORDAN,none
+MUSIC OF KYRGYZSTAN,none
+MUSIC OF LEBANON,none
+BRAVÚ,none
+MUSIC OF THE TRECENTO,none
+ISRAELI ROCK,none
+MUSIC OF ETHIOPIA,none
+CHANSON RÉALISTE,none
+FRENCH FOLK MUSIC,none
+BÉLÉ,none
+BUSHI (MUSIC),none
+CATCH (MUSIC),none
+CADENCE-LYPSO,none
+ARROCHA,none
+ATMOSPHERIC DRUM AND BASS,none
+BALEARIC BEAT,none
+BANDA MUSIC,none
+COPTIC MUSIC,none
+NIGERIAN HIP HOP,none
+BAILA MUSIC,none
+BAIÃO (MUSIC),none
+ASSIKO,none
+BAQASHOT,none
+RETRO-SOUL,none
+FLAMENCO ROCK,none
+INDUSTRIAL MUSICAL,none
+PUNTO MUSIC,none
+ITALIAN JAZZ,none
+IRANIAN FOLK MUSIC,none
+MÚSICA POPULAR (COLOMBIA),none
+INSERTION ARIA,none
+IRISH FIDDLE,none
+IROQUOIS MUSIC,none
+LAZISH MUSIC,none
+GUARANIA (MUSIC),none
+GAGOK,none
+CONDUCTUS,none
+MAPOUKA,none
+MUSIC OF ANGOLA,none
+WIZARD ROCK,none
+BIGUINE,none
+BELGIAN HIP-HOP,none
+BARBERSHOP MUSIC,none
+BALLADE (CLASSICAL MUSIC),none
+ELECTRONICA,none
+SCOTTISH GAELIC PUNK,none
+J-CORE,none
+GASBA MUSIC,none
+ZAMBA (ARTFORM),none
+GLITCH HOP,none
+MUSIC OF TIMOR-LESTE,none
+GOSOS,none
+MUSIC OF ESTONIA,none
+RICERCAR,none
+ITALO DISCO,none
+CONTEMPORARY R&B,none
+MIXED MUSIC,none
+MUSIC OF NORTH MACEDONIA,none
+MUSIC OF MALAYSIA,none
+MUSIC OF MONGOLIA,none
+MUSIC OF MONTENEGRO,none
+BLEEP TECHNO,none
+SWAMP POP,none
+HARDWAVE,none
+MIDTEMPO BASS,none
+WAVE MUSIC,none
+SLAP HOUSE,none
+TRACKER MUSIC,none
+MUSIC OF MICRONESIA,none
+BRAZILIAN JAZZ,none
+CONTEMPORARY FOLK MUSIC,none
+BERGAMASK,{'File:Bergamesca.mid', 'File:Bergamesca a.mid', 'File:Marco Uccelini, Aria sopra la Bergamasca 01.wav'}
+GABBER,{'File:Nl-gabber.ogg'}
+PASSACAGLIA,none
+PSYBIENT,none
+CALYPSO MUSIC,{'File:Deliso, Calypso.ogg', 'File:My Intention Is War, Calypso.ogg', 'File:Court House Scandal, Calypso.ogg', 'File:Suzi-Qu, Calypso.ogg', 'File:General Election, Calypso.ogg', 'File:Bei Mir Bist Du Schoen.ogg'}
+MUSIQUE MESURÉE,{'File:Revecy venir.ogg'}
+JWÉ,none
+KAFI,none
+JUGNI,none
+KAVIGAN,none
+KAVISHARI,none
+BENGA MUSIC,none
+KAR (TURKISH MUSIC),none
+KALBELIA,none
+JUKE JOINT BLUES,none
+KATULI,none
+KAISO,none
+KANTAN CHAMORRITA,none
+KANTO (MUSIC),{'File:Izmir.mid'}
+KAPANIRONG,none
+KAJARI,none
+BALLET D'ACTION,none
+BALLU TUNDU,none
+MUSIC OF HONDURAS,none
+KEENING,none
+PEŞREV,none
+BATUQUE (CAPE VERDE),none
+ZEMIROT,none
+MAWWAL,none
+BERGERETTE,none
+EPIC DOOM METAL,none
+CUMBIA SANTAFESINA,none
+MUSIC OF LITHUANIA,none
+HIRANAAM,none
+HIP HOP IN THE DOMINICAN REPUBLIC,none
+TEEN POP,none
+JOIK,none
+RAGGA,none
+CERDD DANT,{'File:Yr Hen Glochydd - Nansi Richards.ogg'}
+HONKYOKU,none
+NAGAUTA,none
+KAN HA DISKAN,none
+HARD TECHNO,none
+CHRISTIAN METAL,none
+CLASSICAL MUSIC OF THE UNITED STATES,none
+MUSIC OF BOSNIA AND HERZEGOVINA,none
+MUSIC OF THE REPUBLIC OF THE CONGO,none
+MUSIC OF DJIBOUTI,{'File:Abdo Ismail Bouh - Dhooley.ogg', 'File:Abayazid Badri & Dinkara Band.ogg'}
+RUSSIAN CLASSICAL MUSIC,none
+MIDDLE OF THE ROAD (RADIO FORMAT),none
+MASKANDI,none
+KLASIK,none
+KOREAN HIP-HOP,none
+KOREAN ROCK,none
+KINAH,none
+KIDANDALI,none
+KONT (CARIBBEAN),none
+KINDIE ROCK,none
+KTSORD,none
+KIOWA MUSIC,none
+HIP-HOP TUGA,none
+SERBIAN HIP-HOP,none
+TOGOLESE HIP-HOP,none
+KLEZMER FIDDLE,none
+DAPHA MUSIC,none
+DARK AMBIENT,{'File:Vastopia - Dark Ambient Music for Deep Relaxation and Focus.ogg'}
+AUBADE,none
+ATLANTA BLUES,none
+CHILL-OUT MUSIC,{'File:Wickethewok - Deepecho.ogg'}
+WASHINGTON, D.C., HARDCORE,none
+NO WAVE,none
+CRUST PUNK,none
+MUSIQUE CONCRÈTE,{'File:Salakapakka Sound System - 01 - Time is running out.ogg'}
+BASQUE RADICAL ROCK,none
+HAWFI,none
+ALGERIAN HIP-HOP,none
+BRAZILIAN HIP-HOP,none
+IVORIAN HIP-HOP,none
+MIDDLE EASTERN HIP-HOP,none
+CLASSICAL MUSIC IN HIP-HOP,none
+GOSPEL BLUES,none
+MUSIC OF AUSTRALIA,{"File:What'll we do, when the wattle blooms again?.mid", 'File:Australian Cradle Song 1919 Albert Saunders.ogg'}
+GRINDIE,none
+GROUP SOUNDS,none
+ROCK MUSIC IN PORTUGAL,none
+HUAPANGO,{'File:Malague a Master 44.ogg'}
+MUSIC OF PERU,none
+FUNANÁ,none
+SHASHMAQAM,none
+IRANIAN HIP-HOP,{'File:Zedbazi - Zamin Safe.ogg', 'File:PersianRapSample-NemitooniBandKoniPaamoBeZamin.ogg'}
+NEW JACK SWING,{'File:You Called and Told Me.ogg'}
+INDIE POP,none
+EUROBEAT,{'File:Boom Boom Fire by D.Essex, from Super Eurobeat Vol. 140.ogg', 'File:Speedway by Niko, from Super Eurobeat Vol. 101.ogg', 'File:I Wanna Dance by Domino, from Super Eurobeat Vol. 90.ogg', 'File:You (Aggressive Mix) by Ayumi Hamasaki, from Ayu-ro Mix.ogg'}
+MUSIC OF THE AMERICAS,none
+MUSIC OF GABON,none
+SPEEDCORE,{'File:Disciples of Annihilation - NYC Speedcore.ogg'}
+HINDU SPIRITUAL MUSIC,none
+SURF MUSIC,none
+VERBUNKOS,none
+REBETIKO,{'File:Tha Se Klepso, Rebetiko.ogg', 'File:Margarita, Rebetiko.ogg', 'File:Smyrnia.ogg', 'File:1918SmyrnaMinore.ogg', 'File:Neo Hasapaki, Rebetiko.ogg'}
+ELECTRONIC DANCE MUSIC,none
+IMPROMPTU,{'File:LL-Q150 (fra)-WikiLucas00-impromptu.wav'}
+TAMBORERA,none
+TAMBORITO,none
+JAZZ IN INDIA,none
+JAZZ POETRY,none
+PINPEAT,none
+SANJUANITO,none
+AFRO-JAZZ,none
+JAIVA,none
+TROPICAL ROCK,none
+ROCK EN ESPAÑOL,none
+CONTENANCE ANGLOISE,none
+MELODIC BLACK METAL,none
+JAPANESE REGGAE,none
+KUDA LUMPING,none
+HONKY TONK MUSIC,none
+SAMBASS,none
+GAME PIECE (MUSIC),none
+JAIPONGAN,none
+AFRO-CUBAN JAZZ,{'File:New orleans blues corrected.mid', 'File:Tresillo+ backbeat.mid', 'File:Son Clave Pattern duple.mid', 'File:Big four Buddy Bolden.mid', 'File:2-3 Son Clave.MID'}
+CADENCE RAMPA,none
+KACAPI SULING,none
+MATA-KANTIGA,none
+MAYA MUSIC,none
+MAZUR (DANCE),none
+MBIRA MUSIC,none
+MBUBE (GENRE),none
+MELE (HAWAIIAN TERM),none
+MASS SONG,{'File:Марш энтузиастов.ogg'}
+MINI-JAZZ,none
+MINIMAL WAVE,none
+HAKATA NO ROKKU,none
+MERENGUE TÍPICO,none
+SEMI-CLASSICAL MUSIC,none
+MEXICAN CUMBIA,none
+MEXICAN POP MUSIC,none
+SON MEXICANO,none
+QUDUD HALABIYA,none
+LGBTQ MUSIC,none
+LAM SARAVANE,none
+LAM LUANG,none
+LAM PLOEN,none
+KUNDIMAN,{'File:1908 Recording of Ang Maya by Maria Evangelista Carpena.ogg'}
+LATIN SOUL,none
+KWAKWAKAʼWAKW MUSIC,none
+CHRISTIAN MUSIC,none
+KÖNSROCK,none
+KUKU (MUSIC),none
+LAO POP,none
+MUSIC OF SWEDEN,none
+CROSSOVER JAZZ,none
+EASY LISTENING,none
+MUSIC OF PANAMA,none
+MUSIC OF SASKATCHEWAN,none
+MUSIC OF SARDINIA,none
+MUSIC OF SAN MARINO,none
+MUSIC OF SEYCHELLES,none
+MUSIC OF SIERRA LEONE,none
+MUSIC OF SINGAPORE,none
+MUSIC OF SOMALIA,none
+MUSIC OF SOUTH KOREA,{"File:The National Chorus of Korea - Handel's Messiah, HWV 56 - XLIV. Hallelujah.ogg", 'File:Park Hyang-rim - Oppaneun punggakjaeng-i.ogg'}
+MUSIC OF THE CZECH REPUBLIC,{'File:Britva.ogg'}
+COLADEIRA,none
+ROCK MUSIC IN FINLAND,none
+SNAP MUSIC,none
+CHILLSTEP,none
+CLASSIC RAG,none
+CLAWHAMMER,{'File:Clawhammer bum-ditty.mid', 'File:Rabbit-Slaughter.ogg'}
+CORRIDO,{'File:La Cucaracha.ogg'}
+CHALGA,none
+OLD-SCHOOL HIP-HOP,{'File:808acctrig 01.ogg'}
+OKINAWAN MUSIC,{'File:Tinsagu nu Hana.mid'}
+MUSIC FOR THE REQUIEM MASS,none
+MUSIC IN THE ALTAI REPUBLIC,none
+MISSA SINE NOMINE,none
+MORESCHE (MUSIC),none
+MIRROR CANON,{'File:Mirror canon.mid', "File:Bach Canon a 2 'Quaerendo invenietis' from the Musical Offering.wav", 'File:Mozart Trio from Wind Serenade K388.wav'}
+MOOMBAHCORE,none
+MOTSWAKO,none
+MOR LAM SING,none
+MORAVIAN CHURCH MUSIC,none
+MORAVIAN FOLK MUSIC,none
+MINNEAPOLIS SOUND,none
+MIRROR FUGUE,none
+MORMON FOLK MUSIC,none
+MORMON MUSIC,none
+MUNGGANG,none
+SYMPHONIC MUGHAM,none
+HINDI FILM MUSIC,none
+MUSIC IN THE SAKHA REPUBLIC,none
+MUSIC OF ANDORRA,none
+LAZGI,none
+GUANGDONG MUSIC (GENRE),none
+AMANES,none
+MUSIC OF ECUADOR,none
+GREEK TRADITIONAL MUSIC,none
+BHANGRA (MUSIC),none
+CELTIC MUSIC,none
+BHAJAN,none
+MUSIC OF PALESTINE,none
+MUSIC OF UZBEKISTAN,none
+MUSIC OF PAKISTAN,none
+MUSIC OF THE PHILIPPINES,none
+MUSIC OF POLYNESIA,none
+MUSIC OF QUEBEC,none
+PROGRESSIVE BLUEGRASS,none
+BOEREMUSIEK,none
+ZORTZIKO,none
+GUAGUANCÓ,none
+PALM DESERT SCENE,none
+SAMBA ROCK,none
+GOA TRANCE,none
+HARD TRANCE,none
+GANGA (MUSIC),none
+MUSIC OF NORWAY,none
+MUSIC OF NEPAL,none
+BIG BEAT,none
+BIKUTSI,none
+ELECTROCLASH,none
+SMOOTH JAZZ,none
+HORROR PUNK,none
+MINNESANG,none
+MUSIC OF ARAGON,none
+MUSIC OF BAHRAIN,none
+MUSIC OF BADAKHSHAN,none
+MUSIC OF BALI,none
+MUSIC OF CAMBODIA,none
+MUSIC OF BURKINA FASO,none
+MUSIC OF CANADA,none
+MUSIC OF CENTRAL ASIA,none
+MUSIC OF OMAN,none
+COLLEGE ROCK,none
+AUSTRALIAN HIP-HOP,none
+PASSION (MUSIC),none
+NASHEED,none
+ZOBLAZO,none
+ELECTROACOUSTIC IMPROVISATION,none
+ETHIO-JAZZ,none
+KIRANA GHARANA,none
+YUKA (MUSIC),none
+PROGRESSIVE HOUSE,none
+ADULT ALBUM ALTERNATIVE,none
+FURNITURE MUSIC,none
+KAPA HAKA,none
+BALADI,none
+BAKERSFIELD SOUND,none
+AVANT-GARDE JAZZ,none
+BALKAN BRASS,none
+MUSIC OF ITALY,{'File:LaTabaccheraMia.ogg', 'File:SonSoldatoFanteria.ogg', 'File:Giovanni Giuseppe Cambini - Quintet No. 1 in Bb major, movement 2.ogg', 'File:ZuccheroNienteDaPerdere.ogg', 'File:Enrico Caruso, Titta Ruffo, Giuseppe Verdi, Sì, pel ciel marmoreo giuro! (Otello).ogg', 'File:La bohème, O Mimì, tu più non torni (Caruso, Scotti).ogg', 'File:FabriziodeAndreLaCanzonediM.ogg', 'File:Giacomo Puccini - Preludio Sinfonico.ogg', 'File:Napoliebelloestinco.ogg', 'File:Corelli-Trio Sonata 11-3.ogg'}
+CUMBIA RAP,none
+DIRTY RAP,none
+MUSIC OF HAITI,none
+OCCITAN FOLK MUSIC,none
+MUSIC OF SENEGAL,none
+MUSIC OF TAJIKISTAN,none
+MUSIC OF YEMEN,{'File:صنعاء الحنين - Sana’a’s Nostalgia.wav'}
+MUSIC OF TURKMENISTAN,none
+TROPICAL MUSIC,none
+TUNISIAN UNDERGROUND MUSIC,none
+MÉRINGUE,none
+NAATTUPURAPAATTU,none
+NDOMBOLO,none
+OLD TIME FIDDLE,none
+OLTULUI,none
+ONDO (MUSIC),none
+NJUUP,none
+NO-FI,none
+NORDIC FOLK MUSIC,none
+NORTHWEST WIND,none
+NEW YORKSHIRE,none
+NEW BLUES,none
+NEWAR MUSIC,none
+NU-FUNK,none
+TEXAS COUNTRY MUSIC,none
+NUUBAAT,none
+ĐỜN CA TÀI TỬ,none
+NHẠC ĐỎ,none
+ODISSI MUSIC,{'File:LL-Q33810 (ori)-Prateek Pattanaik-ଓଡ଼ିଶୀ ସଙ୍ଗୀତ.wav'}
+DEEP HOUSE,none
+ENKA,none
+OHANGLA,none
+OJKANJE,none
+BINAURAL BEATS,none
+BIOMUSIC,none
+BOURRÉE,{'File:LL-Q150 (fra)-LoquaxFR-bourrée.wav', 'File:Johann Sebastian Bach - Suite BWV 996, E Minor - V Bourrée.ogg'}
+CLAUSULA (MUSIC),none
+MUSIC OF THAILAND,{'File:Piphat in Wat Khung Taphao.ogg', 'File:Thai Royal Anthem - Phonograph cylinder recordings.ogg', 'File:Thai classical music scale.ogg', 'File:Thai pentatonic scale mode 1.mid', 'File:Kham Hom - Sweet Words.ogg'}
+POP STANDARD,none
+HOOKAH RAP,none
+BHAVAGEETE,none
+DASAKATHIA,none
+VAPORWAVE,{'File:Chuck Person Eccojams a1.ogg'}
+FINNISH JAZZ,none
+DIGICORE,none
+BREAK-IN RECORD,none
+BAGATELLE (MUSIC),none
+GUAJIRA (MUSIC),{'File:Alternating time signatures2.mid'}
+TURBO-FOLK,none
+ELECTRO HOP,none
+NISIOTIKA,none
+TIFA TOTOBUANG,none
+SARI GAN,none
+SUFI ROCK,none
+BLACK GOSPEL MUSIC,none
+WEDDING MUSIC,{'File:Wagner Bridal Chorus.ogg'}
+BAUL MUSIC,none
+EDO FUNK,none
+POWADA,none
+PROGRESSIVE JAZZ,none
+TAKAMBA,none
+JAZZ HOUSE,none
+GREEK HIP-HOP,none
+POST-DUBSTEP,none
+ELECTRO-DISCO,none
+LĂUTĂREASCĂ MUSIC,none
+SPIRITUAL JAZZ,none
+MANDE MUSIC,none
+CONTEMPORARY JEWISH RELIGIOUS MUSIC,none
+ISRAELI HIP-HOP,none
+LATE BAROQUE (MUSIC),none
+LOFI HIP-HOP,none
+DEEJAY (JAMAICAN MUSIC),none
+FREE FOLK,none
+NEW JERSEY SOUND,none
+HANMAI,none
+CUMBIA (PANAMA),none
+GAMELAN JOGED BUMBUNG,none
+SUA (FOLK MUSIC),none
+POSTMINIMALISM (MUSIC),none
+TUNISIAN MALOUF,{'File:La Rachidia in the Municipal Theater of Tunis 2.ogg'}
+MUSIC OF THE CANARY ISLANDS,none
+MUSIC OF THE COMOROS,none
+MUSIC OF THE CENTRAL AFRICAN REPUBLIC,none
+PROGRESSIVE POP,{'File:The Logical Song.ogg'}
+PROTO-PROG,none
+ČALGIJA,none
+MUSIC OF THE AFRICAN DIASPORA,none
+FRENCH PUNK,none
+CANTOPOP,none
+MUSIC OF ROMANIA,{'File:Cilindru de ceara - Romania.ogg'}
+SOUTHERN ROCK,none
+MUSIC OF LIBYA,none
+MUSIC OF LOUISIANA,none
+MUSIC OF MALAWI,none
+RABINDRA SANGEET,{'File:তবু মনে রেখো - গায়ক-রবীন্দ্রনাথ ঠাকুর.oga'}
+BHATIALI,none
+BHAWAIYA,none
+NÉO-TRAD,none
+NÒVA CANÇON,none
+MUSIC OF BENGAL,none
+PARANG,none
+PINOY ROCK,none
+PIRATE METAL,none
+TABANKA,none
+BUGARŠTICA,none
+MUSIC OF MEXICO,none
+PAGODE,none
+TONADA,none
+'OTE'A,none
+LIVETRONICA,none
+MALAGUEÑA (GENRE),none
+LOUNGE ROCK,none
+CAMPURSARI,none
+MACEDONIAN HIP-HOP,none
+MUSIC OF MAURITIUS,none
+MADHYALAYA,none
+LINING OUT,none
+LUK KRUNG,none
+PHLENG THAI SAKON,none
+PHLENG PHUEA CHIWIT,none
+LUSOPHONE MUSIC,none
+LUTE SONG,{'File:I care not for these ladies.ogg'}
+LOFT JAZZ,none
+OPPARI,{'File:Oppaari Song.ogg'}
+THAI HIP-HOP,none
+KHRUEANG SAI,none
+CHRISTIAN HYMN,none
+RAP METAL,none
+MUSIC OF ERITREA,none
+MUSIC OF EL SALVADOR,none
+MUSIC OF FIJI,none
+MUSIC OF GHANA,none
+MUSIC OF GOA,none
+MUSIC OF GUINEA-BISSAU,none
+MUSIC OF GUYANA,none
+MUSIC OF HONG KONG,{'File:AlanTam - Romance Trap.ogg', 'File:Ivy Ling Po and Jenny Tseng - Huangmeitone.ogg'}
+MUSIC OF JAVA,none
+MUSIC OF LESOTHO,{'File:Lesiba skilful melody Kirby 1934, 190.mid'}
+MUSIC OF LIBERIA,none
+MOROCCAN HIP-HOP,none
+NIGERIEN HIP-HOP,none
+ROMANIAN HIP-HOP,none
+QUEBRADITA,none
+RAÏ'N'B,none
+RABIZ,none
+RARA MUSIC,none
+PUNTA ROCK,none
+PUNTO GUAJIRO,none
+SKATE PUNK,none
+PROTEST SONG,none
+MUSIC OF SAUDI ARABIA,none
+MUSIC OF RÉUNION,none
+MUSIC OF SLOVENIA,none
+SIKH MUSIC,none
+SHINTO MUSIC,{'File:Kaibara-Hachiman-Jinja3727.ogg'}
+THAI POP MUSIC,none
+MUSIC OF SRI LANKA,none
+ROCK AGAINST COMMUNISM,none
+FUTUREPOP,none
+MONODY,none
+BATTLE RAP,none
+LEBANESE HIP-HOP,none
+ADVENT SONG,none
+TIME LORD ROCK,none
+EMO RAP,{'File:Sad - XXXTentacion.ogg'}
+LATIN BALLAD,none
+ROCK MUSIC IN LATVIA,none
+LEWOZ,none
+BLUE-EYED SOUL,none
+SKWEEE,none
+BLUE YODELING,{'File:Sleep, Baby, Sleep (Watson).ogg'}
+DEATHGRIND,none
+SATIRICAL MUSIC,none
+BROOKLYN DRILL,none
+TREAD RAP,none
+ADAHA,none
+SUNDANESE MUSIC,none
+MATROUZ (MUSIC),none
+BANTU MUSIC,none
+BERTITIK,none
+SYNTH-METAL,none
+LADISHAH,none
+HYPERPOP,none
+POSTROMANTIC MUSIC,none
+ZÄUERLI,none
+JERSEY SHORE SOUND,none
+JESUS MUSIC,none
+JHUMAR,none
+XUC,none
+LANGGAM JAWA,none
+MARFA (MUSIC),none
+MAQSOUM,none
+PSALM,none
+MANDO (MUSIC),none
+MAROON MUSIC,none
+MALAY GAMELAN,none
+MALAYSIAN HIP-HOP,none
+MALAYSIAN POPULAR MUSIC,none
+MARTIAL MUSIC,none
+MANGAMBEU,none
+MANILA SOUND,none
+MAPPILA SONGS,none
+POWER POP,none
+LATIN JAZZ,none
+FANTASIA (MUSICAL FORM),none
+CRUNK&B,none
+HABANERA (MUSIC),none
+FUNK ROCK,none
+MUSIC OF TAHITI,none
+MUSIC OF TEXAS,none
+MUSIC OF SURINAME,none
+MUSIC OF TRANSYLVANIA,none
+MUSIC OF TONGA,none
+MUSIC OF THE VALENCIAN COMMUNITY,none
+MUSIC OF WEST AFRICA,none
+PANTOMIME,none
+RED MUSIC,none
+HORI (MUSIC),none
+MUSIC OF SOUTH ASIA,none
+FOLK SONGS OF LITHUANIA,none
+EMO POP,none
+TRADITIONAL BLACK GOSPEL,none
+EPIC METAL,none
+GARBA (DANCE),none
+BANDARI MUSIC,none
+AINU FOLK MUSIC,none
+SINDHI MUSIC,none
+SLOVAK FOLK MUSIC,none
+SLOVENIAN-STYLE POLKA,none
+SLOVENIAN HIP-HOP,none
+SINGAPORE HIP-HOP,none
+SHYAMA SANGEET,none
+SIKURI,none
+SIOUX MUSIC,none
+SOKKIE,none
+CANTE FLAMENCO,none
+CANTU A CHITERRA,none
+CRUSADE SONG,none
+NEW ORLEANS RHYTHM AND BLUES,none
+CARNIVAL SONG,none
+SKILADIKO,none
+SHONA MUSIC,none
+CAPRICCIO (MUSIC),none
+RAP ROCK,none
+EAST COAST HIP-HOP,none
+AVANT-PROG,none
+AṢÍKÒ,none
+BARZELLETTA,none
+BOSTON HARDCORE,none
+CELLO ROCK,none
+PAGAN ROCK,none
+TONADILLA,none
+AFRO ROCK,none
+MINANGKABAU MUSIC,none
+SIERREÑO,none
+SAZ SEMAI,none
+FUTURE RAVE,none
+MUSIC OF MAYOTTE,none
+BUDOTS,{'File:Asukarap Choy Budots Sample.ogg', 'File:Budots Dance Video.ogg', 'File:Budots Audio Sample.ogg'}
+IMSIL PILBONG NONGAK,none
+SEONSORI,none
+BRUTAL PROG,none
+ROMANIAN TRADITIONAL MUSIC,none
+ROCK KAPAK,none
+JAVANESE POETRY,none
+TOVAREĆA MUŽIKA,none
+RYŪKA,none
+PSYCHEDELIC MUSIC,{'File:Phasing effect.ogg', 'File:Flanging effect.ogg'}
+GYPSY JAZZ,{'File:La Pompe.mid'}
+BREAKCORE,{'File:Breakcore by Glitch.ogg'}
+MUSIC OF BRITTANY,none
+DURANGUENSE,{'File:Pasito Duranguense.OGG'}
+DETROIT ROCK,none
+DIXIELAND JAZZ,none
+RONDELLUS,none
+RUSSIAN LITURGICAL MUSIC,none
+RUSSIAN ORTHODOX BELL RINGING,none
+RYŪKŌKA,none
+VIRA (DANCE),none
+SACRED HARP,{'File:Alabama Sacred Harp Singers - Sherburne.ogg', 'File:AmazingGraceFamiliarStyle.OGG'}
+SACRED STEEL (MUSICAL TRADITION),none
+SADCORE,none
+MUSIC OF CRETE,none
+WABAP,{'File:Aimer Moune Rivel with Al Livrat.ogg'}
+XAXADO,none
+ROMANIAN PEASANT MUSIC,none
+ROMANI HIP-HOP,none
+ROMO,none
+PUNK METAL,none
+ROCK MUSIC IN BELGIUM,none
+ROCK MUSIC OF CANADA,none
+CHILEAN ROCK,none
+VOCALOID MUSIC,none
+AFRO-BRAZILIAN MUSIC,none
+JAI RADHA MADHAB,none
+RAGAMALIKA,none
+ALTÉ,none
+TARRAXINHA,none
+PLUGGNB,none
+SHAABI,none
+DOMINICAN DEMBOW,none
+RIZITIKA,none
+PALAM (MUSIC),none
+ITALIAN OCCULT PSYCHEDELIA,none
+DAGBON MUSIC AND DANCE,none
+BATRELAKY,none
+INDIE SURF,none
+SIREN KINGS,none
+INDUSTRIAL POP,none
+RAGE (MUSIC GENRE),{'File:Fly All Night Teddy G Sample.ogg', 'File:Rest in bass encore + che + bleood type beat - wumpini.ogg'}
+ALBANIAN HIP-HOP,none
+ORTHODOX POP,none
+SAMA'I,none
+NEPALESE ROCK,none
+PERUVIAN ROCK,none
+ROCK MUSIC IN SLOVENIA,none
+ROCK MUSIC IN SWITZERLAND,none
+PINOY REGGAE,none
+INUIT MUSIC,none
+PLAYGROUND SONG,none
+CONGOLESE RUMBA,none
+POLISH JAZZ,none
+POLISH REGGAE,none
+ROCK MUSIC IN POLAND,none
+PLUNDERPHONICS,none
+ACID (ELECTRONIC MUSIC),none
+KULINTANG,{'File:Sinulog a Kamamatuan Ver. 1.ogg', 'File:Tagunggo Ver. 1.ogg'}
+PISADINHA,none
+BLACK AMBIENT,none
+COUNTRYPOLITAN,none
+SURF-ROCK,none
+DREAMPUNK,none
+HOLIDAY MUSIC,none
+CHINESE CLASSICAL MUSIC,none
+SAHRAWI MUSIC,none
+EXECUTION BALLAD,none
+PORTUGUESE FOLK MUSIC,none
+SASS (MUSIC),none
+BRAZILIAN RAP GEEK,none
+HARD BEAT,none
+BUBBLEGUM BASS,none
+BALKAN MUSIC,none
+RAÏ,none
+PYGMY MUSIC,none
+POLYPHONIC ERA,none
+QUEBEC FIDDLE,none
+POPULAR MUSIC OF VIETNAM,none
+PUNTO (VENEZUELA),none
+POSI MUSIC,none
+POSITIVE HARDCORE,none
+PRISON ROCK,none
+PROCESSIONAL HYMN,none
+POLO (MUSIC),none
+PROGRESSIVE MUSIC,none
+PROSTOPINIJE,none
+PUEBLO MUSIC,none
+PUNK ROCK IN AUSTRALIA,{'File:Gothic School Of Twilight Punk, 1983.mp3'}
+PUNK IN BRAZIL,none
+PUNK IN SWEDEN,none
+PUNK ROCK IN SPAIN,none
+PUNK ROCK IN YUGOSLAVIA,none
+REDUCTIONISM (MUSIC),none
+RAMPUR–SAHASWAN GHARANA,none
+DMV HIP-HOP,none
+RAP OPERA,none
+QUYI,{'File:Pingtan Music at the Lingering Garden.ogg'}
+RASIYA,none
+RECESSIONAL HYMN,none
+RASIN,{'File:RAM Zanj.ogg'}
+REGGAE ROCK,none
+REGIONAL MEXICAN,none
+REKILAULU,none
+REKUHKARA,none
+BANGSAWAN,none
+TSUGARU-JAMISEN,none
+TURLUTTE (MUSIC),none
+HIRAGASY,none
+QUAN HỌ,none
+NEO KYMA,none
+TINKU,none
+TONDERO,none
+INDIAN POP,none
+REVUE,none
+BRITISH BLUES,none
+TROPARION,none
+EXOTICA,{'File:An excerpt of Quiet Village by Martin Denny.ogg'}
+TANGO MUSIC,{'File:Carrillón De La Merced Tango.ogg'}
+RED AND ANARCHIST BLACK METAL,none
+ISOLATIONISM (MUSIC),none
+SAMBA-JAZZ,none
+PSYCHOBILLY,none
+GAELIC MUSIC,{'File:Gaelic song.ogg'}
+POP MUSIC IN UKRAINE,none
+KABARETT,none
+SYRIAC SACRAL MUSIC,{'File:Hanna Petros Track 3.oga'}
+SYRIAC CHANT,none
+SYSTEMS MUSIC,none
+PUB ROCK (AUSTRALIA),none
+CHICANO ROCK,none
+T'ONG GUITAR,none
+GEONJEONGAYO,none
+YEMENI HIP-HOP,none
+HUNGARIAN METAL,none
+MUSIC OF SAMOA,none
+SWEDISH FOLK MUSIC,none
+SWEDISH JAZZ,none
+RED DIRT MUSIC,none
+REDOWA,none
+AMERICAN ROCK,none
+ROCK MUSIC IN AUSTRALIA,none
+ALTERNATIVE R&B,none
+PACIFIC REGGAE,none
+CAIPIRA PAGODE,none
+PAKISTANI FOLK MUSIC,none
+SETO LEELO,none
+MADRIGAL COMEDY,none
+POST-BRITPOP,none
+PIZMONIM,none
+DIRGE,none
+LANDÓ (MUSIC),none
+LILTING,none
+VOLUNTARY (MUSIC),none
+HAMBURGER SCHULE,none
+FIELD HOLLER,none
+WAGNERIAN ROCK,none
+EUROTRANCE,none
+BOOGALOO,none
+RAVE MUSIC,none
+COLOUR BASS,none
+SLACKER ROCK,none
+FUNKNEJO,none
+LO-FI HOUSE,none
+BALANI SHOW,none
+CORRIDOS TUMBADOS,none
+ORIGINAL PILIPINO MUSIC,none
+JACKIN HOUSE,none
+TUVAN THROAT SINGING,none
+HEXD,none
+PROGRESSIVE RAP,none
+SURF PUNK (MUSIC GENRE),none
+CUMBIA,none
+MARACATU NAÇÃO,none
+TRADITIONAL MUSIC OF GALICIA, CANTABRIA AND ASTURIAS,none
+SAMBA DE GAFIEIRA,none
+SAMBA-ENREDO,none
+CHICAGO HARDCORE,none
+SEAPUNK,none
+MIN'YŌ,none
+NEOCLASSICAL DARK WAVE,none
+MUSIC OF BRAZIL,{'File:Atraente chiquinha pixinguinha.ogg', 'File:003-harmonia selvagem - dante santoro 1938.ogg', 'File:Carmen Miranda e Mário Reis - Alo... Alo....ogg', 'File:Na Pavuna-Almirante-Homero Dornelas1929.ogg', 'File:Pixinguinha- O Urubu e o Gaviao 1930.ogg'}
+SINFONIETTA (SYMPHONY),none
+NEUES GEISTLICHES LIED,none
+MUSIC OF GUADELOUPE,none
+R'N'BESK,none
+BIG ROOM HOUSE,none
+COPLA (MUSIC),none
+YAYUE,none
+NEO-BOP,none
+SEGA TAMBOUR OF RODRIGUES ISLAND,none
+MICROSOUND,none
+CZECH HIP-HOP,none
+FUJI MUSIC,none
+MEMPHIS SOUL,none
+SEGGAE,none
+PROCESS MUSIC,none
+SLACKNESS (JAMAICAN MUSIC),none
+TEMBANG SUNDA,none
+KONNAKOL,none
+HUNGARIAN HIP-HOP,none
+POPCORN (ROMANIAN MUSIC STYLE),none
+VINAHOUSE,none
+RATCHET MUSIC,none
+SAETA (FLAMENCO),none
+ORGANIC HOUSE,none
+PLUGG,none
+AROMANIAN MUSIC,none
+NGOMA MUSIC,none
+KURDISH FOLK MUSIC,none
+AKRON SOUND,none
+MUSIC OF TAIWAN,none
+SCANDINAVIAN POP,none
+STREET CRIES,none
+PUNK FUNK,none
+RAPCORE,none
+GOSPEL REGGAE,none
+SANKYOKU,none
+ITALIAN HARDCORE,none
+PROSODION,none
+VESNIANKY,none
+SMOOTH SOUL,none
+IRANIAN POP MUSIC,none
+SYMPHONIC MUSIC IN IRAN,none
+PERSIAN RITUAL MUSIC,none
+PASILLO,none
+PARAGUAYAN POLKA,none
+PARLOUR MUSIC,none
+PARRANDA,none
+PAKISTANI HIP-HOP,none
+PAKISTANI POPULAR MUSIC,none
+PAKISTANI ROCK,none
+PAPARE (MUSIC),none
+PALESTINIAN HIP-HOP,none
+PAMBICHE,none
+SOUTH AFRICAN JAZZ,none
+SPOUGE,none
+ETHNIC SWAZI MUSIC,none
+STHAYI,none
+SPACE-THEMED MUSIC,{'File:Epro theremin middle bach.ogg'}
+SPANISH TRADITIONAL CHRISTIAN MUSIC,none
+SPANISH JAZZ,none
+STAROGRADSKA MUZIKA,none
+SUYÁ MUSIC,none
+SOUSEDSKÁ,none
+SON HUASTECO,{'File:Malague a Master 44.ogg', 'File:El pitorreal pre-master 44-16.ogg'}
+SON JALISCIENSE,none
+SON CALENTANO,none
+SONG POEM,none
+SONGO-SALSA,none
+SUGAMA SANGEETHA,none
+STRONDA,none
+SULUKAN,none
+VER (MUSIC),none
+NEOTANGO,none
+VISHNUPADA,none
+VERSE ANTHEM,none
+DHAANTO,none
+MUSIC OF VATICAN CITY,none
+JARIGAN,none
+VIGILANTE RAP,none
+MOROCCAN POP,none
+VOCAL HARMONY,{'File:Harmonic seventh chord just on C.mid', 'File:Harmonic seventh chord on C.mid'}
+BRITISH BLACK MUSIC,none
+BULGARIAN WEDDING MUSIC,none
+SAWANI,none
+CHA-CHA-CHÁ (MUSIC),none
+ITALIAN CLASSICAL MUSIC,none
+NIGHTCORE,none
+HAUSA MUSIC,none
+MUSIC OF ZIMBABWE,none
+MUSIC OF KOSOVO,none
+SHAMANIC MUSIC,none
+MUTU (MUSIC),none
+MUZIKI WA DANSI,none
+BLUES BALLAD,none
+HARDCORE HIP-HOP,none
+NEUROFUNK,none
+MUSIC OF BELIZE,none
+BRUKDOWN,none
+INDUSTRIAL ROCK,none
+NATIVE AMERICAN HIP-HOP,none
+NATYA SANGEET,none
+NAVAJO MUSIC,none
+MUSIC OF THE DOMINICAN REPUBLIC,none
+MUSIC OF THE MALDIVES,{'File:Electric bulbul.ogg'}
+NEOMELODIC MUSIC,none
+MÉTIS FIDDLE,none
+MÚSICA CRIOLLA,none
+NEPALESE HIP-HOP,none
+NĀ MELE PALEOLEO,none
+NAAMYAM,none
+NEW ACOUSTIC MUSIC,none
+NEW BIG BAND,none
+NEW POP,none
+MUSIC OF THE SOLOMON ISLANDS,none
+BALKAN FOLK MUSIC,none
+ZAPATEADO (SPAIN),{'File:Zapateado (1910).ogg'}
+MEDIEVAL METAL,none
+HAKKA POPULAR MUSIC,none
+MORESCA,none
+NAZRUL GEETI,none
+DRILL MUSIC,{'File:Love Sosa - Chief Keef.ogg'}
+DRUMLINE,none
+KIRTAN,{'File:Samgacchadvam.OGG'}
+FUNKY HOUSE,none
+KWAITO,none
+CARNATIC MUSIC,none
+POP METAL,none
+SUZHOU PINGTAN,none
+NU GAZE,{'File:Panic Switch - Silversun Pickups.ogg'}
+NUEVA CANCIÓN CHILENA,none
+MUSIC OF CHILE,none
+MARCHINHA,{'File:GOSTO, MAS NÃO É MUITO - Francisco Alves 1933.ogg'}
+MUSIC OF MALTA,none
+MUSIC OF MESOPOTAMIA,{'File:Lydian mode C midi.mid'}
+MUSIC OF MELANESIA,{'File:Ujangong.ogg'}
+MUSIC OF MELBOURNE,none
+MUSIC OF MONACO,none
+MUSIC OF NAURU,none
+MUSIC OF NEW ZEALAND,none
+MUSIC OF NICARAGUA,none
+MUSIC OF NIGER,none
+MUSIC OF PAPUA NEW GUINEA,{'File:Ujangong.ogg'}
+ROCK MUSIC IN DENMARK,none
+ROCK MUSIC IN ESTONIA,none
+ROCK MUSIC IN FRANCE,none
+ROCK MUSIC IN GREECE,none
+ROCK MUSIC IN THE NETHERLANDS,none
+ROCK MUSIC IN HUNGARY,none
+ROCK MUSIC IN IRELAND,none
+ROCK MUSIC IN ICELAND,none
+ROCK MUSIC IN ITALY,none
+MALAYSIAN ROCK,none
+ROCK MUSIC IN LITHUANIA,none
+ROCK MUSIC IN MEXICO,none
+ROCK MUSIC IN NORWAY,none
+ROCK MUSIC IN NEW ZEALAND,none
+ROCK MUSIC IN SPAIN,none
+ALGORAVE,none
+AFRO-SOUL,none
+KAWAII METAL,none
+DEUDA (GENRE),none
+VOCAL SURF,none
+INDIAN ROCK,none
+CANTILLATION,none
+TOMBEAU,{'File:Tombeau For Michael Collins.ogg'}
+SALSA DURA,none
+SALSA ROMÁNTICA,none
+SARVA (MUSIC),none
+SALVADORAN HIP-HOP,none
+SCOTTISH HIP-HOP,none
+SCREAMER (MARCH),{'File:U.S. Air Force Band - Henry Fillmore - Troopers Tribunal.ogg', 'File:RollingThunder (USAFB).ogg', 'File:The Circus Bee.ogg'}
+SANGINI,none
+SCRUMPY AND WESTERN,none
+SÁMI MUSIC,none
+SAMOAN HIP-HOP,none
+SAMPLEDELIA,none
+SECULAR JEWISH MUSIC,{'File:Sleep My Child.ogg'}
+SANGEET NATAK,none
+SANTO DAIME HYMNS,none
+SAMRI,none
+SASANIAN MUSIC,none
+SAINT THOMAS CHRISTIAN MUSIC,none
+SAKARA MUSIC,none
+CAJUN MUSIC,{"File:Balfa Brothers - J'ai passé devant ta porte.ogg"}
+MUSIC OF BULGARIA,none
+BUBBLEGUM MUSIC,none
+BURGER-HIGHLIFE,none
+VALONA (SONG),none
+TALKING BLUES,none
+VENEZUELAN ROCK,none
+VENEZUELAN WALTZ,none
+TRIBAL GUARACHERO,none
+TROMSØ TECHNO SCENE,none
+CIFRA (MUSICAL GENRE),none
+TRUCK-DRIVING COUNTRY,none
+URBAN QAWWALI,none
+URUGUAYAN ROCK,none
+TRƯỜNG CA,none
+TSAMASSI,none
+UKRAINIAN HIP-HOP,none
+TURKISH POP MUSIC,none
+UNDERGROUND DANCE MUSIC,none
+TWIN CITIES HIP-HOP,none
+KOSOVAN FOLK MUSIC,none
+VARIETY (RADIO),none
+REGGAESTEP,none
+COLÁ,none
+TOTALISM,none
+LATIN MUSIC,none
+OUTSIDER HOUSE,none
+MINCECORE,none
+PINOY POP,none
+ATHABASKAN FIDDLE,none
+CHRISTIAN ELECTRONIC DANCE MUSIC,none
+NERD-FOLK,none
+KANHAIYA GEET,none
+CHRISTIAN R&B,none
+VERSO (MUSIC),none
+PERUVIAN CUMBIA,none
+SEGA TAMBOUR CHAGOS,none
+PEYOTE SONG,none
+PHASE MUSIC,none
+ESTONIAN PUNK,none
+PHILADELPHIA HARDCORE,none
+PHILIPPINE FOLK MUSIC,none
+PHONETICAL SINGING,none
+MALIPENGA,none
+PICHAKAREE,none
+PINOY HIP-HOP,none
+PROGRESSIVE SOUL,none
+HALLOWEEN MUSIC,{'File:Loyalty Freak Music - 09 - Hello Michael .ogg', 'File:BWV-565-intro.ogg'}
+MONGOLIAN HIP-HOP,none
+CHILENA (MUSICAL GENRE),none
+VISPOP,none
+HIGHLIFE,{'File:Highlife guitar.mid'}
+SCHLAGER MUSIC,none
+CANZONETTA,none
+CAPE JAZZ,none
+CARIMBÓ,none
+MODERN ROCK,none
+G-FUNK,{'File:Oceanside.wav'}
+MUSIC OF QATAR,{'File:National anthem of Qatar.ogg'}
+CROSSOVER THRASH,none
+LITURGICAL MUSIC,none
+MUSIC OF TUNISIA,none
+CHAITI,none
+BURBAN,none
+CARISO,none
+CA HUẾ,none
+CA DIN TULNIC,none
+CAJUN FIDDLE,none
+CALYPSO-STYLE BAILA,none
+CALYPSO WAR,none
+CANADIAN BLUES,none
+CANADIAN JAZZ,none
+CANADIAN PUNK ROCK,none
+CANCIÓN SENTIMENTAL MEXICANA,none
+CAVALIER SONG,none
+BULGARIAN HIP-HOP,none
+CELTIC MUSIC IN CANADA,none
+CELTIC CHANT,none
+BULLERENGUE,none
+CANTO LIVRE,none
+CENTRAL AMERICAN MUSIC,none
+BURMESE HIP-HOP,none
+BURRA KATHA,none
+BUSH BALLAD,none
+CEÒL MEADHONACH,none
+IRISH TRADITIONAL MUSIC,none
+SENEGALESE HIP-HOP,none
+SHAN'GE,none
+ROCK MUSIC IN SERBIA,none
+SHIDAIQU,none
+SHANTO,none
+SHINKYOKU,none
+SEIS,none
+CANDOMBE,none
+CAKEWALK,none
+CALL AND RESPONSE (MUSIC),none
+VOCAL TRANCE,none
+BENEVENTAN CHANT,none
+WASSOULOU MUSIC,none
+BLATNAYA PESNYA,none
+WANGGA,none
+SPACESYNTH,none
+BARD (SOVIET UNION),none
+AZERBAIJANI FOLK MUSIC,none
+ANGLO-AMERICAN MUSIC,none
+ARMENIAN FOLK MUSIC,none
+MUSIC OF KAZAKHSTAN,none
+MATH ROCK,none
+INDETERMINACY (MUSIC),none
+MILITARY CADENCE,none
+OUTLAW COUNTRY,none
+MUSIC OF SPAIN,none
+UNDERGROUND HIP-HOP,none
+ZNAMENNY CHANT,none
+ABWE,none
+NUSACH (JEWISH MUSIC),none
+ALMA MATER (SONG),none
+NITZHONOT,none
+ALTERNATIVE REGGAETON,none
+ALBANIAN URBAN LYRIC SONG,none
+ROCK MUSIC IN ALBANIA,none
+ADULT-ORIENTED POP MUSIC,none
+AFRICAN REGGAE,none
+AFRO-CARIBBEAN MUSIC,none
+AGAMANI-VIJAYA,none
+AGBEKOR,none
+AGUINALDO (MUSIC),none
+AHWASH,none
+ALPINI SONGS,none
+AIR À BOIRE,none
+AJISARI,none
+INDIGENOUS MUSIC OF CANADA,none
+INDIGENOUS ROCK,none
+CONGA (MUSIC),none
+MODAL JAZZ,none
+COMÉDIE-BALLET,none
+GLAM PUNK,none
+SHU SCHOOL,none
+WONG SHADOW,none
+CRACK ROCK STEADY,none
+MUSIC OF TOGO,none
+BENGALI ROCK MUSIC (INDIA),none
+ELECTRO-R&B,none
+SNAP&B,none
+PARTYSCHLAGER,none
+YTPMV,none
+WELSH HIP-HOP,none
+INDIE CLASSICAL,none
+BARBER BEATS,none
+DOYO,none
+EPADUNK,none
+I-POP (SUBGENRE),none
+CHICAGO DRILL,none
+SIGILKORE,{'File:LUCIAEOM.wav', 'File:All Eyez On Me (Luci4 song - sample).wav'}
+DRIFT PHONK,none
+SAPPHIC POP,none
+DETROIT HARDCORE,none
+CHANSON FRANCO-ORIENTALE,{'File:La Complainte Orientale Chinita Rivero.ogg'}
+HINDUTVA POP,none
+NEW ZEALAND REGGAE,none
+IRISH RAP,none
+POLITICAL MUSIC IN CHINA,none
+GUARACHA (COLOMBIA),none
+NEOCRUST,none
+HOT ROD ROCK,none
+MARIAN ANTIPHON,none
+VENEZUELAN BAMBUCO,none
+FESTIVAL TRAP,none
+BELGIAN HARDCORE TECHNO,none
+JHUMAR SONG,none
+MALAWIAN HIP-HOP,none
+NEW ORLEANS SOUL,none
+HYBRID TRAP,none
+AMERICAN ROOTS MUSIC,none
+MÚSICA POPULAR BRASILEIRA,none
+NEW WAVE OF AMERICAN HEAVY METAL,none
+TURNTABLISM,none
+THIRD WAVE SKA,none
+EMPFINDSAMKEIT (MUSIC),none
+NU-DISCO,none
+URBAN PASIFIKA,none
+TARANA,none
+GIDDHA,none
+ZENJI FLAVA,none
+NEW-SCHOOL HIP-HOP,{"File:I Can't Live Without My Radio sample.ogg"}
+ITALIAN FOLK MUSIC,none
+MUSIC OF SCOTLAND,{'File:Nacuperean.ogg', 'File:Skye Boat Song.ogg'}
+DOUJIN MUSIC,none
+MUSICAL IMPROVISATION,{"File:Zye - Improv — It's hard not to be an alien.oga"}
+MUSIC HALL,none
+POST-INDUSTRIAL (MUSIC),none
+CRUNK,none
+MILONGA (MUSIC),{'File:Cacareando - Milonga.ogg', 'File:Milonga Negra, Milonga.ogg', 'File:La Milonga de Buenos Aires, Milonga.ogg', 'File:Silueta porteña, Milonga.ogg'}
+JAZZ ROCK,none
+FROTTOLA,none
+NEW COMPLEXITY,none
+CANTIGA DE AMIGO,none
+CANTICLE,none
+MUSIC OF SUDAN,{'File:Sudanese national anthem, performed by the U.S. Navy Band.oga'}
+HARD DANCE,none
+MEZWED,none
+MUSIC OF MAURITANIA,none
+ROCK MUSICAL,none
+BOLERO,{'File:Artistas para la habana - Restaurado.wav', 'File:Bolero bass line.ogg', 'File:Bolero genérico.opus'}
+RINGBANG,none
+BONGAI,none
+RIPSAW MUSIC,none
+FUNK OSTENTAÇÃO,none
+BAHAMIAN RHYMING SPIRITUAL,none
+MUSIC OF BRUNEI,none
+ROCK VIOLIN,none
+RELIGIOUS MUSIC IN IRAN,none
+ROM KBACH,none
+CATHOLIC MARIAN MUSIC,{'File:Alma Redemptoris Mater.ogg'}
+ROCK MUSIC IN ROMANIA,none
+DELTA BLUES,{'File:Crossroads.ogg'}
+CONSORT SONG,none
+FANDANGO,none
+MORIN KHUUR,{'File:Morin khuur sound.ogg'}
+EL VITO,none
+WALTZ (MUSIC),none
+CHURCH MUSIC,none
+FOLK MUSIC OF PUNJAB,none
+DARK ELECTRO,none
+HIÉRODRAME,none
+ARMENIAN JAZZ,none
+INDONESIAN ROCK,none
+YPAKOE,none
+HAYASHI (MUSIC),none
+SAMBA-CANÇÃO,none
+SINAWI,none
+HARDCORE BREAKS,none
+MUSOK EUMAK,none
+KUI (MUSIC),none
+ZHUNGDRA,none
+JAZZ MUGHAM,none
+SHANGAAN ELECTRO,none
+MOBB MUSIC,none
+MUSIC IN THE ELIZABETHAN ERA,{'File:Orlando Gibbons Out of the deep (The Tudor Consort).ogg', 'File:Flow, my tears.ogg'}
+TALLAVA,none
+TAHITIAN DRUMMING,none
+AFRICAN HEAVY METAL,none
+CALIFORNIA SOUND,{"File:Surfin' USA.ogg", 'File:California Dreamin.ogg'}
+CANADIAN COUNTRY MUSIC,none
+CANADIAN FOLK MUSIC,none
+CANADIAN HARDCORE PUNK,none
+CANADIAN HEAVY METAL,none
+HYPERREALISM (MUSIC),none
+ZULU MUSIC,none
+MUGITHI,none
+TRỐNG QUÂN,{'File:Hát trống quân - Đỗ Văn Thâm.mp3'}
+INDIE HIP-HOP,none
+NOTE NERE,none
+WEST COAST SCHOOL,none
+CORSICAN FOLK MUSIC,none
+TRADITIONAL MUSIC OF KOREA,{'File:Gunbam Taryeong.wav', 'File:Doraji Taryeong.wav', 'File:Sae taryung.wav', 'File:Changbu Taryeong.wav'}
+FRENCH OVERTURE,{'File:Muffat - Suite 2 - 1. Ouverture.ogg', 'File:Telemann - Concert Suite in D major TWV55D6 - 1. Overture.ogg', 'File:Lully Le Bourgeois Gentilhomme - 01. Ouverture.ogg', 'File:Handel - Messiah, Part 1 (Scherchen) - 01. Sinfony.ogg', 'File:Bach - Cello Suite No. 5 - 1. Prelude.ogg'}
+MUSIC OF GREENLAND,none
+MELODIC HOUSE,none
+POWER BALLAD,none
+MUSIC OF COLOMBIA,{'File:La puya rebelde.ogg', 'File:Rub a Dub.ogg', 'File:La Guayabita.ogg', 'File:Flor de Romero..ogg', 'File:Ángela.ogg', 'File:Ojito de Agua.ogg', 'File:Zumbaquezumba.ogg', 'File:Siquele.ogg'}
+SEA SHANTY,none
+CANZONE NAPOLETANA,none
+THEME MUSIC,none
+AFRO-PERUVIAN MUSIC,none
+POPCORN (BELGIAN MUSIC STYLE),none
+AUSTRALIAN FOLK MUSIC,none
+SADRA (MUSIC),none
+BRASÍLIA HIP-HOP,none
+HAITIAN GOSPEL,none
+HAITIAN ROCK,none
+HIP-HOP GALSEN,none
+MUSIC OF GUINEA,none
+LATIN CHRISTIAN MUSIC,none
+ANIMATION MUSIC,none
+SCOTTISH FOLK MUSIC,none
+MERIYASU,none
+KANIKAPILA,none
+TRIUMPHAL MARCH,none
+SEMINOLE MUSIC,none
+FAKASEASEA,none
+FATELE,none
+Q'AXILU,none
+MALAYSIAN CONTEMPORARY MUSIC,none
+DHUMPA SANGITA,{'File:Dhumpa Sangita of Khandapada, Odisha by Gadadhara Dhumpa Parisada.ogg'}
+FOLKHOP,none
+RYUKYUAN MUSIC,none
+QUAKER MUSIC,none
+RABÒDAY,none
+FUTURE BASS,{'File:Women wrestling (feat. GUMI V6) - official audio.ogg'}
+MUISCA MUSIC,none
+CATALOGUE ARIA,none
+MASONIC MUSIC,none
+TUMBA FRANCESA,none
+AFRICAN POPULAR MUSIC,none
+MANDOPOP,{'File:The Moon Represents My Heart - Teresa Teng.ogg'}
+POLITICAL HIP-HOP,none
+UNBLACK METAL,{'File:Antestor - A Sovereign Fortress.ogg', 'File:Horde - Invert the Inverted Cross.ogg'}
+OLD-TIME MUSIC,{'File:Rabbit-Slaughter.ogg', 'File:TheOldGreyMare.ogg'}
+CAPOEIRA MUSIC,none
+MUSIC OF LIECHTENSTEIN,none
+MUSIC OF NORTH KOREA,none
+MUSIC OF ESWATINI,none
+MUSIC OF CHAD,none
+CHÈO,none
+MAHORI,none
+BEOMPAE,none
+POP SUNDA,none
+MUSIC OF OSSETIA,none
+MARI MUSIC,none
+CHOPPER (RAP),none
+FINNISH HIP-HOP,none
+NEW ZEALAND HIP-HOP,none
+RUSSIAN HIP-HOP,none
+SLOVAK HIP-HOP,none
+HAMD,none
+ORCHESTRAL JAZZ,none
+IN NOMINE,{'File:Bull In Nomine1.mid', 'File:Gibbons In Nomine1.mid', 'File:Robert Parsons (ca.1535-1572) - In Nomine à7, No.2, London. GB-Lbl, Add.Ms.31390 (ca.1578).ogg', 'File:Poynt - In Nomine à5, British Library Add. Ms 31390 for Treble, Tenor & Bass Viols.ogg', 'File:Henry Purcell (1659-1695) – In Nomine à7, Z.747 for Treble, Tenor & Bass Viols.ogg', 'File:Orlando Gibbons (bap.1583-1625) - In Nomine à4 for Treble, Tenor & Bass Viols with Great Bass.ogg', 'File:Henry Purcell (1659-1695) – In Nomine à6, Z.746 for Treble, Tenor & Bass Viols.ogg', 'File:John Taverner - In Nomine à5 from the Missa Gloria Tibi Trinitas, London. GB-Lbl, Add.Ms.31390 (ca.1578).ogg', 'File:William Byrd (ca.1540-1623) - In Nomine à4, VdGS No.2, Oxford. Bodleian Library, Mus.Sch.d.212-6 (ca.1610).ogg', 'File:Elway Bevin (ca.1554-1638) - In Nomine à5, No.2, Oxford. Bodleian Library, Mus. Sch. d.212-216 (ca.1610).ogg', 'File:John Taverner In Nomine a4 from the Missa Gloria Tibi Trinitas, The Baldwin Partbooks, Oxford. Christ Church.ogg', 'File:Picforth - In Nomine à5 for Treble, Tenor & Bass Viols (c.1578).ogg'}
+MUSIC OF CATALONIA,none
+FRAT ROCK,none
+ROCK CATALÀ,none
+KIDUMBAKI,none
+LATIN HIP-HOP,none
+LLAMERADA,none
+DARK WAVE,none
+MADRIGALE SPIRITUALE,none
+MAGGIO DRAMMATICO,none
+AZERBAIJANI POP MUSIC,none
+JEWISH WESTERN ART MUSIC,none
+IGBO RAP,none
+AZERBAIJANI CLASSICAL MUSIC,none
+BMG MOVEMENT,none
+RHYTHM & PRAISE MUSIC,none
+IGBO HIGHLIFE,none
+KILIPPATTU,none
+KRISHNACORE,none
+MUSIC OF EGYPT,none
+NEW MEXICO MUSIC,none
+IRANIAN JAZZ,{'File:Rana Farhan - Man Mast o To Divāne.ogg'}
+XOAN SINGING,none
+NANJING BAIJU,none
+CHAMARRITA,none
+CHAMBER JAZZ,none
+CHAMRIENG SAMAI,none
+RAPTOR HOUSE,none
+CHANSON POUR BOIRE,none
+CHANTÉ MAS,none
+TUỒNG,none
+CHAP HOP,none
+CHIMURENGA MUSIC,none
+CHARANGA-VALLENATA,none
+TAMBOR DE CRIOULA,none
+CHINESE FOLK FLUTE MUSIC,none
+PLASTIC SOUL,none
+VANGUARDA PAULISTA,none
+VIETNAMESE DIASPORIC MUSIC,none
+NARDCORE,none
+MUSIC OF PRINCE OF QIN BREAKING UP THE ENEMY'S FRONT,none
+CHICKEN SCRATCH,none
+CHAZEZESA CHALLENGERS,none
+SURREALIST MUSIC,none
+AZERBAIJANI ROCK,none
+TERRA VERDE,none
+SON CUBANO,none
+MELODIC METALCORE,none
+PROGRESSIVE COUNTRY,none
+OLD ROMAN CHANT,none
+NOHA,none
+NEUE MUSIK,none
+RARA TECH,none
+RUMBA,none
+NUYORICAN RAP,none
+CUMBIA POP,none
+SHAMAN PUNK,none
+XẨM,none
+MUSIC OF AFRICAN HERITAGE IN CUBA,none
+RASTEIRINHA,none
+HOKO (DANCE),none
+MUSIC OF SOUTHEAST ASIA,none
+CAROL (MUSIC),none
+MUSIC OF TAMIL NADU,none
+MUSIC OF MIZORAM,none
+MUSIC IN ANCIENT INDIA,none
+KONTRADANS,none
+VENEZUELAN MERENGUE,none
+MUSIC OF COSTA RICA,none
+PROGRESSIVE ROCK IN MEXICO,none
+SANTÉ ENGAGÉ,none
+MUZICĂ POPULARĂ,none
+HUNGARIAN POP,none
+URBAN CHAMPETA,none
+DISCANT,none
+YAQUI MUSIC,none
+ZIMBABWEAN JAZZ,none
+ZIMDANCEHALL,none
+KADONGO KAMU,none
+THE VOËLVRY MOVEMENT,none
+TOWNSHIP MUSIC,none
+YEONGSAN HOESANG,none
+YO-POP,none
+JAPANESE ROCK,none
+HUMPPA,none
+SOCA MUSIC,none
+NEO-PROG,none
+CEÒL BEAG,none
+ANCIENT CELTIC MUSIC,none
+ANCIENT TAMIL MUSIC,{'File:Thiruppugazh - Umbartharu - Hamsadhwani.wav'}
+FIFE AND DRUM CORPS,{'File:Roast Beef of England.ogg'}
+AMERICAN GAMELAN,none
+AMERICAN PATRIOTIC MUSIC,{'File:Columbian Anthem 1890s - Patriotic Song.ogg'}
+AMERICAN POP,none
+CHICAGO HOUSE,none
+MUSIC OF TURKEY,{'File:KatibimUskudaraGiderIken-SafiyeAyla.ogg'}
+TŌGAKU,none
+WAULKING SONG,none
+XENHARMONIC MUSIC,{'File:Xenharmonic versus microtonal P4.mid'}
+XHOSA MUSIC,none
+XINTIANYOU,none
+XINYAO,none
+WELSH BARDIC MUSIC,none
+WERE MUSIC,none
+WEST GALLERY MUSIC,none
+WESTERN SWING FIDDLE,none
+WOLOF MUSIC,none
+WOMEN'S MUSIC,none
+WONKY POP,none
+CONTEMPORARY MUSIC,none
+CHANSON,{'File:LL-Q150 (fra)-Poslovitch-chanson.wav'}
+CHANGÜÍ,{'File:Changui guajeo cut-time.mid'}
+VIDEO GAME MUSIC,{"File:Hangin' Out - 3D Movie Maker.ogg", 'File:Northern mountains.ogg', 'File:Wesnothmusic.ogg'}
+IRANIAN ROCK,{'File:Marde Tanhaye Shab.ogg'}
+RUNIC SONG,none
+RUSSIAN FOLK MUSIC,none
+RUSSIAN ROMANCE,none
+MICROTONALITY,{'File:Ives quarter tone fundamental chord arp.mid', 'File:Ives fundamental chord (quarter tones).ogg', 'File:Greek Dorian mode on E, enharmonic genus.mid'}
+CHINESE ROCK,none
+RELIGIOUS MUSIC,none
+CHARACTER PIECE,none
+MUSIC OF HUNGARY,{'File:USAFB Czardas.ogg', 'File:Marche Hongroise - U.S. Marine Band.ogg', 'File:Megállj, megállj, kutya Szerbia.ogg', 'File:Hungarian Dance No. 1 - Strolling Strings - United States Air Force Band.mp3', 'File:Johannes Brahms - Ungarischer Tanz 5 g-moll.ogg', 'File:Hungarian Rhapsody No 2.ogg'}
+ITALO DANCE,none
+QUEERCORE,none
+GARAGE HOUSE,none
+AZERBAIJANI HIP-HOP,none
+JARABE,none
+CHIPMUNK SOUL,none
+BACHATÓN,none
+BAGANDA MUSIC,none
+BASSLINE (MUSIC GENRE),none
+AZONTO,none
+ASSYRIAN FOLK-POP MUSIC,none
+JUG BAND,none
+AUSTRALIAN HARDCORE,none
+AUSTRALIAN INDIE ROCK,none
+AUSTRALIAN JAZZ,none
+AUSTRALIAN SKA,none
+AUSTRALIAN THRASH METAL,none
+BAGGY,none
+DANZÓN,{'File:Pensamiento, Danzón.flac', 'File:Flor De Yurumi, Danzón.flac', 'File:Baqueteo-2.mid', 'File:Danzon-veracruz.ogg', 'File:Lago Azul, Danzón.flac'}
+UK GARAGE,none
+DARK CABARET,none
+DEATHROCK,none
+DARKCORE,none
+MONTEA,none
+LENTO VIOLENTO,none
+QUODLIBET,none
+PSYCHEDELIC BREAKBEAT,none
+ILORIN WAKA,none
+KOSMISCHE MUSIK,none
+KIEVAN CHANT,none
+DARIACORE,none
+POP KREATIF,{'File:Fariz RM - Jawab Nurani (1981).ogg', 'File:Lydia-kandou-aku-semakin-ragu e0M0dtck.ogg', 'File:Sakura-abadi.ogg'}
+BRAZILIAN FUNK,none
+TROPICAL HOUSE,none
+CONGOLESE HIP HOP,none
+UGANDAN HIP HOP,none
+BAROQUE SUITE,none
+FIRST-WAVE BLACK METAL,none
+QAYTARMA,none
+SHITGAZE,none
+HELA KHAYAL DANGAL,none
+BOHEOJA,none
+BOLEL,none
+TIN PAN ALLEY,{'File:Spoken Wikipedia - Tin Pan Alley.ogg', "File:I'm a Yiddish Cowboy - Edward Meeker (1908).ogg"}
+NURSERY RHYME,{'File:StClementsDanes.ogg', 'File:Twinkle Twinkle Little Star - sung with full lyrics.ogg'}
+BOMBA (ECUADOR),none
+BOOGIE (GENRE),none
+SOUTHERN HIP-HOP,none
+BEĆARAC,none
+SINGJAY,none
+SPECTRAL MUSIC,none
+TUNA (MUSIC),none
+MONTUNO,none
+THROAT SINGING,none
+CHICAGO BLUES,none
+MUSIC OF HAWAII,{'File:Madam Alapai, Henry N. Clark - Aloha Oe.ogg'}
+21ST-CENTURY CLASSICAL MUSIC,none
+CHABAD NIGGUNIM,none
+CHRISTIAN SKA,none
+CHAMAMÉ,none
+SHCHEDRIVKA,none
+CHAMPETA,none
+ABECEDARIAN HYMN,none
+EGG PUNK,none
+LOWEND,none
+LOSTWAVE,none
+BUBBLEGRUNGE,none
+AFRO TECH,none
+NORTEÑO-SAX,none
+MICHIGAN RAP,none
+PONTIC GREEK MUSIC,none
+IKWOKIRIKWO,{'File:LL-Q33578 (ibo)-Celetex-Ikwokirikwo.wav'}
+GABBERPOP,none
+AFRO FUSION,none
+COPY THACHIN,none
+POST-NO WAVE,none
+PSYCHEDELIC RAP,none
+OWERRI BONGO,{'File:LL-Q33578 (ibo)-Celetex-Owerri bongo.wav'}
+SINOGRIME,none
+IGBO CHRISTIAN MUSIC,none
+ALASKAN HIP-HOP,none
+SCAM RAP,none
+BESTE (TURKISH MUSIC),none
+BEACH MUSIC,none
+BEDOUIN MUSIC,none
+BELEGANJUR,none
+BANGO (MUSIC),none
+BALOCHI MUSIC,none
+BALTIMORE CLUB,none
+BENINESE HIP-HOP,none
+BENNA (GENRE),none
+BANDANA THRASH,none
+BANGLADESHI HIP-HOP,none
+BANGLADESHI ROCK,none
+BANTOWBOL,none
+BENTONIA SCHOOL,none
+BANDISH,none
+MUSIC OF SÃO TOMÉ AND PRÍNCIPE,none
+BEAUTIFUL MUSIC,none
+BATTAGLIA (MUSIC),none
+BHANGRAGGA,none
+BIG DRUM,none
+BATÁ-RUMBA,none
+DASTGAH MUSIC,none
+DIHANAAM,none
+DIKIR BARAT,none
+DHUN,none
+DARKSTEP,none
+DIRTY BLUES,none
+DAWR,none
+DE DRAGOSTE,none
+DOMINICAN ROCK,none
+DENE MUSIC,none
+DONDANG SAYANG,none
+DESI HIP-HOP,none
+ROUGH MUSIC,none
+DHAMAIL,none
+DARK INDUSTRIAL,none
+BUBU MUSIC,none
+JAPANESE METAL,{'File:Dir en grey - Hageshisa to.ogg', 'File:X kurenai.ogg'}
+BUENOS AIRES HARDCORE,none
+LAMBADÃO CUIABANO,none
+BRITISH POP MUSIC,none
+MUSIC OF BENIN,none
+MUSIC OF MALI,none
+MUSIC OF BURUNDI,none
+BRISBANE PUNK ROCK,none
+BRIT FUNK,none
+BRITISH DANCE BAND,none
+BRITISH JAZZ,none
+BRITISH RHYTHM AND BLUES,none
+BRITISH ROCK AND ROLL,none
+BRITISH SOUL,none
+GUITARRADA,none
+BROWN-EYED SOUL,none
+TANCI,none
+MDUNDIKO,none
+MERENHOUSE,none
+RŌKYOKU,none
+MUSIC OF KENYA,none
+MUSIC OF RWANDA,none
+MUSIC OF UGANDA,none
+BEIGUAN MUSIC,none
+COUPLETS (CABARET),none
+CLASSIC HIP-HOP,none
+RAGLIFE,none
+REBITA,none
+MA'LUF,none
+DESGARRADA,none
+UKRAINIAN METAL,none
+LUTHERAN CHORALE,none
+UK FUNKY,none
+FUNK MELODY,none
+CONTEMPORARY CATHOLIC LITURGICAL MUSIC,none
+KPANLOGO,none
+PALO DE MAYO,none
+LISCIO,none
+TRADITIONAL JAPANESE MUSIC,none
+HARSH NOISE,none
+AMERICAN MARCH MUSIC,none
+JAPANESE JAZZ,none
+NOMOS (MUSIC),none
+KUSHTDEPDI,none
+TANGO-ROCK,none
+GAELIC FOLK MUSIC,none
+TRADITIONAL NORDIC DANCE MUSIC,none
+TRADITIONAL BLUEGRASS,none
+MARTIAL INDUSTRIAL,none
+JIG,none
+INSTRUMENTAL HIP HOP,none
+SENTIMENTAL BALLAD,none
+MUSIC OF MADAGASCAR,none
+POST-BOP,none
+CELTIC FUSION,none
+VILLOTTA,none
+GLITCH (MUSIC),none
+AGGROTECH,none
+POP SCREAMO,none
+CHRISTIAN DEATH METAL,none
+FRAT RAP,none
+FUNK OUSADIA,none
+NEW WAVE OF CLASSIC ROCK,none
+VISAYAN POP,none
+RUSSIAN JAZZ,none
+WINDMILL SCENE,none
+CUDDLECORE,none
+DIKIR BARAT SINGAPURA,none
+BLAXPLOITATION (MUSIC GENRE),none
+PIGFUCK,none
+JAPANESE HARDCORE,none
+OBSCURO,none
+QUICKSTEP (MARCH MUSIC),none
+MILWAUKEE HIP-HOP,none
+CUPLÉ,none
+GOTHIC POP,none
+TOUGH GUY HARDCORE,none
+HAPA HAOLE MUSIC,none
+BANAMBA (DANCE),none
+BLOGHOUSE,none
+CANTE ALENTEJANO,none
+GOSPEL TRAP,none
+KRUSHCLUB,none
+COLOMBIAN HIP HOP,none
+NERD MUSIC,none
+NEW PARTISANS,none
+TORONTO SOUND (HIP-HOP),none
+ROAD RAP,none
+GELINEAU PSALMODY,none
+GAZEL,none
+GBEDU,none
+GOMBHIRA,none
+GALERÓN,none
+GAME BOY MUSIC,none
+GAMELAN SITERAN,none
+GAMELAN GADHON,none
+GAMELAN SEKATEN,none
+GAMELAN SURAKARTA,none
+GAMELAN GENDER WAYANG,{'File:Gamelan gender Wayang ensemble accompanying Balinese Wayang puppetry.wav'}
+GAMELAN GONG GEDE,none
+GAMELAN BEBONANGAN,none
+GAMELAN GAMBANG,none
+GAMELAN SALENDRO,none
+GAMELAN JEGOG,none
+GINANS,none
+GAMELAN SEMAR PEGULINGAN,none
+GAMELAN DEGUNG,none
+GAMELAN SELUNDING,none
+GEET (SONG),none
+GANGTAI,none
+GOGO (QUEBEC MUSIC),none
+GENGE,none
+GERMAN ELECTRONIC MUSIC,none
+YU-MEX,none
+ZOTI,none
+RAUTALANKA,none
+ŻURAWIEJKA,none
+YUMAN MUSIC,none
+YŌKYOKU,none
+BREGA POP,none
+AVANZADA REGIA,none
+AMBIENT BLACK METAL,none
+ZIMBABWEAN HIP-HOP,none
+ZINDALII,none
+ZOROASTRIAN MUSIC,none
+ZOUK-LOVE,none
+MUSIC OF PARAGUAY,none
+MUSIC OF EQUATORIAL GUINEA,none
+BORIA (THEATRE),none
+BRAZILIAN THRASH METAL,none
+BOOMBA MUSIC,none
+BORGEET,{'File:Alo Moi.ogg'}
+BRAVURA,none
+JERSEY CLUB,{'File:MightyFLASH Sharpbounce (Inspired by Dxnvro).wav'}
+BOSNIAN AND HERZEGOVINIAN HIP-HOP,none
+BOSNIAN ROOT MUSIC,none
+BOTHY BALLAD,{'File:Barnyards of Delgaty.ogg'}
+BOUNCE MUSIC,none
+BOUYON SOCA,none
+BOUYON MUSIC,none
+MIRABI (MUSIC),none
+KOLIADKA,{'File:Nova radist stala.mid'}
+NHẠC DÂN TỘC CẢI BIÊN,none
+TROPICAL FUSION,none
+BIRMINGHAM SOUND,none
+BRO-COUNTRY,none
+B-TOWN,none
+TECHNICAL DEATH METAL,none
+CHORO,{'File:MARIANA EM SARRILHO (Irineu de Almeida) - Grupo do Novo Cordão 1907.ogg', 'File:Atraente chiquinha pixinguinha.ogg', 'File:Magoado (João Pernambuco) - João Pernambuco 1930.ogg', 'File:003-harmonia selvagem - dante santoro 1938.ogg', 'File:Amapá - Dante Santoro - 1941- Juca Storoni.ogg', 'File:Sofres porque queres - Pixinguinha 1919.ogg', 'File:Aguenta, seu Fulgêncio - Pixinguinha.ogg', 'File:ESCOVADO (Ernesto Nazareth) - Ernesto Nazareth 1907.ogg', 'File:Corta jaca 1912.ogg', 'File:Chiquinha gonzaga - sultana 1908.ogg', 'File:MASSADA (Lulu Cavaquinho) - Choro Carioca 1911.ogg', 'File:1 x 0 Pixinguinha e Benedito.ogg', 'File:Pixinguinha- O Urubu e o Gaviao 1930.ogg', 'File:Tico Tico no Fubá-Orquestra Colbaz-Zequinha de Abreu-1931.ogg'}
+MUSIC OF ALBANIA,none
+BALLET (MUSIC),none
+BAISHA XIYUE,none
+LATIN ALTERNATIVE,none
+BAITHAK GANA,none
+BAKA MUSIC,none
+BALAKADRI,none
+BALKAN JAZZ,none
+CHUTNEY MUSIC,none
+FUNKTRONICA,none
+PASSAMEZZO,none
+MUSIC OF GUATEMALA,none
+SYNTH-POP,none
+ROOTS REGGAE,none
+DUB POETRY,none
+PIEDMONT BLUES,none
+JUNGLE MUSIC,none
+RAGGA HIP HOP,none
+GRIME MUSIC,none
+DISCO POLO,none
+DEATH 'N' ROLL,none
+DEEP FUNK,none
+EUROPEAN FREE JAZZ,none
+EUROPEAN HIP-HOP,none
+HYANGAK,none
+EWE MUSIC,{'File:3 over 2.mid', 'File:3 over 8.mid', 'File:Kadodo bell pattern.mid'}
+EXTEMPO,none
+LURI MUSIC,none
+ENGLISH ART SONG,none
+ENGLISH COUNTRY MUSIC,none
+FAKANAU,none
+FALAK MUSIC,none
+ERRENZHUAN,none
+FILIN (MUSIC),none
+EEFING,none
+EGYPTIAN HIP-HOP,none
+TAMUNANGUE,none
+V-POP,none
+HARD NRG,none
+TELEVISION NEWS MUSIC,none
+TALEMPONG,none
+KOOTHU,none
+TAMBOR (DANCE),none
+TANZANIAN HIP-HOP,none
+TAQTUQA,none
+TATAR ROCK,none
+MUSIC OF TANZANIA,{'File:Tanzanian national anthem, performed by the United States Navy Band.oga'}
+TCHE MUSIC,none
+TV TRACK,none
+TECNOCUMBIA,none
+TEENAGE TRAGEDY SONG,none
+TAGH,none
+TAIWANESE HIP-HOP,none
+TAIWANESE ROCK,none
+TAJARASTE,none
+BAL-MUSETTE,none
+TEOCHEW STRING MUSIC,none
+MADIH NABAWI,none
+DESERT BLUES,none
+TIERRA CALIENTE MUSIC,none
+THEATRE MUSIC,none
+TEXAS ROADHOUSE MUSIC,none
+TIZITA,none
+IKORODO,{'File:LL-Q33578 (ibo)-Vivian Amalachukwu-Ikorodo music.wav'}
+BRAZILIAN PHONK,none
+JERK (MUSIC GENRE),none
+DOMINICAN HIP-HOP,none
+FOLK BAROQUE,none
+FOLK JAZZ,none
+FOLK RAGTIME,none
+FAMO,none
+FELL (MUSIC),none
+FESTEJO,none
+FOXCORE,none
+FANN AT-TANBURA,none
+PALM-WINE MUSIC,none
+FIFE AND DRUM BLUES,none
+FIJIRI,none
+FILMI-GHAZAL,none
+FILMI QAWWALI,none
+FILMI POP,none
+FOOTWORK (GENRE),none
+CLASSIC FEMALE BLUES,{'File:Mamie Smith, Crazy Blues.ogg'}
+INDIE FOLK,none
+SACRED CONCERTO,none
+HOKUM,none
+INDIAN CLASSICAL MUSIC,none
+RHYTHM & GRIME,none
+ROCK MUSIC IN BOSNIA AND HERZEGOVINA,none
+PONTO CANTADO,none
+SAMBA-CHORO,none
+SAMBA-JOIA,none
+SAMBA FUNK,none
+SAMBA-SINCOPADO,none
+SAMBA DE BREQUE,none
+SAMBALANÇO,none
+SERESTA (MUSIC),none
+SERTANEJO UNIVERSITÁRIO,none
+MUSIC OF CAMEROON,{'File:Music for the Lela Celebration.ogg'}
+PROIBIDÃO,none
+URBANO MUSIC,none
+YORUBA MUSIC,{'File:Standard pattern duple and triple.mid', 'File:Standard pattern duple.mid', 'File:Standard pattern triple.mid'}
+NEW CHILEAN CUMBIA,none
+AMBASSE BEY,none
+AMERICAN ART SONG,none
+AMERICAN FIDDLE,none
+MULIZA,none
+JAZZSTEP,none
+NIGERIAN REGGAE,none
+REGGAE PUNK,none
+NIGERIAN GOSPEL,none
+NUEVA OLA,none
+CHORAL CONCERTO,none
+KANTU,{'File:Kantu.mid'}
+FUTURE GARAGE,none
+FUNKOT,none
+FUNGI (MUSIC),none
+CITY POP,none
+FREE FUNK,none
+FRENCH-CANADIAN MUSIC,none
+FRENCH MANDOPOP,none
+FRENCH CLASSICAL MUSIC,none
+FRENCH ELECTRONIC MUSIC,none
+FRENCH JAZZ,none
+AKISHIBU-KEI,none
+FUGUING TUNE,{'File:Jeremiah Ingalls - Northfield.ogg'}
+FRENCH POP MUSIC,none
+DADRA,none
+MUSIC OF VIETNAM,none
+NÓTA,none
+DANGDUT,none
+KIZOMBA,none
+REGGAE FUSION,none
+MUSIC OF TIBET,none
+BREAKBEAT HARDCORE,none
+PUB ROCK (UNITED KINGDOM),none
+ELEVATOR MUSIC,{'File:Local Forecast - Elevator (ISRC USUAN1300012).mp3'}
+TRALLALERO,none
+FURIANT,{'File:Three Dances from the Bartered Bride - II. Furiant - U.S. Marine Band.ogg', 'File:Trnecek op 77.mid', 'File:Sedlak sedlak sedlak.ogg'}
+PAISLEY UNDERGROUND,none
+SELICHOT,none
+JANGLE POP,none
+POST-DISCO,none
+DENGBÊJ,none
+TRADITIONAL POP,none
+EAST AFRICAN URBAN MUSIC,none
+EASTERN JOROPO,none
+ECLECTICISM IN MUSIC,none
+ECUADORIAN ROCK,none
+EDUCATIONAL MUSIC,none
+DONGJING (MUSIC),none
+DOWNTOWN MUSIC,none
+C-POP,none
+YUKAR,none
+INDUSTRIAL HARDCORE,none
+KUDURO,none
+APPALACHIAN MUSIC,none
+ARGENTINE CUMBIA,none
+MUSIC OF SOUTH AFRICA,none
+ART SONG,none
+ART SONG IN ARABIC,none
+ASIAN HIP-HOP,none
+ANGLICAN CHANT,none
+ANGLICAN CHURCH MUSIC,none
+ROCK MUSIC IN ANGOLA,none
+CANADIAN PATRIOTIC MUSIC,none
+MUSIC OF INDONESIA,none
+JOROPO,none
+SHIBUYA-KEI,none
+ÉCOSSAISE,none
+GEBRAUCHSMUSIK,none
+DENPA SONG,none
+KŌSHIKI,none
+LATIN MUSIC IN CANADA,none
+CONCERT OVERTURE,none
+KOUTA (MUSIC),none
+CHURCH CANTATA,none
+RNBASS,none
+JINKU,none
+SHŌKA (MUSIC),none
+MUSIC OF NORTH AFRICA,none
+PERPETUUM MOBILE,none
+MENTO,none
+ROMANI MUSIC,none
+DUB TECHNO,none
+TOWER MUSIC,none
+DRILL 'N' BASS,none
+DUMKA (MUSICAL GENRE),none
+RECESSION POP,none
+NU DEATHCORE,none
+PUERTO RICAN HIP-HOP,none
+POP MELANKOLIS,none
+HADHRAMI MUSIC,none
+ART MUSIC,none
+VALLENATO,none
+UK HARD HOUSE,none
+ALTERNATIVE FOLK,none
+YACHT ROCK,none
+HIPCO,none
+RIELDANS,none
+BRETON HYMNS,none
+VERNACULAR MUSIC,none
+HARDBASS,none
+PHILADELPHIA SOUL,none
+BUGLE CALL,{'File:Rouse.wav', 'File:Reveille on bugle.ogg', 'File:Taps on bugle.ogg', 'File:Tattoo.ogg', 'File:ToTheColor.ogg', 'File:CallToQuarters.ogg', 'File:Retreat.ogg', 'File:FirstCall.ogg'}
+ROCK IDENTITAIRE FRANÇAIS,none
+WEST COAST JAZZ,none
+PARANDA (MUSIC),none
+JAZZ IN MEXICO,none
+ITALIAN BEAT,none
+CROATIAN HIP-HOP,none
+TRADITIONAL BACHATA,none
+MINIMAL PSYTRANCE,none
+PROGRESSIVE BREAKS,none
+COUNT SINGING,none
+BOSSTOWN SOUND,none
+MAHRAGANAT,none
+HARANA (SERENADE),none
+HYPNAGOGIC POP,{'File:Round and Round - Ariel Pink.ogg'}
+AFRO (GENRE),none
+DISCO-POP,none
+MOOMBAHSOUL,none
+BASS HOUSE (MUSIC),none
+BRILL BUILDING (GENRE),{'File:Neil Sedaka - Breaking Up.ogg'}
+MUSIC OF CURAÇAO,none
+SOUTH AFRICAN HEAVY METAL,none
+BEATRHYMING,none
+Q-POP,none
+DESCARGA,none
+TAHONA,none
+BIGWALA,none
+BUDDHIST CHANT,none
+JÙJÚ MUSIC,none
+JEWISH MUSIC,{'File:You Land.ogg', 'File:Truth God Your Name.ogg', 'File:Prokofiev - Advent Chamber Orchestra - Overture on Hebrew Themes.ogg'}
+RAGA ROCK,none
+MODINHA,none
+BOCET,none
+VAUDEVILLE IN THE PHILIPPINES,none
+BODUBERU,none
+BOEDRA,none
+BISROCK,none
+AMBIENT TECHNO,none
+WAKA MUSIC,none
+KANTRUM,none
+AVANT-POP,none
+BLUEGRASS FIDDLE,none
+SOUTHERN SOUL,none
+JÁCARA,none
+GUARACHA,none
+MUIÑEIRA,none
+LEISE,none
+TAARAB,none
+MUSIC OF GREECE,{'File:Fevgo Kori.ogg', 'File:ΑΤΤΙΚ Μιλιάρης - Τα νιατα (1918).ogg', 'File:1918SmyrnaMinore.ogg'}
+SEMBA,none
+PARODY MASS,none
+FUNKSTEP,none
+PIBROCH,{'File:Canntaireachd.ogg', 'File:Barluath.ogg', 'File:Dithis.ogg', 'File:Piobaireachd.ogg', 'File:Ceolbeag.ogg', 'File:Crunluath.ogg', 'File:Binneasisboraraig.ogg', 'File:Leumluath.ogg', 'File:Urlar.ogg', 'File:Taorluath.ogg', 'File:Piobaire.ogg', 'File:Siubhal.ogg', 'File:Ceolmor.ogg'}
+CUMBIA VILLERA,none
+GOREGRIND,none
+LOUNGE MUSIC,none
+GALANT MUSIC,none
+HAIMEN FOLK SONG,none
+HAITIAN HIP-HOP,none
+HAITIAN VODOU DRUMMING,none
+HAKKA HILL SONG,none
+GUNLA BAJAN,none
+GRAPHICAL SOUND,none
+GUOYUE,none
+HANUKKAH MUSIC,{'File:The Dreidel Song - Singing Sergeants - United States Air Force Band.mp3', "File:S'vivon - Singing Sergeants - United States Air Force Band.mp3"}
+GÅNGLÅT,none
+SHOUT (BLACK GOSPEL MUSIC),none
+GOOMBAY,none
+GREEK PUNK,none
+HARAWI (GENRE),none
+GUMBE,none
+GROOVY SOCA,none
+GŌSHŪ ONDO,none
+GRUPERA,none
+GUATEMALAN ROCK,none
+CLEVELAND PUNK,none
+SYNTHWAVE,{'File:Our Ghosts - My First Day at the Retro Game Corps.ogg'}
+NEW ORLEANS HIP-HOP,none
+ZOUK LOVE (MUSIC STYLE),none
+MAIDCORE,none
+TOYTOWN POP,none
+RISECORE,{'File:Chain of Memories I Am King.ogg', 'File:Start Again Alive Like Me.ogg'}
+FUTURE HOUSE,{'File:Exyl - Never Letting Go.ogg'}
+BLOG ROCK,none
+GRUNGEGAZE,none
+AMERICAN CLASSICAL GUITAR MUSIC,none
+INTERNET RAP,none
+JERK RAP,none
+MELBOURNE BOUNCE,none
+SENJA (GENRE),{'File:Pergi-jauh Reruntuh.ogg'}
+LEKOMPO,none
+CAIPIRA MUSIC,{'File:Cantar é meu destino.ogg'}
+KILALAKY (MUSIC GENRE),none
+GUFENG MUSIC,none
+KÂNGË MAJEKRAHI,none
+AMAPIANO,none
+ODI POP,none
+PROGRESSIVE ELECTRONIC MUSIC,none
+UKRAINIAN FOLK MUSIC,none
+VAPORTRAP,none
+MALLSOFT,{'File:Palm Mall by Cat System Corp.ogg'}
+FUTURE FUNK,none
+AFROSWING,none
+CELEMPUNGAN,none
+BRAZILIAN BASS,none
+MAMBO (MUSIC),none
+DANCE-PUNK,none
+INSTRUMENTAL ROCK,none
+KUMINA,none
+CRUNKCORE,none
+MODERNISM (MUSIC),none
+OUTSIDER MUSIC,none
+GAR (MUSIC),none
+TROVA,none
+SOUL JAZZ,none
+HIPLIFE,none
+HIPSTER HOP,none
+SYMPHONIC BLACK METAL,none
+FRENCH ORGAN SCHOOL,none
+FRENCH HOUSE,{'File:Mit tiefpass vcf und vco.ogg'}
+FRENCHCORE,none
+PAGAN METAL,none
+FREVO,none
+TSAPIKY,none
+EXPERIMENTAL POP,{'File:Joe Meek - Moon Entry of the Globbots.ogg'}
+ART POP,{'File:Beach Boys - Good Vibrations.ogg', 'File:Strawberry Fields Forever (Beatles song - sample).ogg', 'File:Running Up That Hill.ogg'}
+INDIGENOUS NIGERIAN MUSIC,none
+NEON POP-PUNK,none
+MAURITIAN HIP HOP,none
+NEW YORK SOUL,none
+SERBIAN FOLK MUSIC,none
+AFROBEATS,none
+NEO-ROCKABILLY,none
+TRADITIONAL COUNTRY MUSIC,none
+UK DRILL,none
+MODERN PAGAN MUSIC,none
+GOTHIC COUNTRY,none
+RIDDIM (GENRE),{'File:Infekt - Orgalorg.ogg', 'File:Bommer & Crowell - Yasuo.ogg'}
+BOLOJO,none
+ZALEY,none
+GAELIC PSALM SINGING,none
+PROGRESSIVE PUNK,none
+SINGELI,none
+AYAI,none
+ZECKENRAP,none
+SEBENE,none
+PUNK RAP,none
+BANGLADESHI HEAVY METAL,none
+PUNGMUL AS PROTEST,none
+STRINGED MUSIC IN CHINA,none
+HOLBOO,none
+PAGODE BAIANO,none
+FINNISH FOLK MUSIC,none
+POP MELAYU,none
+QARAAMI,none
+BULGARIAN JAZZ,none
+GALICIAN RUMBA,{'File:Simple Andalusian cadence.mid'}
+STADIUM HOUSE,none
+DOHORI,none
+LUDDI,none
+POLKA MUSIC,none
+CLUB MUSIC,none
+ZOUK CHOUV,none
+AFRO TRAP,none
+PASHTO MUSIC,none
+DRONE METAL,none
+AXÉ,none
+FOLKTRONICA,none
+GWERZ,none
+FUTURE SOUL,none
+GAANA,none
+CANTILENA,none
+CHICAGO SOUL,none
+TEXAS BLUES,none
+PUNK PATHETIQUE,none
+VOCALISE,none
+MIDDLE EASTERN MUSIC,none
+LO-FI MUSIC,none
+POWERVIOLENCE,none
+VIKING ROCK,none
+LONG SONG,none
+MARRABENTA,none
+CUBAN HIP-HOP,none
+KURDISH MUSIC,none
+SON JAROCHO,{'File:Sonecito libre extendido.ogg'}
+ST. LOUIS BLUES (MUSIC),none
+M-BASE,none
+PASTORALE,none
+ISLAMIC MUSIC,none
+MUGHAM,none
+MEXICAN HIP-HOP,none
+MÚSICA CEBOLLA,none
+PREACHING CHORDS,none
+SANAA (MUSIC),{'File:Selli Houmoumek.ogg', 'File:Istikhbar Djarka.ogg'}
+TOI MUSIC,none
+NOISECORE,none
+ELECTROACOUSTIC MUSIC,none
+BRUNETTE (SONG FORM),none
+DANCEHALL POP,none
+NEW WAVE OF TRADITIONAL HEAVY METAL,none
+HAUNTOLOGY (MUSIC),none
+IRANIAN ALTERNATIVE ROCK,none
+CONTRA DANCE MUSIC,none
+CUMBIA REBAJADA,none
+LATIN R&B,none
+DABKE,none
+CHINESE HIP-HOP,none
+CHINESE HEAVY METAL,none
+CHORALE CONCERTO,none
+CHORALE MOTET,none
+CHOUVAL BWA,none
+CHOWTAL,none
+CHRIENG BRUNH,none
+CHRISTIAN ALTERNATIVE ROCK,none
+CHRISTIAN ADULT CONTEMPORARY,none
+CARNAVALITO,none
+NOVELTY SONG,none
+SAYA (ART FORM),none
+NUEVO TANGO,none
+TECNO BREGA,none
+CHRISTMAS CANTATA,none
+LATIN METAL,none
+YÉ-YÉ,none
+COWBOY POP,none
+OVI (MUSIC),none
+BLACKGAZE,none
+TYROLIENNE,none
+IKINIMBA,none
+COURT MUSIC IN SCOTLAND,none
+CLOUD RAP,none
+BALEARIC TRANCE,none
+MUSIC OF FRENCH GUIANA,none
+TOADA DE BOI,none
+BOTHY BAND,none
+POLS,none
+YELLOW MUSIC,none
+LUNDU (DANCE),none
+PSYCHEDELIC FOLK,none
+SLOWCORE,none
+GAMBIAN HIP-HOP,none
+GAMELAN GONG KEBYAR,none
+VILLANCICO,none
+DIE ANDEREN BANDS,none
+EPINIKION,none
+MUSIC OF CROATIA,none
+DIVERTISSEMENT,none
+HARMONIE,none
+ILLBIENT,none
+IRISH REBEL SONG,none
+NEW PRIMITIVISM,none
+MUSIC OF ZAMBIA,none
+KALINDULA,none
+MUSIC OF IRAN,none
+PALENQUERO MUSIC,none
+SOUNDCLOUD INDIE,none
+POST-NOISE,none
+PINOY JAZZ,none
+NORDIC JAZZ,none
+MUSIC OF BOTSWANA,none
+LANDFILL INDIE,none
+TRANSCORE (MUSIC GENRE),none
+MUSIC OF SOUTH SUDAN,none
+WEST SIDE SOUND,none
+TRADITIONAL HEAVY METAL,none
+FIDDLE-SINGING,none
+CRANK WAVE,none
+CHICANO PROTEST MUSIC,none
+POST-INTERNET (MUSIC),none
+SOFT GRUNGE (MUSIC),none
+SWEET JAZZ,none
+CORONATION ANTHEM,none
+ZOOMERGAZE,none
+LAPTOP TWEE,none
+INTERNET MUSIC,none
+POGI ROCK,none
+NEW MUSICK,none
+HIPDUT,none
+MALIANTEO,none
+PHAGUWA,none
+SLOWED AND REVERB,none
+HORRORCORE,none
+MUSIC OF ANCIENT GREECE,none
+PERSONAL ANTHEM,none
+FOLK-POP,none
+POP SOUL,none
+PREGÓN,none
+HARDBAG,none
+MADDAHI,none
+LIWA (MUSIC),none
+MAINSTREAM JAZZ,none
+KECAK,none
+CASSATION (MUSIC),none
+KWELA,{'File:I-IV-I64-V.mid'}
+WESTERN SWING,none
+KLAPA,none
+AMBROSIAN CHANT,none
+SAIBARA,none
+FLORIDA DEATH METAL,none
+MINIMAL TECHNO,{'File:André Michelle - Construct Infinity.ogg'}
+HAMBO,none
+ISICATHAMIYA,none
+POLYPHONIC SONG OF EPIRUS,none
+FUNERAL MARCH,{'File:Povero Ettore.ogg', 'File:Frederic Chopin Piano Sonata No.2 in B flat minor Op35 - III Marche Funebre.ogg', 'File:Klaviersonate Nr. 12 B-Dur, op. 26 - III.Marcia Funebre - Andante maestoso.ogg'}
+TURKISH MUSIC (STYLE),{'File:ReconstructionOfTurkishStopOnEarlyPianos.ogg', 'File:MozartTurkishThemeFromViolinConcertoNo5.ogg'}
+JAPANESE HIP-HOP,none
+JAZZ TROMBONE,none
+JAZZ BLUES,none
+JAZZ GUITAR,none
+NHÃ NHẠC,none
+CIRCASSIAN MUSIC,none
+COLLEGIATE A CAPPELLA,none
+COLOMBIAN ROCK,none
+COLOSSAL BAROQUE,none
+COMBINED RHYTHM,none
+COMEDY MUSIC,{'File:Minor second on C.mid', 'File:Perfect octave on C.mid'}
+CLASSIC COUNTRY,none
+CLASSIC SOUL,none
+CHRISTIAN COUNTRY MUSIC,none
+CHROMATIC FANTASIA,none
+CHULA (MUSIC),none
+CHUMAICHADA,none
+CHUMBA,none
+COCK ROCK,none
+CHUTNEY PARANG,none
+CHUTNEY SOCA,none
+CHẦU VĂN,none
+CIBELL,none
+COIMBRA FADO,none
+2-STEP GARAGE,{'File:Artful dodger feat craig david - rewind excerpt.ogg', 'File:Horsepower productions-gorgon sound extract.ogg'}
+SCHAFFEL,none
+SOUND ART,none
+SOUND COLLAGE,none
+CUBAN SALSA,none
+PIANO QUINTET,none
+MURGA,none
+CANCIÓN,none
+AMBIENT INDUSTRIAL,none
+FRAUENLIED,none
+GĦANA (FOLK MUSIC),none
+CHRISTMAS MUSIC,{'File:I Saw Three Ships.ogg', 'File:Christmas music2004.ogg', 'File:Joy-to-the-World KB.ogg', 'File:El Noi de la Mare (guitar).ogg'}
+MUSIC OF THE GAMBIA,none
+MUSIC OF THE DEMOCRATIC REPUBLIC OF THE CONGO,none
+MUWASHSHAH,none
+BRAZILIAN GAUCHO MUSIC,none
+SERTANEJO MUSIC,none
+MURDER BALLAD,none
+EXPERIMENTAL MUSIC,none
+EXPERIMENTAL ROCK,none
+MORENADA,none
+ORCHESTRAL SONG,none
+NOUVELLE CHANSON,none
+MUSIC OF GEORGIA (COUNTRY),{'File:Georgian Voices - Adila da Ali-phasha sample.ogg', 'File:Shen khar venakhi1.ogg'}
+NINTENDOCORE,none
+INDUSTRIAL HIP-HOP,none
+SOUTHERN GOSPEL,none
+SUNG POETRY,none
+GHETTOTECH,none
+JUMP BLUES,none
+OTTOMAN MUSIC,none
+TORCH SONG,none
+NU JAZZ,none
+UPLIFTING TRANCE,none
+SINFONIA CONCERTANTE,none
+WONKY (GENRE),none
+20TH-CENTURY CLASSICAL MUSIC,none
+DREAM TRANCE,none
+CONTEMPORARY WORSHIP MUSIC,none
+KONTAKION,none
+SWISS HIP-HOP,none
+TECHSTEP,none
+FAUXBOURDON,{'File:Avemarisstella.mid'}
+TRALLPUNK,none
+LIVE ELECTRONIC MUSIC,none
+GARIFUNA MUSIC,none
+INDO POP,none
+WITCH HOUSE,{'File:FixMyBrain - Shadowed Enchantments.opus', 'File:Witch house sample.ogg'}
+TAMBU (MUSIC),none
+LOVERS ROCK,none
+POST-BLACK METAL,none
+INCIDENTAL MUSIC,none
+D-BEAT,{'File:D-beat drum pattern 2b.mid', 'File:D-beat drum pattern 2a.mid', 'File:D-beat drum pattern 3.mid', 'File:D-beat drum pattern 1.mid', 'File:D-beat (candidate 2).ogg'}
+NUEVA CANCIÓN,none
+NASHVILLE SOUND,none
+SOUKOUS,none
+ROCK IN OPPOSITION,none
+MARACATU,none
+ELECTRO-INDUSTRIAL,none
+AHELLIL,none
+GUGGENMUSIK,none
+CHICANO RAP,none
+TROPICÁLIA,none
+PROGG,none
+CONTRADANZA,{'File:Habanera rhythm three-over-two.mid', 'File:Yo Siempre Te Espéré, Habanera.ogg', 'File:Habanera rhythm tresillo-over-two.mid', 'File:Habanera rhythm variant clave.mid', 'File:Cuando silba el viento, Habanera.ogg', 'File:Habanera rhythm clave.mid', "File:Habanera bass rhythm from Bizet's 'Carmen'.mid", 'File:Big four Buddy Bolden.mid', 'File:Cinquillo.mid', 'File:Habanera rhythm tresillo AND three -over-two alternating.mid'}
+CYCLIC MASS,none
+SAN FRANCISCO SOUND,none
+CANTIGAS DE ESCÁRNIO E MALDIZER,none
+CANTIGA DE AMOR,none
+SPACE AGE POP,none
+NORTEÑO (MUSIC),none
+GOTHABILLY,none
+MUSIC OF YUGOSLAVIA,none
+FREE TEKNO,none
+NEUE VOLKSMUSIK,none
+GOLDEN AGE HIP-HOP,none
+LIGHT MUSIC,none
+TURKISH FOLK MUSIC,{'File:Istanbul ciftetelli.OGG'}
+NEW WEIRD AMERICA,none
+MAKOSSA,none
+NANGMA,none
+SOUND POETRY,none
+MBAQANGA,none
+NORTHERN SOUL,none
+POWER NOISE,none
+ROOTS ROCK,none
+SARDANA,none
+RONDEAU (FORME FIXE),{'File:Machaut Doulz Viaire.ogg'}
+FILK MUSIC,none
+SOUNDCLOUD RAP,none
+NU METALCORE,none
+EDM TRAP MUSIC,{'File:Audial - Arabian Riches.ogg'}
+LUTHERAN HYMN,none
+VOLKSLIED,none
+FINNISH TANGO,none
+POLSKA (DANCE),{'File:3-4 rhythm metre meter time measure.ogg'}
+HINDUSTANI CLASSICAL MUSIC,{'File:Ustad Abdul Karim Khan- Jamuna Ke Teer - Thumri in Raag Bhairvi.wav'}
+ENGLISH FOLK MUSIC,{'File:Vihuela Jamaica Playford.ogg', 'File:Howie Mitchell - 07 - Matty Groves.ogg'}
+COUNTRY FOLK,none
+CRIOLLA,{'File:3 over 2.mid'}
+CROATIAN TAMBURICA,none
+CUBAN FOLK MUSIC,{'File:3 over 2.mid'}
+CUBAN ROCK,none
+CUMBIA PEGASSERA,none
+CZECH BLUEGRASS,none
+CZECH TRAMPING MUSIC,none
+CÂNTEC BATRÂNESC,none
+COMPOSER TRIBUTES (CLASSICAL MUSIC),none
+CONCEPT MUSICAL,none
+CONCERT ARIA,none
+CONCERT MARCH,none
+CONCERTED MADRIGAL,none
+CONGREGATIONAL SINGING,none
+CONTEMPORARY COMMERCIAL MUSIC,none
+CONTINENTAL JAZZ,none
+COUNTRY AND IRISH,none
+COUNTRY MUSIC IN ATLANTA,{'File:CrippleCreek.ogg'}
+COWBOY POETRY,none
+CREOLE MUSIC,none
+BACKGROUND MUSIC,none
+JŌRURI (MUSIC),none
+MADRIGAL (TRECENTO),none
+SAANG,none
+GEISSLERLIEDER,none
+KAGURA,none
+NOISE POP,none
+BOZLAK,none
+ETHNIC ELECTRONICA,none
+PUNK BLUES,none
+DUTCH JAZZ,none
+MUSIC OF SYRIA,none
+BAY AREA THRASH METAL,none
+METAL MASS,none
+PIZZICA,none
+HYPHY,none
+WORLDBEAT,none
+JOR (MUSIC),none
+SHOCK ROCK,none
+PALINGSOUND,none
+PIANO BLUES,none
+SLIP JIG,none
+FREAKBEAT,none
+SPACE DISCO,none
+MUQAM,none
+XI'AN GUYUE,none
+BLACKENED DEATH METAL,none
+DUBTRONICA,none
+ONKYOKEI,none
+BREGA (MUSIC),none
+MUSIC OF VENEZUELA,none
+AMBIENT HOUSE,none
+TURKISH HIP-HOP,none
+FOOTBALL CHANT,none
+BELGIAN JAZZ,none
+HUAYNO,none
+EARLY NORWEGIAN BLACK METAL SCENE,none
+GARAGE PUNK (FUSION GENRE),none
+VOCALESE,none
+TECH TRANCE,none
+TOYTOWN TECHNO,none
+CHAMBER POP,none
+DARK POP,none
+REGGADA,none
+ARABIC ROCK,none
+AITA (MOROCCO),none
+BLACK MIDI,none
+STOTRA,none
+DUTCH HIP-HOP,none
+ASIAN UNDERGROUND,none
+BALLATA,none
+SEGUIDILLA,none
+NEW ORLEANS JAZZ,none
+JAPANESE SKA,none
+MUSIC OF IRELAND,none
+COMEDY ROCK,none
+CONTEMPORARY CHRISTIAN MUSIC,none
+CANTIGA,none
+MUSIC OF MOZAMBIQUE,none
+COUNTRY POP,none
+DANCE-ROCK,none
+NERDCORE,none
+SHŌMYŌ,none
+MOR LAM,none
+SUFI MUSIC,none
+NU SKOOL BREAKS,none
+SONGO MUSIC,none
+MANGUE BIT,none
+POSTLUDE,none
+INDOROCK,none
+DUTCH PUNK,none
+POLISH HIP-HOP,none
+MUSIC OF AUSTRIA,none
+BYZANTINE MUSIC,none
+GREBO (MUSIC),none
+BREAKSTEP,none
+NIGUN,none
+CELTIC PUNK,none
+NEW WAVE OF NEW WAVE,none
+NEW YORK HARDCORE,none
+MAINSTREAM HARDCORE,none
+FUTURISM (MUSIC),none
+SLIDE (TUNE TYPE),none
+SOUND SCULPTURE,none
+ALTERNATIVE DANCE,none
+CHRISTIAN HIP-HOP,none
+CHRISTIAN HARDCORE,none
+AL JEEL,none
+TINTINNABULI,none
+RIGSAR,none
+BRITISH FOLK ROCK,none
+MUSIC OF ICELAND,{'File:Numa rimur extract.ogg'}
+AFRO-PUNK,none
+SPATIAL MUSIC,none
+ROMANZA (SEPHARDIC MUSIC),none
+ÉNTEKHNO,none
+PUIRT À BEUL,none
+AMERICAN FOLK MUSIC,{'File:Oh Susanna.ogg', 'File:Yellow Rose Of Texas.ogg'}
+PATUA SANGEET,none
+RAGE ARIA,none
+TAMANG SELO,none
+MUSIC OF CUBA,{'File:3 over 2.mid', 'File:Son Clave Pattern duple.mid', 'File:Habañera.mid', 'File:2-3 Son Clave.MID'}
+CHINESE TRADITIONAL MUSIC,none
+INDIAN HIP-HOP,none
+FLAMENCO IN JAPAN,none
+OCCULT ROCK,none
+BIRAHA,none
+ASIAN AMERICAN HIP-HOP,none
+BENI (MUSIC),none
+CRINGE POP,none
+DADAKUADA,none
+GH HIP-HOP,none
+HIP HOP IN MONTENEGRO,none
+INDIGENOUS METAL MUSIC,none
+LATIN TRAP,none
+MEGAMUSICAL,none
+SRI LANKAN HIP-HOP,none
+LITHUANIAN FOLK MUSIC,none
+RUSS MUSIC,none
+SHAMSTEP,none
+HUMORESQUE,{'File:Humoresque 1955 performance.ogg', 'File:Dvořák - Humoresque Op. 101 No. 7.ogg'}
+NEUE DEUTSCHE TODESKUNST,none
+NEW SIMPLICITY,none
+ESPERANTO MUSIC,{'File:01 Mankas vi.wav'}
+ESTAMPIE,{'File:Estampie Retrove Robertsbridge.ogg'}
+PERSIAN TRADITIONAL MUSIC,none
+GUCI,none
+CẢI LƯƠNG,{'File:Xử án Bàng Quí Phi (c. 1928).ogg'}
+RELIGIOUS JEWISH MUSIC,none
+GAMBANG KROMONG,none
+ZHONGGUO FENG (MUSIC),none
+JIUTA,none
+DANGAK,none
+DANGER MUSIC,none
+DAPPANKUTHU,none
+DAECHWITA,none
+DANISH JAZZ,none
+DANISH TRADITIONAL MUSIC,none
+DANMONO,none
+MUSIC OF MARTINIQUE,none
+MAINSTREAM ROCK,none
+URBAN CONTEMPORARY MUSIC,none
+VOLKSTÜMLICHE MUSIK,none
+DJENT,none
+VOTIVE MASS,none
+GEEK ROCK,none
+STAMBALI,none
+AVANT-GARDE MUSIC,none
+OPERATIC POP,none
+INDIGENOUS MUSIC OF AUSTRALIA,none
+SPACE MUSIC,none
+COLD WAVE (MUSIC),none
+TAQWACORE,none
+MEDITATION MUSIC,none
+CANTE JONDO,none
+HOLEHOLE BUSHI,none
+AGBADZA,none
+ETHIOPIAN CHANT,none
+MUMBLE RAP,none
+RAKE-AND-SCRAPE,none
+PROGRESSIVE METALCORE,{'File:Erra Seven Song Sample.ogg'}
+AVANT-FUNK,none
+HARDVAPOUR,none
+INDUSTRIAL TECHNO,none
+GQOM,{'File:John Bartmann - Gqom Urban African.mp3'}
+VEDIC CHANT,none
+DUNGEON SYNTH,none
+IRISH HIP-HOP,none
+CHILEAN ELECTRONIC MUSIC,none
+EMO REVIVAL,none
+WELSH FOLK MUSIC,{'File:Ar Lan y Mor - Kenneth Bowen (trimmed).ogg'}
+BORANKANA,none
+TSUTSUBE,none
+BRITPOP REVIVAL,none
+ORCHESTRAL POP,none
+ENGLISH PASTORAL SCHOOL,none
+KAWINA (MUSIC),none
+HIP-HOP SOUL,none
+SPANISH HIP HOP,none
+FESCENNINE VERSES,none
+PROGRESSIVE TRANCE,none
+COON SONG,none
+BRUTAL DEATH METAL,none
+BOOGIE ROCK,none
+NORTHWESTERN HIP-HOP,none
+MUSIC OF THE UNITED STATES,{"File:Colored quartet.pharoah's army got drowned EDIS-SRP-0198-12.ogg", 'File:DollarMamie.ogg', 'File:Jingle Bells.ogg', 'File:Jingle Bells (90bpm) (Kevin MacLeod) (ISRC USUAN1100187).oga', 'File:Oh Holy Night (Kevin MacLeod) (ISRC USUAN1100127).oga', 'File:TheOldGreyMare.ogg', 'File:Dixie (1916).ogg', "File:Bice'waan Song.ogg", "File:Colored quartet.pharaoh's army got drowned EDIS-SRP-0198-12.oga", "File:Papa'sGotaBrandNewBag.ogg", 'File:USMC stars stripes forever.ogg', 'File:Maple Leaf RagQ.ogg', 'File:A Change Is Gonna Come sample.ogg', 'File:Star-spangled banner.ogg', 'File:Cotton-EyedJoe.ogg', 'File:Bertha Houston - We are Americans, Praise the Lord.ogg', 'File:CaminodeSanAntonio.ogg', 'File:OntheOldKissimmeePrairie.ogg'}
+CHOPPED AND SCREWED,none
+BEDROOM POP,none
+KONKANI LITURGICAL MUSIC,none
+PSYCHEDELIC FUNK,none
+DEPRESSIVE SUICIDAL BLACK METAL,none
+FOLK PUNK,none
+FLAMENCO JAZZ,none
+DAINA (LATVIA),none
+MICROHOUSE,none
+NEDERPOP,{'File:Nl-nederpop.ogg'}
+TÜRKÜ,none
+KRONCONG,{'File:Lgm. Bunga Teratai - Tania Dewi (Seri Album Keroncong Asli Side of X).ogg'}
+FUNK CARIOCA,{'File:Funk 16 bar loop.ogg'}
+POST-PUNK REVIVAL,none
+ORGAN SYMPHONY,none
+NEW BEAT,none
+RUSSIAN CHANSON,none
+MĀORI MUSIC,none
+MUSIC OF THRACE,none
+PRODUCTION MUSIC,{'File:Kevin MacLeod ~ Monkeys Spinning Monkeys.ogg'}
+DRUMFUNK,none
+GERMAN PUNK,none
+JAZZ POP,none
+DANZA,none
+AUSTRALIAN REGGAE,none
+POSSE MIT GESANG,none
+DOINA,none
+MEYKHANA,none
+MUSIC OF LATVIA,{"File:Div' dūjiņas gaisā skrēja.ogg"}
+SUOMISAUNDI,none
+MUSIC OF RUSSIA,{'File:Dance of the Sugar Plum Fairies (ISRC USUAN1100270).oga', 'File:Nikolai Rimsky-Korsakov - Bumblebee.ogg', 'File:Dance Of The Sugar Plum Fairy.oga'}
+GATO (ARTFORM),none
+UTE MUSIC,none
+CINEMATIC SOUL,none
+KOREAN INDIE,none
+MAHĀGĪTA,none
+CAMBODIAN ROCK (1960S–1970S),none
+DARKSYNTH,none
+BIKER METAL,none
+DOLEWAVE,none
+CLASSICAL CROSSOVER,none
+GALICIAN CHANT,none
+ACHAEMENID MUSIC,none
+HACHA'A,none
+KASÉKÒ,none
+POWWOW-STEP,none
+ADHUNIK GEET,none
+TRAP METAL,none
+SOULFUL HOUSE,none
+KOREAN BALLAD,none
+TWELVE-BAR BLUES,{'File:Bebop blues progression.mid', 'File:Standard 12-bar blues progression variations A.mid', 'File:Minor blues progression.mid', 'File:Standard 12-bar blues progression variations C.mid', 'File:Twelve bar boogie-woogie blues in C.mid', 'File:Standard 12-bar blues progression variations E.mid', 'File:Standard 12-bar blues progression variations D.mid'}
+MUSIC OF FINLAND,{'File:RAI-OdeonA228021 02.ogg', 'File:HMVX3127 01.mp3.ogg'}
+KAYŌKYOKU,none
+PARTIDO ALTO,none
+MAPALÉ,none
+WESTERN MUSIC (NORTH AMERICA),none
+SEGA (GENRE),none
+TRAILER MUSIC,none
+SUNSHINE POP,{'File:Up, Up and Away (The Fifth Dimension song - sample).ogg', 'File:Up, Up and Away sample.ogg', 'File:California Dreamin.ogg'}
+CAPE BRETON FIDDLING,none
+MUSIC OF DENMARK,none
+JAPANOISE,none
+ROCK MUSIC IN UKRAINE,none
+UK HARDCORE,none
+MUSIC OF CORSICA,none
+ARMENIAN CHANT,none
+MUSIC OF SERBIA,{'File:Igre iz Bele krajine (deo).ogg', 'File:Vlaske igre - deo.ogg'}
+MUSIC OF SLOVAKIA,{'File:Ejlucka,luckasiroka.ogg'}
+SALON MUSIC,none
+KOLOMYIKA,none
+AZERBAIJANI JAZZ,none
+MUSIC OF SWITZERLAND,none
+BUBBLEGUM DANCE,none
+LIQUID DRUM AND BASS,{'File:Ars Niemo - Small Talk Build IV.ogg'}
+MUSIC OF LUXEMBOURG,none
+MUSIC OF MOROCCO,none
+UK BASS,none
+MUSIC OF BELARUS,none
+KWASSA KWASSA,none
+STRAIGHT-AHEAD JAZZ,none
+KUJAWIAK,none
+MENZUMA,none
+HARSH NOISE WALL,none
+MIDWEST EMO,none
+JUNGLE TERROR,none
+MAITHILI MUSIC,none
+COOL CYMRU,none
+SANGITA,none
+BIG-BEAT (EASTERN BLOC),none
+KOPLO,none
+CACHI CACHI MUSIC,none
+SOVIETWAVE,none
+WEIRD SOUNDCLOUD,none
+AMBIENT POP,none
+EUROHOUSE,none
+YOUTH CREW,none
+CELTIC METAL,none
+PERUVIAN WALTZ,none
+SAWT (MUSIC),none
+MIDWESTERN HIP-HOP,none
+SOUL BLUES,none
+VENETIAN POLYCHORAL STYLE,none
+CHORAL SYMPHONY,none
+HOLY MINIMALISM,none
+LEVENSLIED,none
+DRINKING SONG,none
+ELECTRONICORE,none
+LAÏKO,none
+DEATH-DOOM,none
+ROCK MUSIC IN RUSSIA,none
+CHILLWAVE,none
+BRAZILIAN ROCK,none
+POP RAP,none
+PART SONG,none
+BRITISH ROCK MUSIC,none
+POSTMODERN MUSIC,none
+UNDERGROUND MUSIC,none
+EURODISCO,none
+ETHNO JAZZ,none
+CHILDREN'S MUSIC,none
+ARMENIAN ROCK,none
+FREAK FOLK,none
+IAVNANA,none
+FLORIDA BREAKS,none
+PROGRESSIVE PSYTRANCE,none
+BROKEN BEAT,none
+TWOUBADOU,none
+AUSTRALIAN COUNTRY MUSIC,none
+ACADIAN MUSIC,none
+AMERICANA MUSIC,none
+GNAWA MUSIC,none
+MUSIC OF MOLDOVA,none
+NEW YORK BLUES,none
+THRASHCORE,none
+NEW RAVE,none
+PALO MUSIC,none
+JEWISH ROCK,none
+SERBIAN POP,none
+TEMPERANCE SONGS,none
+ST. LOUIS BOUNCE,none
+PILÓN,none
+JEWISH HIP-HOP,none
+PSYDUB,none
+POST-PROGRESSIVE,none
+VILLANELLA,none
+COWPUNK,none
+SEPHARDIC MUSIC,none
+BOMBA (PUERTO RICO),none
+SHIMA-UTA,none
+MOD REVIVAL,none
+MEĐIMURSKA POPEVKA,none
+MUSIC OF PORTUGAL,none
+NAGOYA KEI,none
+DUMA (EPIC),{'File:Stepan Pasiuha - Pro Marusiu Bohuslavku.flac', 'File:Дума про Морозенка. MIDI.ogg'}
+MUSIC OF BELGIUM,none
+ILLUSTRATED SONG,none

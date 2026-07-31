@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file">
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/.idea/Find_The_Music_Files.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/List of articles with the sound files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getAllFileTypes.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getFilesFromPages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/list of file extensions - Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/list of file extensions.txt" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="added the code to get the genres from musicBrainz">
+      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/Query 19 - Genres on wikidata and their wikipedia pages.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/List of articles with the sound files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +54,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/malikawotorebo/PycharmProjects/MScDiss_IGASTNBK_/Main Code",
+    "last_opened_file_path": "/home/aja25/PycharmProjects/IGASTNBK_MScDiss/Main Code/Find_The_Music_Files",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Code/Find_The_Music_Files" />
       <recent name="$PROJECT_DIR$/Main Code" />
       <recent name="$PROJECT_DIR$/Main Code/func" />
     </key>
@@ -198,15 +190,7 @@
       <option name="project" value="LOCAL" />
       <updated>1785455417084</updated>
     </task>
-    <task id="LOCAL-00013" summary="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file">
-      <option name="closed" value="true" />
-      <created>1785456569064</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1785456569064</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +208,6 @@
     <MESSAGE value="Redoing the inspecting and the cleaning of the data" />
     <MESSAGE value="Redoing the inspecting and the cleaning of the data - now country names" />
     <MESSAGE value="added the code to get the genres from musicBrainz" />
-    <MESSAGE value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the code to get the genres from musicBrainz" />
   </component>
 </project>
