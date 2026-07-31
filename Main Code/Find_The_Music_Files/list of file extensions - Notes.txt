@@ -1,0 +1,23 @@
+JPEG - image extension
+JPG -image extension
+MID - midi/audio extension
+OGG - audio extension
+PNG - image extension
+flac - audio extension
+gif - image extension
+jpeg - image extension
+jpg - image extension
+mid - audio extension
+mp3 - audio extension
+oga - audio extension
+ogg - audio extension
+ogv - video format
+opus - audio extension
+pdf - document file format
+png - image extension
+svg - image extension
+tif - image extension
+tiff - image extension
+wav - audio extension
+webm - video format
+webp - graphics file format
