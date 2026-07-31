@@ -121,8 +121,8 @@ def addToNetwork4(df, source, target, connectionType, attr, attr2, sourceName, t
 
 
     #add attributes
-    attributes = {k: {"EntityType": attr} for k in set(newDF[source].to_list())}
-    attributes2 = {k: {"EntityType": attr2} for k in set(newDF[target].to_list())}
+    attributes = {k: {"EntityType": attr} for k in set(newDF[source].dropna().to_list())}
+    attributes2 = {k: {"EntityType": attr2} for k in set(newDF[target].dropna().to_list())}
 
     #Add the name attributes
 
