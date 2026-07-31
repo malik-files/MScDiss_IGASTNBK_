@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="added the code to get the genres from musicBrainz">
-      <change afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/Query 19 - Genres on wikidata and their wikipedia pages.csv" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Fixing the find music files code for finding audio files wikipedia articles">
+      <change afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/List of articles with the sound files.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785455417084</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fixing the find music files code for finding audio files wikipedia articles">
+      <option name="closed" value="true" />
+      <created>1785497110456</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1785497110456</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +240,7 @@
     <MESSAGE value="Redoing the inspecting and the cleaning of the data" />
     <MESSAGE value="Redoing the inspecting and the cleaning of the data - now country names" />
     <MESSAGE value="added the code to get the genres from musicBrainz" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the code to get the genres from musicBrainz" />
+    <MESSAGE value="Fixing the find music files code for finding audio files wikipedia articles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing the find music files code for finding audio files wikipedia articles" />
   </component>
 </project>

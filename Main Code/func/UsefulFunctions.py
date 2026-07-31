@@ -1,6 +1,7 @@
 #This function is used to get the entity numbers
 import requests 
 import datetime as dt
+import networkx as nx
 
 def getEntityIDValue(link):
     try:
@@ -100,3 +101,42 @@ def getYear(time: str) -> int | None:
         #This is for the situations where there is no start and end of work period so it doesn't return 
         #an error
         return None
+
+
+"""
+
+Function to create new networkX graphsfrom a pandas dataframe 
+
+
+"""
+def addToNetwork4(df, source, target, connectionType, attr, attr2, sourceName, targetName):
+    df["Type"] = connectionType
+    newDF = df[[source, target, "Type"]]
+    newDFGraphReady = newDF.dropna().drop_duplicates()
+    graph = nx.from_pandas_edgelist(newDFGraphReady, source= source, target = target, edge_attr="Type", create_using=nx.DiGraph())
+
+    #Add the other nodes
+    graph.add_nodes_from(set(newDF[source].dropna().to_list()))
+    graph.add_nodes_from(set(newDF[target].dropna().to_list()))
+
+
+    #add attributes
+    attributes = {k: {"EntityType": attr} for k in set(newDF[source].to_list())}
+    attributes2 = {k: {"EntityType": attr2} for k in set(newDF[target].to_list())}
+
+    #Add the name attributes
+
+    sourceTuples = df[[source,sourceName]].apply(tuple, axis=1).to_list()
+    targetTuples = df[[target,targetName]].apply(tuple, axis=1).to_list()
+
+    attributesName1 = {k: {"Label" : v} for k,v in sourceTuples}
+    attributesName2 = {k: {"Label": v} for k,v in targetTuples}
+
+
+
+    nx.set_node_attributes(graph, attributes)
+    nx.set_node_attributes(graph, attributes2)
+    nx.set_node_attributes(graph, attributesName1)
+    nx.set_node_attributes(graph, attributesName2)
+
+    return graph
