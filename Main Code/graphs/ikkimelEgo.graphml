@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="Type" attr.type="string"/>
+<key id="d1" for="node" attr.name="Label" attr.type="string"/>
+<key id="d0" for="node" attr.name="EntityType" attr.type="string"/>
+<graph edgedefault="directed"><node id="Q2572585">
+  <data key="d0">Genre</data>
+  <data key="d1">pop rap</data>
+</node>
+<node id="Q103835150">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Luna</data>
+</node>
+<node id="Q73911">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Afrob</data>
+</node>
+<node id="Q18616541">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Balbina</data>
+</node>
+<node id="Q13142685">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Ilira</data>
+</node>
+<node id="Q211756">
+  <data key="d0">Genre</data>
+  <data key="d1">dance-pop</data>
+</node>
+<node id="Q37073">
+  <data key="d0">Genre</data>
+  <data key="d1">pop music</data>
+</node>
+<node id="Q9778">
+  <data key="d0">Genre</data>
+  <data key="d1">electronic music</data>
+</node>
+<node id="Q2913982">
+  <data key="d0">Genre</data>
+  <data key="d1">trap music</data>
+</node>
+<node id="Q1926915">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Michael Beck</data>
+</node>
+<node id="Q58454497">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Kelvyn Colt</data>
+</node>
+<node id="Q543531">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Joy Denalane</data>
+</node>
+<node id="Q18057199">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Robot Koch</data>
+</node>
+<node id="Q118496244">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Wa22ermann</data>
+</node>
+<node id="Q846833">
+  <data key="d0">Genre</data>
+  <data key="d1">crossover jazz</data>
+</node>
+<node id="Q1765119">
+  <data key="d0">Record Label</data>
+  <data key="d1">Selfmade Records</data>
+</node>
+<node id="Q31837473">
+  <data key="d0">Record Label</data>
+  <data key="d1">Mouthwatering Records</data>
+</node>
+<node id="Q203059">
+  <data key="d0">Record Label</data>
+  <data key="d1">Virgin Records</data>
+</node>
+<node id="Q24236009">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Kelvin Jones</data>
+</node>
+<node id="Q9794">
+  <data key="d0">Genre</data>
+  <data key="d1">reggae</data>
+</node>
+<node id="Q324686">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Casper</data>
+</node>
+<node id="Q216271">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Max Herre</data>
+</node>
+<node id="Q78933">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Chakuza</data>
+</node>
+<node id="Q11401">
+  <data key="d0">Genre</data>
+  <data key="d1">hip-hop</data>
+</node>
+<node id="Q111019644">
+  <data key="d0">Record Label</data>
+  <data key="d1">Eklat Tonträger</data>
+</node>
+<node id="Q122971758">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Ikkimel</data>
+</node>
+<node id="Q216364">
+  <data key="d0">Record Label</data>
+  <data key="d1">Epic Records</data>
+</node>
+<node id="Q202585">
+  <data key="d0">Record Label</data>
+  <data key="d1">RCA Records</data>
+</node>
+<node id="Q474027">
+  <data key="d0">Genre</data>
+  <data key="d1">dancehall</data>
+</node>
+<node id="Q112152632">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Domiziana</data>
+</node>
+<node id="Q452250">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Gentleman</data>
+</node>
+<node id="Q12362064">
+  <data key="d0">Genre</data>
+  <data key="d1">emo rap</data>
+</node>
+<node id="Q131272">
+  <data key="d0">Genre</data>
+  <data key="d1">soul</data>
+</node>
+<node id="Q877693">
+  <data key="d0">Genre</data>
+  <data key="d1">rap rock</data>
+</node>
+<node id="Q30109466">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Lea</data>
+</node>
+<node id="Q36821">
+  <data key="d0">Musical Artist</data>
+  <data key="d1">Yasha</data>
+</node>
+<node id="Q454071">
+  <data key="d0">Genre</data>
+  <data key="d1">German hip-hop</data>
+</node>
+<node id="Q675241">
+  <data key="d0">Record Label</data>
+  <data key="d1">BPitch Control</data>
+</node>
+<node id="Q368535">
+  <data key="d0">Record Label</data>
+  <data key="d1">Four Music</data>
+</node>
+<edge source="Q2572585" target="Q58454497">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q2572585" target="Q324686">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q211756" target="Q13142685">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q37073" target="Q58454497">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q37073" target="Q18616541">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q37073" target="Q216271">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q9778" target="Q18057199">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q2913982" target="Q58454497">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q846833" target="Q216271">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q846833" target="Q543531">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q1765119" target="Q324686">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q31837473" target="Q18057199">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q203059" target="Q13142685">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q9794" target="Q452250">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q11401" target="Q78933">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q11401" target="Q324686">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q11401" target="Q73911">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q11401" target="Q58454497">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q11401" target="Q118496244">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q111019644" target="Q324686">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q216364" target="Q24236009">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q202585" target="Q24236009">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q474027" target="Q58454497">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q12362064" target="Q324686">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q131272" target="Q543531">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q877693" target="Q324686">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q30109466" target="Q103835150">
+  <data key="d2">has influenced</data>
+</edge>
+<edge source="Q454071" target="Q324686">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q454071" target="Q1926915">
+  <data key="d2">has been participated in by</data>
+</edge>
+<edge source="Q675241" target="Q18057199">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q24236009">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q78933">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q58454497">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q324686">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q18057199">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q73911">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q543531">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q216271">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q452250">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q118496244">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q1926915">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q36821">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q18616541">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q13142685">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q122971758">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q112152632">
+  <data key="d2">has/had artist</data>
+</edge>
+<edge source="Q368535" target="Q103835150">
+  <data key="d2">has/had artist</data>
+</edge>
+</graph></graphml>
