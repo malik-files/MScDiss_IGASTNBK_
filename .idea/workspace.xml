@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Creating knowledge graphs">
-      <change afterPath="$PROJECT_DIR$/Main Code/evaluating_knowledge_graph_test.ipynb" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Attempting to evaluate the link prediction.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,7 @@
       <workItem from="1784820830608" duration="14128000" />
       <workItem from="1784898062576" duration="28489000" />
       <workItem from="1785586004024" duration="1584000" />
-      <workItem from="1785587601847" duration="1501000" />
+      <workItem from="1785587601847" duration="3379000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -208,7 +207,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785533699998</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Attempting to evaluate the link prediction.">
+      <option name="closed" value="true" />
+      <created>1785589121170</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1785589121170</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +235,7 @@
     <MESSAGE value="added the code to get the genres from musicBrainz" />
     <MESSAGE value="Fixing the find music files code for finding audio files wikipedia articles" />
     <MESSAGE value="Creating knowledge graphs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating knowledge graphs" />
+    <MESSAGE value="Attempting to evaluate the link prediction." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempting to evaluate the link prediction." />
   </component>
 </project>
