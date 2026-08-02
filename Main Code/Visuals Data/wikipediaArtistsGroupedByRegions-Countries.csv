@@ -1,0 +1,628 @@
+countryCitizenship,countryCitizenshipLabel,artist
+Q30,United States,43926
+null/unknown,null/unknown,14883
+Q145,United Kingdom,12978
+Q142,France,6167
+Q183,Germany,5978
+Q16,Canada,4970
+Q17,Japan,3671
+Q668,India,3064
+Q38,Italy,2937
+Q408,Australia,2921
+Q34,Sweden,2547
+Q174193,United Kingdom of Great Britain and Ireland,2534
+Q15180,Soviet Union,2230
+Q20,Norway,1984
+Q29,Spain,1979
+Q884,South Korea,1662
+Q159,Russia,1621
+Q29999,Kingdom of the Netherlands,1598
+Q155,Brazil,1484
+Q40,Austria,1428
+Q172579,Kingdom of Italy,1343
+Q756617,Kingdom of Denmark,1227
+Q36,Poland,1150
+Q27,Ireland,1132
+Q148,People's Republic of China,1108
+Q33,Finland,1077
+Q414,Argentina,1026
+Q34266,Russian Empire,990
+Q801,Israel,979
+Q129286,British Raj,974
+Q96,Mexico,968
+Q31,Belgium,934
+Q39,Switzerland,866
+Q28,Hungary,810
+Q43,Turkey,807
+Q1775277,Dominion of India,795
+Q664,New Zealand,772
+Q258,South Africa,671
+Q928,Philippines,648
+Q1033,Nigeria,618
+Q766,Jamaica,616
+Q41,Greece,599
+Q218,Romania,564
+Q161885,Kingdom of Great Britain,534
+Q213,Czech Republic,517
+Q241,Cuba,509
+Q794,Iran,507
+Q212,Ukraine,470
+Q843,Pakistan,459
+Q403,Serbia,459
+Q191,Estonia,451
+Q45,Portugal,417
+Q865,Taiwan,415
+Q252,Indonesia,400
+Q33946,Czechoslovakia,387
+Q188712,Dai-Nippon Teikoku,322
+Q739,Colombia,317
+Q869,Thailand,315
+Q298,Chile,311
+Q224,Croatia,307
+Q902,Bangladesh,304
+Q219,Bulgaria,303
+Q16957,German Democratic Republic,299
+Q717,Venezuela,296
+Q131964,Kaisertum Österreich,295
+Q117,Ghana,288
+Q833,Malaysia,267
+Q189,Iceland,254
+Q28513,Austria–Hungary,241
+Q79,Egypt,230
+Q399,Armenia,229
+Q1206012,Deutsches Reich,226
+Q27306,Königreich Preußen,219
+Q881,Vietnam,214
+Q822,Lebanon,195
+Q222,Albania,191
+Q227,Azerbaijan,190
+Q211,Latvia,179
+Q419,Peru,179
+Q77,Uruguay,177
+Q786,Dominican Republic,176
+Q215,Slovenia,176
+Q1028,Morocco,175
+Q37,Lithuania,172
+Q12560,Ottoman Empire,167
+Q83286,Socijalistička Federativna Republika Jugoslavija,167
+Q4948,Republic of Venice,164
+Q179876,Kingdom of England,156
+Q12548,Holy Roman Empire,153
+Q214,Slovakia,152
+Q533534,Cisleithania,152
+Q70972,Kingdom of France,149
+Q225,Bosnia and Herzegovina,148
+Q836,Myanmar,147
+Q334,Singapore,144
+Q974,Democratic Republic of the Congo,144
+Q837,Nepal,144
+Q262,Algeria,143
+Q1054923,British Hong Kong,142
+Q1036,Uganda,137
+Q230,Georgia,137
+Q854,Sri Lanka,103
+Q114,Kenya,97
+Q184,Belarus,95
+Q221,North Macedonia,95
+Q754,Trinidad and Tobago,92
+Q736,Ecuador,91
+Q954,Zimbabwe,88
+Q191077,Kraljevina Jugoslavija,88
+Q790,Haiti,87
+Q45670,Reino de Portugal,86
+Q233,Malta,86
+Q1009,Cameroon,83
+Q889,Afghanistan,81
+Q43287,Deutsches Kaiserreich,79
+Q924,Tanzania,74
+Q217,Moldova,71
+Q912,Mali,71
+Q232,Kazakhstan,70
+Q115,Ethiopia,68
+Q153015,Kingdom of Saxony,68
+Q172107,Polish–Lithuanian Commonwealth,67
+Q32,Luxembourg,67
+Q948,Tunisia,65
+Q62633,Suomen suuriruhtinaskunta,63
+Q796,Iraq,62
+Q733,Paraguay,61
+Q804,Panama,61
+Q154195,Kingdom of Bavaria,58
+Q265,Uzbekistan,54
+Q1041,Senegal,54
+Q13426199,Republic of China,54
+Q229,Cyprus,54
+Q750,Bolivia,52
+Q207272,Second Polish Republic,51
+Q858,Syria,50
+Q916,Angola,47
+Q1011,Cape Verde,46
+Q15102440,"Kingdom of Serbs, Croats and Slovenes",46
+Q41304,Weimarer Republik,44
+Q206411,Azerbaijan Democratic Republic,44
+Q1246,Kosovo,43
+Q713750,West Germany,43
+Q170174,Status Pontificius,42
+Q424,Cambodia,41
+Q36704,Jugoslavija,41
+Q1008,Ivory Coast,41
+Q1020,Malawi,41
+Q711,Mongolia,40
+Q204920,Crown of Aragon,38
+Q170072,Dutch Republic,37
+Q236,Montenegro,36
+Q774,Guatemala,36
+Q1049,Sudan,36
+Q219060,Palestine,35
+Q953,Zambia,35
+Q42585,Kingdom of Bohemia,34
+Q173065,Regno 'e Napule,34
+Q203493,Regatul României,32
+Q7318,Nazi Germany,32
+Q153136,Habsburg monarchy,31
+Q8646,Hong Kong,31
+Q800,Costa Rica,31
+Q1037,Rwanda,30
+Q221457,Congress Poland,30
+Q810,Jordan,29
+Q154849,Grand Duchy of Tuscany,29
+Q1031430,Habsburg Netherlands,29
+Q863,Tajikistan,29
+Q792,El Salvador,29
+Q851,Saudi Arabia,29
+Q1019,Madagascar,28
+Q1006,Guinea,27
+Q170468,United Arab Republic,27
+Q1045,Somalia,27
+Q1030,Namibia,27
+Q2305208,Russian Socialist Federative Soviet Republic,27
+Q2017684,French protectorate of Tunisia,26
+Q1029,Mozambique,26
+Q156199,Electorate of Saxony,26
+Q730,Suriname,24
+Q244,Barbados,23
+Q243610,Ukrainian People's Republic,23
+Q124943,Kingdom of Egypt,23
+Q805,Yemen,23
+Q1055,Hamburg,22
+Q962,Benin,21
+Q878,United Arab Emirates,21
+Q811,Nicaragua,21
+Q1005,The Gambia,20
+Q971,Republic of the Congo,20
+Q8733,Qing dynasty,20
+Q23681,Northern Cyprus,19
+Q965,Burkina Faso,19
+Q3087763,Republic of Egypt,19
+Q423,North Korea,19
+Q170603,New Spain,17
+Q963,Botswana,17
+Q21,England,17
+Q986,Eritrea,16
+Q159631,Königreich Württemberg,16
+Q1032,Niger,16
+Q838261,Federal Republic of Yugoslavia,16
+Q1014,Liberia,16
+Q2184,Russian Soviet Federative Socialist Republic,16
+Q37024,Serbia and Montenegro,15
+Q699964,Archduchy of Austria,15
+Q1000,Gabon,15
+Q783,Honduras,14
+Q25,Wales,14
+Q133356,Ukrainian Soviet Socialist Republic,14
+Q158835,Prince-Bishopric of Liège,14
+Q967,Burundi,14
+Q12544,Byzantine Empire,14
+Q242,Belize,14
+Q193714,Mandatory Palestine,14
+Q20135,Grand Duchy of Hesse,13
+Q398,Bahrain,13
+Q6581823,Southern Netherlands,13
+Q817,Kuwait,13
+Q813,Kyrgyzstan,13
+Q211274,Polska Rzeczpospolita Ludowa,13
+Q217196,Corona de Castilla,13
+Q1016,Libya,13
+Q186320,Grand Duchy of Baden,12
+Q171150,Kingdom of Hungary,12
+Q457167,West Ukrainian People's Republic,12
+Q958,South Sudan,12
+Q622783,Spanish Netherlands,12
+Q139319,Russian Republic,12
+Q778,The Bahamas,12
+Q215530,Kingdom of Ireland,12
+Q1044,Sierra Leone,11
+Q29520,China,11
+Q209065,Kingdom of Greece,10
+Q156418,Kingdom of Hawaiʻi,10
+Q945,Togo,10
+Q921,Brunei,9
+Q174306,Republic of Genoa,9
+Q164079,Kingdom of Hanover,9
+Q107258515,Pahlavi Iran,9
+Q784,Dominica,9
+Q12536,Abbasid Caliphate,9
+Q760,Saint Lucia,9
+Q712,Fiji,9
+Q155570,Saxe-Weimar-Eisenach,8
+Q152115,Duchy of Warsaw,8
+Q137816,Taiwan under Japanese rule,8
+Q734,Guyana,8
+Q235,Monaco,8
+Q230791,Kingdom of Scotland,8
+Q874,Turkmenistan,8
+Q23366230,Republic of Geneva,8
+Q1747689,Ancient Rome,8
+Q769,Grenada,7
+Q1290149,Federal People's Republic of Yugoslavia,7
+Q153529,Ducato di Milano,7
+Q80702,Spanish Empire,7
+Q9683,Tang dynasty,7
+Q6744657,Crown Colony of Malta,7
+Q3462133,Saxe-Coburg and Gotha,7
+Q1649871,Kingdom of Poland,6
+Q347,Liechtenstein,6
+Q186096,Tsardom of Russia,6
+Q22,Scotland,6
+Q691,Papua New Guinea,6
+Q657,Chad,6
+Q8680,British Empire,6
+Q31747,Irish Free State,6
+Q844930,Classical Athens,6
+Q147909,Царство България,6
+Q1007,Guinea-Bissau,6
+Q148540,Republic of Florence,6
+Q693669,Grand Duchy of Oldenburg,5
+Q131337,Azerbaijan Soviet Socialist Republic,5
+Q757,Saint Vincent and the Grenadines,5
+Q917,Bhutan,5
+Q977,Djibouti,5
+Q256961,Electorate of Bavaria,5
+Q165040,Duchy of Parma and Piacenza,5
+Q8575586,Umayyad Caliphate,5
+Q1027,Mauritius,5
+Q326029,Duchy of Brunswick,5
+Q983,Equatorial Guinea,5
+Q1508143,Ukrainian State,5
+Q16550783,Duchy of Anhalt,5
+Q630163,Schwarzburg-Sondershausen,5
+Q171348,Crown of the Kingdom of Poland,4
+Q330756,Transcaucasian Democratic Federative Republic,4
+Q970,Comoros,4
+Q151624,Deutscher Bund,4
+Q15581,Principat de Catalunya,4
+Q245160,Democratic Republic of Georgia,4
+Q704288,Duchy of Holstein,4
+Q28233,Korean Empire,4
+Q3108185,Ba'athist Iraq,4
+Q1025,Mauritania,4
+Q842794,Socialist Republic of Romania,4
+Q9903,Ming dynasty,4
+Q157070,County of Flanders,4
+Q545205,Transcaucasian Socialist Federative Soviet Republic,4
+Q819,Laos,4
+Q18097,Korea,4
+Q3041595,First Republic of Iraq,4
+Q207991,Pahlavi dynasty,4
+Q826,Maldives,4
+Q209857,Kingdom of Lombardy–Venetia,4
+Q370173,Sultanate of Egypt,4
+Q146885,Second Syrian Republic,4
+Q180393,Kingdom of the Two Sicilies,4
+Q158445,Grand Duchy of Mecklenburg-Schwerin,4
+Q241748,Kingdom of Serbia,4
+Q63158027,Qajar Iran,4
+Q238,San Marino,4
+Q217169,Rhodesia,3
+Q7603765,State of Malta,3
+Q121932,People's Republic of Bulgaria,3
+Q55,Netherlands,3
+Q323904,Portuguese India,3
+Q26234937,First Syrian Republic,3
+Q150981,Norddeutscher Bund,3
+Q929,Central African Republic,3
+Q391980,Free Territory of Trieste,3
+Q10957559,Principality of Moldavia,3
+Q1050,Eswatini,3
+Q31929,Carolingian Empire,3
+Q28179,Joseon,3
+Q683,Samoa,3
+Q1643555,British Honduras,3
+Q127861,Khedivate of Egypt,3
+Q228,Andorra,3
+Q199442,Kingdom of Aragon,3
+Q22880,Kurpalz,3
+Q838931,Kingdom of Italy,3
+Q2252973,Duchy of Florence,3
+Q1183,Puerto Rico,3
+Q2685298,Romanian People's Republic,3
+Q1235720,Republic of Lucca,3
+Q701614,Prince-Archbishopric of Salzburg,3
+Q781,Antigua and Barbuda,3
+Q700283,Austrian Netherlands,3
+Q130229,Georgian SSR,3
+Q234,Flanders,3
+Q503585,Korea under Japanese rule,3
+Q15864,United Kingdom of the Netherlands,3
+Q2227570,Duchy of Württemberg,3
+Q842,Oman,3
+Q303421,Kingdom of Galicia,3
+Q330533,Seventeen Provinces,2
+Q31354462,Republic of Abkhazia,2
+Q210551,Viceroyalty of the Río de la Plata,2
+Q157710,Duchy of Saxe-Meiningen,2
+Q763,Saint Kitts and Nevis,2
+Q4899891,Beylik of Tunis,2
+Q541455,Anglo-Egyptian Sudan,2
+Q284667,Kurmainz,2
+Q252580,Duchy of Modena and Reggio,2
+Q216173,Free City of Danzig,2
+Q40362,Sahrawi Arab Democratic Republic,2
+Q704300,Free City of Frankfurt,2
+Q210036,Chechen Republic of Ichkeria,2
+Q783489,Later Liang dynasty,2
+Q766501,Duchy of Mantua,2
+Q407199,Occupied Palestinian territories,2
+Q2670751,Margraviate of Moravia,2
+Q158151,Saxe-Altenburg,2
+Q7462,Song dynasty,2
+Q12183875,Sharifian Empire,2
+Q148499,Mark Brandenburg,2
+Q686971,Lands of the Bohemian Crown,2
+Q23635,Bermuda,2
+Q1039,São Tomé and Príncipe,2
+Q695316,Schwarzburg-Rudolstadt,2
+Q529605,Electorate of Hesse,2
+Q211435,Viceroyalty of Peru,2
+Q639100,Principality of Reuss-Gera,2
+Q693570,Duchy of Ferrara,2
+Q30623,Manchukuo,2
+Q33296,Mughal Empire,2
+Q655621,Principality of Transylvania,2
+Q678,Tonga,2
+Q1013,Lesotho,2
+Q706018,Electorate of Hanover,2
+Q568638,Duchy of Silesia,2
+Q7904317,Electorate of Cologne,2
+Q1147037,Dōnghàn,2
+Q556263,Brunswick-Lüneburg,2
+Q7313,Yuan dynasty,2
+Q1042,Seychelles,2
+Q1274468,Republic of Bosnia and Herzegovina,2
+Q132856,Armenian Soviet Socialist Republic,2
+Q389004,Principality of Wallachia,2
+Q3399982,Kingdom of Spain,2
+Q108865218,Lebanese Republic under French mandate,2
+Q11024667,Duchy of Mecklenburg-Schwerin,2
+Q5613380,British National (Overseas),2
+Q188586,Kingdom of Sicily,2
+Q912043,Jin,2
+Q38872,Preußen,2
+Q718374,"State of Slovenes, Croats and Serbs",2
+Q1277557,Democratic Federal Yugoslavia,2
+Q2895,Беларуская Савецкая Сацыялістычная Рэспубліка,2
+Q223936,Kingdom of Italy,2
+Q84,London,2
+Q62589,Union between Sweden and Norway,2
+Q9676,Isle of Man,2
+Q675085,Saxe-Gotha-Altenburg,2
+Q1410,Gibraltar,2
+Q1143126,Later Tang,2
+Q306928,Eastern Jin dynasty,2
+Q547795,Territory of Hawaii,2
+Q57695350,Ireland,2
+Q108865226,State of Greater Lebanon,2
+Q146880,State of Syria,2
+Q1479726,Federation of Malaya,2
+Q846,Qatar,2
+Q188161,Dutch East Indies,2
+Q140359,First Czechoslovak Republic,2
+Q170770,Grand Principality of Moscow,1
+Q3279296,Sweden-Finland,1
+Q686,Vanuatu,1
+Q430309,Dai Viet,1
+Q13353,Montserrat,1
+Q22890,Ireland,1
+Q1334322,County of Toulouse,1
+Q17061755,Bahrain and its Dependencies,1
+Q1136188,Saadi dynasty,1
+Q940741,Magyar Köztársaság,1
+Q217230,Império do Brasil,1
+Q215443,Swedish Empire,1
+Q154401,Slovak Republic,1
+Q853348,Czechoslovak Socialist Republic,1
+Q4724109,Algeria–Canada relations,1
+Q13726,Albay,1
+Q25305,British Virgin Islands,1
+Q42295059,Mytilene,1
+Q1072949,Western Han,1
+Q958291,United Principalities of Moldavia and Wallachia,1
+Q16543832,County of Tyrol,1
+Q435583,Old Swiss Confederacy,1
+Q161215,Grand Duchy of Mecklenburg-Strelitz,1
+Q22048,Odisha,1
+Q83891,Sasanian Empire,1
+Q11196,Republika Srpska,1
+Q1154556,Later Zhou dynasty,1
+Q112660052,British India,1
+Q34754,Somaliland,1
+Q20820118,Southeast Yemen,1
+Q13533353,Argos,1
+Q223050,statelessness,1
+Q3023340,Portuguese Cape Verde,1
+Q16410,Magyar Népköztársaság,1
+Q2984260,Newfoundland Colony,1
+Q7703611,Duchy of Aquitaine,1
+Q672,Tuvalu,1
+Q1205,Thüringen,1
+Q203817,First Bulgarian Empire,1
+Q307066,Eastern Zhou,1
+Q1077630,Septinsular Republic,1
+Q3708094,Seljuk Empire,1
+Q501303,Free City of Kraków,1
+Q2843,Lübeck,1
+Q152750,Protectorate of Bohemia and Moravia,1
+Q548114,Free State of Fiume,1
+Q3932079,Kingdom of Sicily,1
+Q320930,Cao Wei,1
+Q5148518,Colony of New Zealand,1
+Q555994,Aq Qoyunlu,1
+Q282475,Kingdom of Kartli-Kakheti,1
+Q26167,Duchy of Schleswig,1
+Q580188,Kingdom of Yemen,1
+Q207521,Ethiopian Empire,1
+Q165154,Kingdom of Sardinia,1
+Q39193,Bohemia,1
+Q531783,Principality of Reuss-Greiz,1
+Q199841,South Yemen,1
+Q108868568,Syrian Republic under French mandate,1
+Q126047616,Nasdas,1
+Q99281400,United States of America,1
+Q97464297,Hospitaller-controlled Malta,1
+Q209062,Socialist Republic of Croatia,1
+Q178084,Ilkhanate,1
+Q1240096,Hyderabad State,1
+Q179293,Kingdom of Castile,1
+Q1147043,Southern Song dynasty,1
+Q42908,Hanseatic League,1
+Q12490507,Rashidun Caliphate,1
+Q12060881,Chinese Empire,1
+Q18234383,Safavid Iran,1
+Q2181059,null/unknown,1
+Q3125368,Mahdist Sudan,1
+Q156038,Duchy of Courland and Semigallia,1
+Q623573,Kingdom of Croatia,1
+Q61292,Far Eastern Republic,1
+Q11772,Ancient Greece,1
+Q1188,Madhya Pradesh,1
+Q723118,Italian Republic,1
+Q1154540,Later Jin dynasty,1
+Q697254,Hochstift Münster,1
+Q21999799,British Nigerian,1
+Q370736,Cape Colony,1
+Q278874,Anhalt-Dessau,1
+Q193619,Union of South Africa,1
+Q5866720,Republic of Sudan,1
+Q315667,Saxe-Weimar,1
+Q465022,Enugu,1
+Q14773,Macau,1
+Q41470,Kurdistan,1
+Q34762,Principality of Bayreuth,1
+Q2562456,Republic of West Papua,1
+Q68682,Bukharan People's Soviet Republic,1
+Q187035,Principality of Albania,1
+Q212056,Mongolian People's Republic,1
+Q7209,Han dynasty,1
+Q473748,Buganda,1
+Q491507,Egypt eyalet,1
+Q2219448,Albertine Duchy of Saxony (1485-1547),1
+Q319586,Prince-Bishopric of Basel,1
+Q212439,Cossack Hetmanate,1
+Q199711,Tajik Soviet Socialist Republic,1
+Q153660,Italian Social Republic,1
+Q3408341,Venezuela Province,1
+Q123559,al-Andalus,1
+Q660702,Further Austria,1
+Q484195,Timurid Empire,1
+Q710,Kiribati,1
+Q830084,Brunswick-Wolfenbüttel,1
+Q6500954,Zaire,1
+Q244165,Republic of Artsakh,1
+Q111224,Holstein,1
+Q55502,Kingdom of Jerusalem,1
+Q170895,Moldavian Soviet Socialist Republic,1
+Q1145470,Western Jin dynasty,1
+Q1649306,Nyasaland,1
+Q107299,Kingdom of Northumbria,1
+Q574,Timor-Leste,1
+Q2396442,Kingdom of Galicia and Lodomeria,1
+Q1121436,Province of Canada,1
+Q1233672,County of Barcelona,1
+Q25228,Anguilla,1
+Q64576860,Lordship of Bologna,1
+Q816709,Tuvan People's Republic,1
+Q258532,British America,1
+Q170180,Margraviate of Meissen,1
+Q253094,Kingdom of Hungary,1
+Q3503,Congo,1
+Q157904,Sultanate of Zanzibar,1
+Q200262,Kingdom of Navarre,1
+Q1774,Zanzibar Islands,1
+Q146562,State of Damascus,1
+Q205047,Herêma Kurdistanê,1
+Q319460,Northern Song dynasty,1
+Q213510,Congo belge,1
+Q213353,Cisalpine Republic,1
+Q12150341,Samanid Empire,1
+Q195972,Kingdom of Kartli,1
+Q151095,Herzogtum Berg,1
+Q2580491,British Pakistanis,1
+Q159856,Duchy of Brabant,1
+Q866716,Jalayirid Sultanate,1
+Q8660,Karachi,1
+Q486256,Shiya,1
+Q15240466,British Cyprus,1
+Q618399,Republic of the Congo (Léopoldville),1
+Q178038,Second Spanish Republic,1
+Q320925,Shu Han,1
+Q646374,French India,1
+Q2208978,Alamannia,1
+Q131404661,ባአጣዊ ሶሪያ,1
+Q45315,Berbers,1
+Q389688,Achaemenid Empire,1
+Q139670,First Republic of Armenia,1
+Q81720,Silesia,1
+Q265824,Second Hellenic Republic,1
+Q527527,Prince-Bishopric of Lübeck,1
+Q153128,Independent State of Croatia,1
+Q700663,Saxe-Coburg-Saalfeld,1
+Q467864,People's Socialist Republic of Albania,1
+Q30609,Independent Macedonia,1
+Q913582,Roman Italy,1
+Q139708,French Mandate for Syria and the Lebanon,1
+Q170361,Territory of the Saar Basin,1
+Q10841085,Dai Co Viet,1
+Q950644,Carpatho-Ukraine,1
+Q1794352,Kurtrier,1
+Q5866728,Democratic Republic of Sudan,1
+Q700247,Saxe-Weissenfels,1
+Q4533605,South Russia,1
+Q7352,Jin dynasty,1
+Q1078602,Kingdom of Nepal,1
+Q71496997,Serilanka Branch Post Office,1
+Q696651,Saxe-Eisenach,1
+Q20581158,null/unknown,1
+Q697,Nauru,1
+Q28370,Goguryeo,1
+Q47261,Duchy of Bavaria,1
+Q2006542,Dominion of Pakistan,1
+Q11915012,County of Quercy,1
+Q429908,Benue State,1
+Q577668,Khanate of Bukhara,1
+Q2415901,allied-occupied Germany,1
+Q81931,Confederate States of America,1
+Q267584,Yemen Arab Republic,1
+Q46370,West Francia,1
+Q55599391,Kingdom of Sardinia,1
+Q853968,Hindustan,1
+Q33061,Taifa of Zaragoza,1
+Q842939,Imo State,1
+Q1055713,Yan,1
+Q918126,British Guiana,1
+Q2227470,Majgaon,1
+Q130842,French mandate of Lebanon,1
+Q150058,Kingdom of Thiruvithamkoor,1
+Q877670,Muzaffarids of Iran,1
+Q1069829,Later Han dynasty,1
+Q149805,Kingdom of Iraq,1
+Q1541723,County of Lippe,1
+Q133878465,Republic of Cuba in Arms,1
+Q936703,Jhang District,1
+Q43937,Azawad,1
+Q706152,Principality of Anhalt-Zerbst,1
+Q1152445,Aerican Empire,1
+Q157367,Brandenburg-Prussia,1
+Q3486796,Republic of the Sudan(1956-1969),1
+Q306696,Küstenland,1
+Q750583,Southern Rhodesia,1
+Q157109,Burgundian Netherlands,1

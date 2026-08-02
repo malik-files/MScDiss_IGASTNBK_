@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Attempting to evaluate the link prediction.">
-      <change afterPath="$PROJECT_DIR$/Main Code/aupr_attempy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/BritishGroupsGraph.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphsNew.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/groupsGraph.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/ikkimelEgo.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/sufjanEgo.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/graphTesting/twigsEgoGraph.graphml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/practice.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/evaluating_knowledge_graph_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/evaluating_knowledge_graph_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphs/artistGraph.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphs/artistGraph.graphml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/aja25/PycharmProjects/IGASTNBK_MScDiss/Main Code/graphTesting",
+    "last_opened_file_path": "/home/aja25/Downloads/top10CountriesWikipediaArtists.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,7 +109,7 @@
       <workItem from="1784820830608" duration="14128000" />
       <workItem from="1784898062576" duration="28489000" />
       <workItem from="1785586004024" duration="1584000" />
-      <workItem from="1785587601847" duration="27461000" />
+      <workItem from="1785587601847" duration="47587000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -239,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785591056781</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Attempting to evaluate the link prediction.">
+      <option name="closed" value="true" />
+      <created>1785619254075</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1785619254075</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
