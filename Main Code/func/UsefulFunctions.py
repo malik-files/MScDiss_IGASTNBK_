@@ -2,6 +2,11 @@
 import requests 
 import datetime as dt
 import networkx as nx
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+import squarify
+import polars as pl
 
 def getEntityIDValue(link):
     try:
@@ -140,3 +145,93 @@ def addToNetwork4(df, source, target, connectionType, attr, attr2, sourceName, t
     nx.set_node_attributes(graph, attributesName2)
 
     return graph
+
+def makeBarChart(names, counts, title, yLabel):
+
+    fig, ax = plt.subplots()
+    labels = names
+    counts = counts
+    #bar_labels = ['red', 'blue', '_red', 'orange']
+    bar_colors = ['tab:blue', 'tab:red', 'tab:orange']
+
+    ax.bar(labels, counts, color=bar_colors)
+
+    ax.set_ylabel(yLabel)
+    ax.set_title(title)
+    for container in ax.containers:
+        ax.bar_label(container, fmt='{:,.0f}')
+    #ax.legend(title='Fruit color')
+
+    plt.show()
+
+def horizontalBarChart(names, counts, title, yLabel):
+    fig, ax = plt.subplots()
+    y_pos = np.arange(len(names))
+    hbars = ax.barh(y_pos, counts, align='center')
+
+    ax.set_yticks(y_pos, labels=names)
+    ax.invert_yaxis()
+    ax.set_xlabel(yLabel)
+    ax.set_title(title)
+
+    plt.show()
+
+def makePieChart2(labels, sizes, title, explode):
+    labels = labels
+    sizes = sizes
+
+
+    fig, ax = plt.subplots()
+    ax.set_title(title)
+    ax.pie(sizes, labels=labels,  autopct='%1.1f%%', explode=explode)
+
+def makePieChart(labels, sizes, title, colourPalette):
+    labels = labels
+    sizes = sizes
+    colour = sns.color_palette(colourPalette, len(sizes))
+
+
+    fig, ax = plt.subplots()
+    #ax.set_title(title)
+    ax.pie(sizes, labels=labels,  autopct='%1.1f%%', colors=colour)
+
+def makeTreeMap(labels, counts, colourPalette, title,pad):
+    colour = sns.color_palette(colourPalette, len(counts))
+    ax = squarify.plot(counts, color=colour, pad = pad, norm_x= 300, norm_y=300)
+    ax.get_xaxis().set_visible(False)
+    plt.legend(handles=ax.containers[0], labels = labels, loc='center left')
+    plt.title(title)
+
+def groupBarChart(labels, counts1, counts2, title, yLabel, legend1, legend2):
+    species = labels
+    colour = sns.color_palette("coolwarm", 2)
+    counts = {
+        legend1: counts1,
+        legend2: counts2,
+    }
+
+    fig, ax = plt.subplots(layout='constrained')
+
+    res = ax.grouped_bar(counts, tick_labels=species, group_spacing=1, colors= colour)
+    for container in res.bar_containers:
+        ax.bar_label(container, fmt='{:,.0f}', padding=3)
+
+    # Add some text for labels, title, etc.
+    ax.set_ylabel(yLabel)
+    ax.set_title(title)
+    ax.legend(loc='best')
+
+    plt.show()
+
+def makeTop10(df, entity, column, columnLabel, site, title):
+
+    print(f"There are {len(df[column].drop_nulls().unique())} {column}s for {entity}s on {site}.")
+
+    groupedBY = df.group_by([column, columnLabel]).agg(pl.col(entity).count()).sort(by=pl.col(entity), descending=True)
+    groupedByFRAC = df[column].drop_nulls().value_counts(sort=True, normalize=True, name="fraction")
+    print(groupedByFRAC)
+    groupedBY.write_csv(f"./Visuals Data/{site}{entity}GroupedBy{str(column).capitalize()}.csv", null_value="null/unknown")
+    print(groupedBY.head(5))
+
+    top10 = groupedBY.drop_nulls()[0:10]
+    horizontalBarChart(top10[columnLabel].to_list(), top10[entity].to_list(), title, "Number of Groups" )

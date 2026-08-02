@@ -4,17 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file">
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/countriesCoordsISOA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.VERSION.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.cpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_50m_admin_0_countries/ne_50m_admin_0_countries.shx" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="GETTING charts and making data">
+      <change afterPath="$PROJECT_DIR$/Main Code/Group Info/Query 114 - Musical Ensembles (and subclasses such as bands) + genre + type of group + inception year + country of origin + record label – Only group name is labelled.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/Group Info/Query 115 - Groups and who they were influenced by.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/Group Info/Query 18 - The Wikipedia Pages (if they have one) For All Music Ensembles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/Group Info/Query 25 - Groups and their musicBrainzID.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/Group Info/Query 27 - Unlabelled Musical Groups and number of statements.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_07_2026,_17_17_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_07_2026__17_17__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/pipelinedGroupsWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/pipelinedGroupsWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaArtistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaArtistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/wikipediaArtistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/wikipediaArtistsGroupedByRegions-Countries.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/label_merging_groups_wikidata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/label_merging_groups_wikidata.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +65,12 @@
     &quot;assignee&quot;: &quot;malik-files&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/malik-files/MScDiss_IGASTNBK_.git&quot;,
-    &quot;accountId&quot;: &quot;26920c54-79fc-4edb-a53d-cc8697beebe0&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/malik-files/MScDiss_IGASTNBK_.git",
+    "accountId": "3ca902ba-aee9-4d9b-99cc-d3d4f7556278"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -60,10 +87,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/malikawotorebo/PycharmProjects/MScDiss_IGASTNBK_/Main Code/mapData",
+    "last_opened_file_path": "/home/aja25/Downloads",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,19 +101,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Main Code/mapData" />
-      <recent name="$PROJECT_DIR$/Main Code" />
-      <recent name="$PROJECT_DIR$/Main Code/func" />
+      <recent name="$PROJECT_DIR$/Main Code/csv_data" />
+      <recent name="$PROJECT_DIR$/Main Code/graphTesting" />
+      <recent name="$PROJECT_DIR$/Main Code/graphs" />
+      <recent name="$PROJECT_DIR$/Main Code/Data" />
+      <recent name="$PROJECT_DIR$/Main Code/Find_The_Music_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Main Code/Data" />
+      <recent name="$PROJECT_DIR$/Main Code/graphTesting" />
       <recent name="$PROJECT_DIR$/Main Code" />
+      <recent name="$PROJECT_DIR$/Main Code/Data" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c6d794e1806d-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.309" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-PY-252.28238.29" />
+        <option value="bundled-python-sdk-a101402ee41c-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28238.29" />
       </set>
     </attachedChunks>
   </component>
@@ -100,6 +130,9 @@
       <updated>1784820829617</updated>
       <workItem from="1784820830608" duration="14128000" />
       <workItem from="1784898062576" duration="28489000" />
+      <workItem from="1785586004024" duration="1584000" />
+      <workItem from="1785587601847" duration="47587000" />
+      <workItem from="1785696828351" duration="10287000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -197,15 +230,47 @@
       <option name="project" value="LOCAL" />
       <updated>1785455417084</updated>
     </task>
-    <task id="LOCAL-00013" summary="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file">
+    <task id="LOCAL-00013" summary="Fixing the find music files code for finding audio files wikipedia articles">
       <option name="closed" value="true" />
-      <created>1785456569064</created>
+      <created>1785497110456</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1785456569064</updated>
+      <updated>1785497110456</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Creating knowledge graphs">
+      <option name="closed" value="true" />
+      <created>1785533699998</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1785533699998</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Attempting to evaluate the link prediction.">
+      <option name="closed" value="true" />
+      <created>1785589121170</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1785589121170</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Attempting to evaluate the link prediction.">
+      <option name="closed" value="true" />
+      <created>1785591056781</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1785591056781</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Attempting to evaluate the link prediction.">
+      <option name="closed" value="true" />
+      <created>1785619254075</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1785619254075</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +288,9 @@
     <MESSAGE value="Redoing the inspecting and the cleaning of the data" />
     <MESSAGE value="Redoing the inspecting and the cleaning of the data - now country names" />
     <MESSAGE value="added the code to get the genres from musicBrainz" />
-    <MESSAGE value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
+    <MESSAGE value="Fixing the find music files code for finding audio files wikipedia articles" />
+    <MESSAGE value="Creating knowledge graphs" />
+    <MESSAGE value="Attempting to evaluate the link prediction." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempting to evaluate the link prediction." />
   </component>
 </project>
