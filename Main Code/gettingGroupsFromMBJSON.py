@@ -18,7 +18,7 @@ q1 = (
         pl.col("id"),
         pl.col("name"),
         pl.col("type"),
-        pl.col(["gender","country","genres","isnis","ipis","relations","life-span"]),
+        pl.col(["gender","country","genres","isnis","ipis","tags","life-span"]),
     )
     .filter((pl.col("type") == "Orchestra") | (pl.col("type") == "Choir") |(pl.col("type") == "Group"))
     #This drops all the duplicates that may exist

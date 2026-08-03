@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="GETTING charts and making data">
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/Qeury 28 - Genres and number of statements.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/Query 19 - Genres on wikidata and their wikipedia pages.csv" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Made charts for genres and genres over time">
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.VERSION.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.cpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.dbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.prj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_07_2026,_15_07_[Changes]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/List_of_articles_with_the_sound_files.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/List_of_articles_with_the_sound_files.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getMusicFiles.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphs/genreGraph.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphs/genreGraph.graphml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/gettingGroupsFromMBJSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/gettingGroupsFromMBJSON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +76,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Code/mapData" />
       <recent name="$PROJECT_DIR$/Main Code/Data" />
       <recent name="$PROJECT_DIR$/Main Code/csvData" />
       <recent name="$PROJECT_DIR$/Main Code/csv_data" />
       <recent name="$PROJECT_DIR$/Main Code/graphTesting" />
-      <recent name="$PROJECT_DIR$/Main Code/graphs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Main Code/Data" />
@@ -103,7 +108,7 @@
       <workItem from="1785586004024" duration="1584000" />
       <workItem from="1785587601847" duration="47587000" />
       <workItem from="1785696828351" duration="10287000" />
-      <workItem from="1785753268801" duration="23074000" />
+      <workItem from="1785753268801" duration="34928000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -241,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785619254075</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Made charts for genres and genres over time">
+      <option name="closed" value="true" />
+      <created>1785778139658</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1785778139658</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +275,7 @@
     <MESSAGE value="Fixing the find music files code for finding audio files wikipedia articles" />
     <MESSAGE value="Creating knowledge graphs" />
     <MESSAGE value="Attempting to evaluate the link prediction." />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempting to evaluate the link prediction." />
+    <MESSAGE value="Made charts for genres and genres over time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made charts for genres and genres over time" />
   </component>
 </project>
