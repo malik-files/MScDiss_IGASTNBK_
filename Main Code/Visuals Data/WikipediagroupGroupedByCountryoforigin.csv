@@ -36,8 +36,8 @@ Q21,England,101
 Q15180,Soviet Union,100
 Q298,Chile,94
 Q148,People's Republic of China,84
-Q41,Greece,82
 Q258,South Africa,82
+Q41,Greece,82
 Q189,Iceland,80
 Q766,Jamaica,77
 Q928,Philippines,77
@@ -48,17 +48,17 @@ Q739,Colombia,60
 Q865,Taiwan,60
 Q869,Thailand,55
 Q833,Malaysia,54
-Q419,Peru,53
 Q218,Romania,53
+Q419,Peru,53
 Q224,Croatia,52
 Q22,Scotland,47
-Q211,Latvia,44
 Q241,Cuba,44
+Q211,Latvia,44
 Q219,Bulgaria,42
 Q902,Bangladesh,41
 Q83286,Socijalistička Federativna Republika Jugoslavija,40
-Q717,Venezuela,37
 Q37,Lithuania,37
+Q717,Venezuela,37
 Q36704,Jugoslavija,36
 Q214,Slovakia,35
 Q184,Belarus,31
@@ -71,139 +71,139 @@ Q334,Singapore,23
 Q399,Armenia,22
 Q1183,Puerto Rico,19
 Q233,Malta,17
-Q227,Azerbaijan,15
-Q230,Georgia,15
 Q117,Ghana,15
+Q230,Georgia,15
+Q227,Azerbaijan,15
 Q29999,Kingdom of the Netherlands,14
-Q225,Bosnia and Herzegovina,14
-Q786,Dominican Republic,14
 Q924,Tanzania,14
 Q1028,Morocco,14
+Q225,Bosnia and Herzegovina,14
+Q786,Dominican Republic,14
 Q215,Slovenia,13
 Q750,Bolivia,12
-Q79,Egypt,12
-Q221,North Macedonia,12
-Q711,Mongolia,12
 Q217,Moldova,12
+Q79,Egypt,12
+Q711,Mongolia,12
+Q221,North Macedonia,12
 Q26,Northern Ireland,11
 Q822,Lebanon,10
 Q236,Montenegro,10
 Q32,Luxembourg,10
-Q33946,Czechoslovakia,9
+Q713750,West Germany,9
+Q1041,Senegal,9
 Q881,Vietnam,9
 Q974,Democratic Republic of the Congo,9
-Q713750,West Germany,9
 Q790,Haiti,9
-Q1041,Senegal,9
+Q33946,Czechoslovakia,9
 Q1033,Nigeria,8
 Q843,Pakistan,8
+Q232,Kazakhstan,7
 Q854,Sri Lanka,7
 Q114,Kenya,7
-Q232,Kazakhstan,7
-Q1036,Uganda,6
-Q4628,Faroe Islands,6
-Q223,Greenland,6
-Q912,Mali,6
-Q216,Vilnius,6
-Q836,Myanmar,6
 Q1032,Niger,6
+Q216,Vilnius,6
 Q800,Costa Rica,6
-Q837,Nepal,5
-Q916,Angola,5
-Q1006,Guinea,5
-Q784,Dominica,5
+Q912,Mali,6
+Q223,Greenland,6
+Q4628,Faroe Islands,6
+Q1036,Uganda,6
+Q836,Myanmar,6
 Q1020,Malawi,5
-Q733,Paraguay,4
-Q229,Cyprus,4
+Q916,Angola,5
+Q837,Nepal,5
+Q784,Dominica,5
+Q1006,Guinea,5
 Q736,Ecuador,4
-Q858,Syria,4
-Q838261,Federal Republic of Yugoslavia,4
-Q953,Zambia,4
 Q1029,Mozambique,4
-Q971,Republic of the Congo,4
+Q953,Zambia,4
+Q838261,Federal Republic of Yugoslavia,4
 Q115,Ethiopia,4
+Q858,Syria,4
 Q754,Trinidad and Tobago,4
-Q265,Uzbekistan,4
+Q971,Republic of the Congo,4
+Q733,Paraguay,4
 Q954,Zimbabwe,4
-Q948,Tunisia,3
-Q774,Guatemala,3
-Q23792,Palestine,3
+Q229,Cyprus,4
+Q265,Uzbekistan,4
 Q889,Afghanistan,3
+Q23792,Palestine,3
+Q948,Tunisia,3
 Q804,Panama,3
 Q810,Jordan,3
-Q963,Botswana,3
 Q778,The Bahamas,3
 Q1054923,British Hong Kong,3
-Q423,North Korea,2
-Q1045,Somalia,2
-Q347,Liechtenstein,2
-Q851,Saudi Arabia,2
-Q262,Algeria,2
-Q962,Benin,2
-Q228,Andorra,2
-Q783,Honduras,2
-Q424,Cambodia,2
-Q1037,Rwanda,2
-Q1019,Madagascar,2
-Q1013,Lesotho,2
-Q234963,Catalan countries,2
-Q34266,Russian Empire,2
-Q826,Maldives,2
+Q774,Guatemala,3
+Q963,Botswana,3
 Q878,United Arab Emirates,2
+Q1019,Madagascar,2
+Q424,Cambodia,2
 Q269864,Socialist Republic of Serbia,2
+Q1045,Somalia,2
+Q1037,Rwanda,2
+Q826,Maldives,2
+Q347,Liechtenstein,2
+Q783,Honduras,2
+Q234963,Catalan countries,2
+Q228,Andorra,2
+Q262,Algeria,2
 Q209062,Socialist Republic of Croatia,2
-Q243610,Ukrainian People's Republic,1
-Q811,Nicaragua,1
-Q92561,London,1
-Q1206012,Deutsches Reich,1
-Q244,Barbados,1
-Q235,Monaco,1
-Q1778994,Kuban People's Republic,1
-Q965,Burkina Faso,1
-Q934644,Republic of Serbia,1
-Q1007,Guinea-Bissau,1
-Q211274,Polska Rzeczpospolita Ludowa,1
-Q785,Jersey,1
-Q37024,Serbia and Montenegro,1
-Q242,Belize,1
-Q3908,Galicia,1
-Q19236425,null/unknown,1
-Q1011,Cape Verde,1
-Q6250,Western Sahara,1
-Q9676,Isle of Man,1
-Q2562456,Republic of West Papua,1
-Q338988,Kidal Region,1
-Q192180,Latvian Soviet Socialist Republic,1
-Q657,Chad,1
-Q1042,Seychelles,1
-Q874,Turkmenistan,1
-Q46,Europe,1
-Q796,Iraq,1
-Q6500954,Zaire,1
-Q156418,Kingdom of Hawaiʻi,1
-Q792,El Salvador,1
-Q23635,Bermuda,1
-Q813,Kyrgyzstan,1
-Q730,Suriname,1
-Q980,Bavaria,1
-Q1049,Sudan,1
-Q1005,The Gambia,1
-Q9679,Isle of Wight,1
-Q1246,Kosovo,1
-Q130229,Georgian SSR,1
-Q99,California,1
-Q237,Vatican City,1
-Q238,San Marino,1
+Q851,Saudi Arabia,2
+Q34266,Russian Empire,2
+Q962,Benin,2
+Q423,North Korea,2
+Q1013,Lesotho,2
 Q222,Albania,1
-Q219060,Palestine,1
-Q7318,Nazi Germany,1
-Q398,Bahrain,1
-Q17070,Réunion,1
-Q152750,Protectorate of Bohemia and Moravia,1
-Q686,Vanuatu,1
-Q25279,Curaçao,1
+Q243610,Ukrainian People's Republic,1
+Q99,California,1
+Q1007,Guinea-Bissau,1
 Q21203,Aruba,1
-Q2184,Russian Soviet Federative Socialist Republic,1
-Q327,Brittany,1
+Q6500954,Zaire,1
 Q1008,Ivory Coast,1
+Q9676,Isle of Man,1
+Q730,Suriname,1
+Q1049,Sudan,1
+Q813,Kyrgyzstan,1
+Q338988,Kidal Region,1
+Q242,Belize,1
+Q244,Barbados,1
+Q211274,Polska Rzeczpospolita Ludowa,1
+Q934644,Republic of Serbia,1
+Q130229,Georgian SSR,1
+Q192180,Latvian Soviet Socialist Republic,1
+Q92561,London,1
+Q792,El Salvador,1
+Q6250,Western Sahara,1
+Q1246,Kosovo,1
+Q19236425,null/unknown,1
+Q235,Monaco,1
+Q237,Vatican City,1
+Q219060,Palestine,1
+Q2184,Russian Soviet Federative Socialist Republic,1
+Q980,Bavaria,1
+Q9679,Isle of Wight,1
+Q965,Burkina Faso,1
+Q874,Turkmenistan,1
+Q1778994,Kuban People's Republic,1
 Q174193,United Kingdom of Great Britain and Ireland,1
+Q796,Iraq,1
+Q785,Jersey,1
+Q686,Vanuatu,1
+Q1005,The Gambia,1
+Q1011,Cape Verde,1
+Q25279,Curaçao,1
+Q398,Bahrain,1
+Q156418,Kingdom of Hawaiʻi,1
+Q7318,Nazi Germany,1
+Q238,San Marino,1
+Q811,Nicaragua,1
+Q152750,Protectorate of Bohemia and Moravia,1
+Q3908,Galicia,1
+Q46,Europe,1
+Q23635,Bermuda,1
+Q657,Chad,1
+Q1206012,Deutsches Reich,1
+Q17070,Réunion,1
+Q327,Brittany,1
+Q37024,Serbia and Montenegro,1
+Q2562456,Republic of West Papua,1
+Q1042,Seychelles,1
