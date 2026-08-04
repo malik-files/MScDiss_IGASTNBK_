@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Made charts for genres and genres over time">
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.README.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.VERSION.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.cpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.dbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.prj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/mapData/ne_10m_admin_0_countries/ne_10m_admin_0_countries.shx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_07_2026,_15_07_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Made charts for genres and genres over time, as well as maps for artists.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_07_2026__15_07__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/gettingGroupsFromMBJSON.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/gettingGroupsFromMBJSON.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
     </list>
@@ -64,7 +60,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/aja25/Downloads",
+    "last_opened_file_path": "/home/aja25/Downloads/top10GenresGroupsMB.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -108,7 +104,7 @@
       <workItem from="1785586004024" duration="1584000" />
       <workItem from="1785587601847" duration="47587000" />
       <workItem from="1785696828351" duration="10287000" />
-      <workItem from="1785753268801" duration="34928000" />
+      <workItem from="1785753268801" duration="43566000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -254,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785778139658</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Made charts for genres and genres over time, as well as maps for artists.">
+      <option name="closed" value="true" />
+      <created>1785795487596</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1785795487596</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +280,10 @@
     <MESSAGE value="Creating knowledge graphs" />
     <MESSAGE value="Attempting to evaluate the link prediction." />
     <MESSAGE value="Made charts for genres and genres over time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made charts for genres and genres over time" />
+    <MESSAGE value="Made charts for genres and genres over time, as well as maps for artists." />
+    <option name="LAST_COMMIT_MESSAGE" value="Made charts for genres and genres over time, as well as maps for artists." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IGASTNBK_MScDiss$getGenresFromMB.coverage" NAME="getGenresFromMB Coverage Results" MODIFIED="1785845872808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Code" />
   </component>
 </project>

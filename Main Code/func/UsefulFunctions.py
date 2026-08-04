@@ -197,10 +197,11 @@ def makePieChart(labels, sizes, title, colourPalette):
 
 def makeTreeMap(labels, counts, colourPalette, title,pad):
     colour = sns.color_palette(colourPalette, len(counts))
-    ax = squarify.plot(counts, color=colour, pad = pad, norm_x= 300, norm_y=300)
+    ax = squarify.plot(counts, label = labels, color=colour, pad = pad, norm_x= 300, norm_y=300)
     ax.get_xaxis().set_visible(False)
-    plt.legend(handles=ax.containers[0], labels = labels, loc='center left')
+    #plt.legend(handles=ax.containers[0], labels = labels, loc='center left')
     plt.title(title)
+    plt.axis("off")
 
 def groupBarChart(labels, counts1, counts2, title, yLabel, legend1, legend2):
     species = labels
