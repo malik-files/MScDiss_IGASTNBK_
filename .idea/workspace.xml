@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikidatagroupGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikidatagroupGroupedByGenre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByCountryoforigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByCountryoforigin.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByGenre.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/groupsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/groupsGroupedByRegions-Countries.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groupsNew.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groupsNew.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphs/BritishGroupsGraph.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphs/BritishGroupsGraph.graphml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphs/groupsGraph.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphs/groupsGraph.graphml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="fixing some of the graphs">
+      <change afterPath="$PROJECT_DIR$/Main Code/gaps_wikidata_mb.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785456569064</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fixing some of the graphs">
+      <option name="closed" value="true" />
+      <created>1785867552479</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1785867552479</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +225,7 @@
     <MESSAGE value="Redoing the inspecting and the cleaning of the data - now country names" />
     <MESSAGE value="added the code to get the genres from musicBrainz" />
     <MESSAGE value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
+    <MESSAGE value="fixing some of the graphs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing some of the graphs" />
   </component>
 </project>
