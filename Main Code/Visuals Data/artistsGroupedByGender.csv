@@ -8,8 +8,8 @@ Q18116794,genderfluid,56
 Q12964198,genderqueer,46
 null/unknown,null/unknown,41
 Q189125,transgender,22
-Q27679684,transfeminine,15
 Q27679766,transmasculine,15
+Q27679684,transfeminine,15
 Q301702,two-spirit,14
 Q505371,agender,12
 Q113124952,undisclosed gender,10
@@ -23,9 +23,9 @@ Q859614,bigender,4
 Q7677449,takatāpui,3
 Q121307094,intersex man,3
 Q9151342,androgyne,2
-Q52261234,neutral sex,1
-Q93954933,demiboy,1
-Q130477254,non-binary woman,1
-Q124637723,gender agnostic,1
-Q93955709,demigirl,1
 Q124850662,apagender,1
+Q130477254,non-binary woman,1
+Q52261234,neutral sex,1
+Q93955709,demigirl,1
+Q93954933,demiboy,1
+Q124637723,gender agnostic,1
