@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="trying to do the comparing">
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/query 26 - get genres with musicbrainzID.csv" afterDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Making the trip hop ego network">
       <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/gaps_wikidata_mb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/gaps_wikidata_mb.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785874257426</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Making the trip hop ego network">
+      <option name="closed" value="true" />
+      <created>1785952061748</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1785952061748</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +242,7 @@
     <MESSAGE value="added the code to get the genres from musicBrainz. Changed from a jupyter notebook to a python file" />
     <MESSAGE value="fixing some of the graphs" />
     <MESSAGE value="trying to do the comparing" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to do the comparing" />
+    <MESSAGE value="Making the trip hop ego network" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making the trip hop ego network" />
   </component>
 </project>
