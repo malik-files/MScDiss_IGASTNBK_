@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Made the trip hop networks">
       <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphs/mbTripHopEgo.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphs/mergedTripHopEgo.graphml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphs/trip_hop_WikidataEgo.graphml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785958428801</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Made the trip hop networks">
+      <option name="closed" value="true" />
+      <created>1785959560501</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1785959560501</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
