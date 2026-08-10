@@ -4,14 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Made the trip hop networks">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026,_00_35_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026,_11_02_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026,_11_58_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026__00_35__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026__11_02__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_31_07_2026__11_58__Changes_.xml" beforeDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="Added the link prediction code">
+      <change afterPath="$PROJECT_DIR$/Main Code/statisticalTests.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_2026,_17_49_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_2026,_18_06_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_2026__17_49__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_02_08_2026__18_06__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikidataartistGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikidataartistGroupedByGenre.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikidatagroupGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikidatagroupGroupedByGenre.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaArtistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaArtistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaartistGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediaartistGroupedByGenre.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByCountryoforigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByCountryoforigin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByGenre.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/WikipediagroupGroupedByGenre.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByGenresAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupation.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByOccupationAndGender.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/artistsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/groupsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/groupsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/wikipediaArtistsGroupedByRegions-Countries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Visuals Data/wikipediaArtistsGroupedByRegions-Countries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/auprOfGraphs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/auprOfGraphs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_genre.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/func/UsefulFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphsNew.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphsNew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/graphs/genreGraph.graphml" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphs/genreGraph.graphml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_wikidata_groups.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithNoInceptionYear.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledcountryOfOriginOrNocountryOfOrigin.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupOrNogroup.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledgroupTypeOrNogroupType.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledinfluencedbyOrNoinfluencedby.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/groupEntitiesWithoutLabelledrecordLabelOrNorecordLabel.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/variousGroupTypes.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +79,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/malik-files/MScDiss_IGASTNBK_.git&quot;,
-    &quot;accountId&quot;: &quot;26920c54-79fc-4edb-a53d-cc8697beebe0&quot;
+    &quot;accountId&quot;: &quot;3ca902ba-aee9-4d9b-99cc-d3d4f7556278&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -52,6 +93,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.auprOfGraphs.executor": "Run",
     "Python.getGenresFromMB.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -60,7 +102,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/aja25/PycharmProjects/IGASTNBK_MScDiss/Main Code",
+    "last_opened_file_path": "/home/aja25/Downloads/mbGroupGenrePieChart.png",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,9 +114,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Code" />
       <recent name="$PROJECT_DIR$/Main Code/Data" />
       <recent name="$PROJECT_DIR$/Main Code/mapData" />
-      <recent name="$PROJECT_DIR$/Main Code" />
       <recent name="$PROJECT_DIR$/Main Code/func" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -99,7 +141,9 @@
       <updated>1784820829617</updated>
       <workItem from="1784820830608" duration="14128000" />
       <workItem from="1784898062576" duration="28489000" />
-      <workItem from="1786267468684" duration="401000" />
+      <workItem from="1786267468684" duration="8595000" />
+      <workItem from="1786384896613" duration="4967000" />
+      <workItem from="1786391999398" duration="2660000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -253,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785962252669</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added the link prediction code">
+      <option name="closed" value="true" />
+      <created>1786267904144</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1786267904144</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +328,10 @@
     <MESSAGE value="trying to do the comparing" />
     <MESSAGE value="Making the trip hop ego network" />
     <MESSAGE value="Made the trip hop networks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the trip hop networks" />
+    <MESSAGE value="Added the link prediction code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the link prediction code" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IGASTNBK_MScDiss$auprOfGraphs.coverage" NAME="auprOfGraphs Coverage Results" MODIFIED="1786268505925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Code" />
   </component>
 </project>

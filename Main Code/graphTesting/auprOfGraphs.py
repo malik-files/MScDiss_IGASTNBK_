@@ -77,8 +77,8 @@ for k in [5, 10, 20, 30, 40, 50, 60, 70]:
 
             FN = len(list(set(testEdges).difference(set(topPredictionsLinks))))
 
-            Recall.append((TP) / ((TP) + (FN)))
-            Precision.append((TP) / ((TP) + (FP)))
+            Recall.append(TP / ((TP) + (FN)))
+            Precision.append(TP / (TP + (FP)))
         print(f"The array lengths are thresholds {len(thresholds)}, recall {len(Recall)}, precision {len(Precision)}")
         df = pd.DataFrame({"Thresholds": thresholds, "Recall": Recall, "Precision": Precision})
         df = df.T
