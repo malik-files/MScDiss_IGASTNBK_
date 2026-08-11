@@ -8,10 +8,10 @@ import operator
 print(f"Start Time: {str(dt.datetime.now().time())}")
 random.seed(50)
 # graph = nx.dorogovtsev_goltsev_mendes_graph(7)
-graph = nx.read_graphml("./twigsEgoGraph.graphml")
+graph = nx.read_graphml("../graphs/ikkimelEgo.graphml")
 graph = graph.to_undirected()
 #Get the edges and split into G_training and G_test
-for k in [5, 10, 20, 30, 40, 50, 60, 70]:
+for k in [5, 10, 15, 20, 25]:
     #k = 60
     edgesFull = list(graph.edges())
     testEdges = random.sample(edgesFull, k) #Take 15% of edges away
@@ -69,16 +69,16 @@ for k in [5, 10, 20, 30, 40, 50, 60, 70]:
         for index in range(1, len(predictions) + 1):
             values = predictions[0:index]
             topPredictionsLinks = [(k, v) for k, v, n in values]
-            # topPredictionsLinksReversed = [(v, k) for k,v,n in values]
-            # topPredictionsLinks.extend(topPredictionsLinksReversed)
+            topPredictionsLinksReversed = [(v, k) for k,v,n in values]
+            topPredictionsLinks.extend(topPredictionsLinksReversed)
 
             TP = len([k for k in y_true[0:index] if k == 1])
             FP = len([k for k in y_true[0:index] if k == 0])
 
             FN = len(list(set(testEdges).difference(set(topPredictionsLinks))))
 
-            Recall.append(TP / ((TP) + (FN)))
-            Precision.append(TP / (TP + (FP)))
+            Recall.append(TP / (TP + FN))
+            Precision.append(TP / (TP + FP))
         print(f"The array lengths are thresholds {len(thresholds)}, recall {len(Recall)}, precision {len(Precision)}")
         df = pd.DataFrame({"Thresholds": thresholds, "Recall": Recall, "Precision": Precision})
         df = df.T
