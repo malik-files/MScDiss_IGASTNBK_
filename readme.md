@@ -21,7 +21,7 @@ It is included so fun of the code can be run.
 These files, but the .csv files are available on request are not included
 in the submission but their results which are used to run the other files are so code outside of the labelling and merging process is executable.
 - statisticalTests.ipynb - includes the code used to perform the two proportion z-test.
-- OMBD-ps.py - this si code used to create dataset of musicbrainz data using API code. This code is deprecated now as the use of JSON dumps
+- OMBD-ps.py - this is code used to create dataset of musicbrainz data using API requests. This code is deprecated now as the use of JSON dumps
 was preferred. It is included for the sake of completeness.
 - inspecting_analysing_wikidata_groups.ipynb, inspecting_analysing_group_MB_data.ipynb, inspecting_analysing_artist_MB_data.ipynb, cleaning_inspecting_labelling_Wikidata_artists.ipynb
   - The files above are used to analyse the created datasets/parquet files in Data/
@@ -32,4 +32,5 @@ was preferred. It is included for the sake of completeness.
 
 Outside the MainCode
 
-- A selection of images of the graphs.
+- A selection of images of the graphs can be seen in Graph Images/.
+- Results Collation - Wikidata Sparql.docx contains the sparql queries used to obtain the initial dataset from Wikidata
