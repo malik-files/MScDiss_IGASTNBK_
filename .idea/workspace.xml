@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="crafting the submission file">
-      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/evaluating_knowledge_graph_test.ipynb" beforeDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="finished the read me for submission.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_artistsWikidata.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_groupMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/Data/Network_personMBData.parquet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/cleaning_inspecting_labelling_Wikidata_artists.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithFormattingIssuesInTheirMusicBrainzID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutGenders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledGenresOrNoGenres.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledInfluencesOrNoInfluences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabelledRecordLabelsOrNoRecordLabels.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/missingValuesStore/artistsEntitiesWithoutLabels.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,33 +56,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.auprOfGraphs.executor": "Run",
-    "Python.getGenresFromMB.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/aja25/PycharmProjects/IGASTNBK_MScDiss/Main Code/Data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.auprOfGraphs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getGenresFromMB.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aja25/Downloads/mbArtistCountryMAP.png&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Code/mapData" />
       <recent name="$PROJECT_DIR$/Main Code/Data" />
       <recent name="$PROJECT_DIR$/Main Code" />
-      <recent name="$PROJECT_DIR$/Main Code/mapData" />
       <recent name="$PROJECT_DIR$/Main Code/func" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -102,7 +111,7 @@
       <workItem from="1784898062576" duration="28489000" />
       <workItem from="1786267468684" duration="8595000" />
       <workItem from="1786384896613" duration="4967000" />
-      <workItem from="1786391999398" duration="8943000" />
+      <workItem from="1786391999398" duration="15626000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -288,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786446855418</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="finished the read me for submission.">
+      <option name="closed" value="true" />
+      <created>1786448675516</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1786448675516</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +331,8 @@
     <MESSAGE value="Added the link prediction code" />
     <MESSAGE value="TRYING TO FINISH IT UP" />
     <MESSAGE value="crafting the submission file" />
-    <option name="LAST_COMMIT_MESSAGE" value="crafting the submission file" />
+    <MESSAGE value="finished the read me for submission." />
+    <option name="LAST_COMMIT_MESSAGE" value="finished the read me for submission." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IGASTNBK_MScDiss$auprOfGraphs.coverage" NAME="auprOfGraphs Coverage Results" MODIFIED="1786268505925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Code" />
