@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2181.7031"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1204.964722 -1224.000000 2181.703125 2398.000000" height="2398.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.0"
+              d="M 341.784821,-87.845352 L 276.051025,29.295322"
+              class="id_Q37073 id_Q18616541" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 320.497986,-116.148209 L 56.677929,-54.302280"
+              class="id_Q37073 id_Q216271" stroke-opacity="1.0" stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 364.456818,-170.125565 L 369.431213,-358.628235"
+              class="id_Q37073 id_Q58454497" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -467.087036,1010.728210 L -295.929169,778.797302"
+              class="id_Q675241 id_Q18057199" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -323.944336,-44.807652 L -41.921528,-43.186798"
+              class="id_Q846833 id_Q216271" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -410.029816,-32.499573 L -545.326233,7.841083"
+              class="id_Q846833 id_Q543531" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -337.235901,1087.102051 L -276.233429,787.553467"
+              class="id_Q9778 id_Q18057199" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 724.248535,-511.742157 L 418.707764,-422.567444"
+              class="id_Q474027 id_Q58454497" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -958.471436,-324.083923 L -676.195496,-211.025208"
+              class="id_Q30109466 id_Q103835150" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1000.645264,463.555420 L -721.034302,370.912537"
+              class="id_Q203059 id_Q13142685" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -943.387878,26.999819 L -643.157410,22.812868"
+              class="id_Q131272 id_Q543531" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 268.040161,-747.719055 L 27.744850,-766.726685"
+              class="id_Q2572585 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 319.458252,-700.954346 L 362.116913,-457.778381"
+              class="id_Q2572585 id_Q58454497" stroke-opacity="1.0"
+              stroke="#6f60cb"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 708.495544,587.244385 L 488.308563,381.849823"
+              class="id_Q216364 id_Q24236009" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 53.937050,-1132.317505 L -11.785127,-819.557861"
+              class="id_Q1765119 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 647.390869,-635.508179 L 409.374908,-440.256256"
+              class="id_Q2913982 id_Q58454497" stroke-opacity="1.0"
+              stroke="#1e00d7"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -282.445374,-763.744690 L -72.000870,-769.338684"
+              class="id_Q454071 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -326.427307,-718.617126 L -326.647827,-463.391632"
+              class="id_Q454071 id_Q1926915" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -919.346802,596.085571 L -709.287231,390.172394"
+              class="id_Q211756 id_Q13142685" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 104.928322,-445.439850 L 125.972191,-277.603851"
+              class="id_Q11401 id_Q78933" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 141.603149,-476.554382 L 322.853180,-422.780304"
+              class="id_Q11401 id_Q58454497" stroke-opacity="1.0"
+              stroke="#8704a9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 82.042534,-529.419800 L -2.265015,-724.795227"
+              class="id_Q11401 id_Q324686" stroke-opacity="1.0" stroke="#d8649d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 64.371552,-462.576080 L -79.763840,-353.793213"
+              class="id_Q11401 id_Q73911" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 82.578987,-448.468536 L 30.068077,-322.204712"
+              class="id_Q11401 id_Q118496244" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -193.383591,1070.655151 L -255.553650,787.396729"
+              class="id_Q31837473 id_Q18057199" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 271.264557,797.098755 L 138.627396,537.146179"
+              class="id_Q9794 id_Q452250" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 786.975220,438.921509 L 499.984924,360.880920"
+              class="id_Q202585 id_Q24236009" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -73.894859,-1136.421021 L -29.069389,-820.131348"
+              class="id_Q111019644 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -114.103821,-25.712730 L -28.185337,-721.083801"
+              class="id_Q368535 id_Q324686" stroke-opacity="1.0"
+              stroke="#d8649d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -88.054214,-12.808819 L 96.456223,-193.115265"
+              class="id_Q368535 id_Q78933" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -163.452103,18.304831 L -543.245300,21.673147"
+              class="id_Q368535 id_Q543531" stroke-opacity="1.0"
+              stroke="#8704a9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -86.328560,-10.937477 L 333.056549,-375.779816"
+              class="id_Q368535 id_Q58454497" stroke-opacity="1.0"
+              stroke="#8704a9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -76.009026,24.353916 L 202.181808,65.546043"
+              class="id_Q368535 id_Q18616541" stroke-opacity="1.0"
+              stroke="#8704a9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -128.266785,60.990253 L -256.294159,689.644226"
+              class="id_Q368535 id_Q18057199" stroke-opacity="1.0"
+              stroke="#d8649d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -138.528183,-21.710117 L -305.059235,-368.398682"
+              class="id_Q368535 id_Q1926915" stroke-opacity="1.0"
+              stroke="#d8649d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -154.430298,44.596710 L -333.639374,181.464630"
+              class="id_Q368535 id_Q36821" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -119.513199,-26.044483 L -119.619339,-273.737549"
+              class="id_Q368535 id_Q73911" stroke-opacity="1.0" stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -79.815414,-1.006325 L -37.057587,-21.395817"
+              class="id_Q368535 id_Q216271" stroke-opacity="1.0"
+              stroke="#8704a9"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -131.032730,60.333141 L -195.673904,297.971649"
+              class="id_Q368535 id_Q122971758" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -99.964569,57.297989 L 93.725777,447.886414"
+              class="id_Q368535 id_Q452250" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -81.425308,39.896385 L 408.510986,322.789978"
+              class="id_Q368535 id_Q24236009" stroke-opacity="1.0"
+              stroke="#d8649d"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -157.044571,40.771404 L -630.934753,329.223511"
+              class="id_Q368535 id_Q13142685" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -160.136215,1.161654 L -583.628662,-173.409744"
+              class="id_Q368535 id_Q103835150" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -101.518074,58.030907 L -14.596676,252.004929"
+              class="id_Q368535 id_Q112152632" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -101.673187,-22.270100 L -9.369843,-230.405533"
+              class="id_Q368535 id_Q118496244" stroke-opacity="1.0"
+              stroke="#f1087b"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 176.438370,-1064.978516 L 5.876123,-812.085693"
+              class="id_Q12362064 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -204.140472,-1078.233765 L -47.509789,-813.656982"
+              class="id_Q877693 id_Q324686" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q37073 id_Q18616541"
+                  points="273.114807,34.527786 273.434784,27.827217 278.667267,30.763428"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0" class="id_Q37073 id_Q216271"
+                  points="50.836296,-52.932858 55.993217,-57.223099 57.362640,-51.381462"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q37073 id_Q58454497"
+                  points="369.589508,-364.626160 372.430176,-358.549103 366.432251,-358.707367"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q675241 id_Q18057199"
+                  points="-292.366455,773.969604 -293.515289,780.578674 -298.343048,777.015930"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q846833 id_Q216271"
+                  points="-35.921623,-43.152317 -41.938770,-40.186848 -41.904285,-46.186749"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q846833 id_Q543531"
+                  points="-551.076050,9.555488 -546.183411,4.966156 -544.469055,10.716009"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q9778 id_Q18057199"
+                  points="-275.036133,781.674133 -273.293762,788.152100 -279.173096,786.954834"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q474027 id_Q58454497"
+                  points="412.948059,-420.886414 417.867249,-425.447296 419.548279,-419.687592"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q30109466 id_Q103835150"
+                  points="-670.625610,-208.794342 -677.310913,-208.240280 -675.080078,-213.810135"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q203059 id_Q13142685"
+                  points="-715.338806,369.025452 -720.090759,373.760284 -721.977844,368.064789"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q131272 id_Q543531"
+                  points="-637.158020,22.729200 -643.115601,25.812576 -643.199219,19.813160"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q2572585 id_Q324686"
+                  points="21.763535,-767.199768 27.981415,-769.717346 27.508286,-763.736023"
+                  stroke="none"/>
+        <polyline fill="#6f60cb" fill-opacity="1.0"
+                  class="id_Q2572585 id_Q58454497"
+                  points="363.153625,-451.868622 359.162048,-457.260040 365.071777,-458.296722"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q216364 id_Q24236009"
+                  points="483.921112,377.757111 490.354919,379.656097 486.262207,384.043549"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q1765119 id_Q324686"
+                  points="-13.018997,-813.686096 -14.721006,-820.174805 -8.849247,-818.940918"
+                  stroke="none"/>
+        <polyline fill="#1e00d7" fill-opacity="1.0"
+                  class="id_Q2913982 id_Q58454497"
+                  points="404.736053,-436.450836 407.472198,-442.575684 411.277618,-437.936829"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q454071 id_Q324686"
+                  points="-66.002983,-769.498108 -71.921150,-766.339722 -72.080589,-772.337646"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q454071 id_Q1926915"
+                  points="-326.652985,-457.391632 -329.647827,-463.394226 -323.647827,-463.389038"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q211756 id_Q13142685"
+                  points="-705.002502,385.972229 -707.187134,392.314758 -711.387329,388.030029"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q11401 id_Q78933"
+                  points="126.718651,-271.650482 122.995499,-277.230621 128.948883,-277.977081"
+                  stroke="none"/>
+        <polyline fill="#8704a9" fill-opacity="1.0"
+                  class="id_Q11401 id_Q58454497"
+                  points="328.605347,-421.073730 321.999878,-419.904205 323.706482,-425.656403"
+                  stroke="none"/>
+        <polyline fill="#d8649d" fill-opacity="1.0" class="id_Q11401 id_Q324686"
+                  points="-4.642225,-730.304199 0.489476,-725.983826 -5.019505,-723.606628"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q11401 id_Q73911"
+                  points="-84.552948,-350.178741 -81.571075,-356.187775 -77.956604,-351.398651"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q11401 id_Q118496244"
+                  points="27.764088,-316.664703 27.298077,-323.356720 32.838078,-321.052704"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q31837473 id_Q18057199"
+                  points="-256.839935,781.536255 -252.623398,786.753601 -258.483887,788.039856"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q9794 id_Q452250"
+                  points="135.900436,531.801697 141.299652,535.782715 135.955139,538.509644"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q202585 id_Q24236009"
+                  points="494.195160,359.306519 500.772125,357.986053 499.197723,363.775787"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q111019644 id_Q324686"
+                  points="-28.227465,-814.190735 -32.039707,-819.710388 -26.099072,-820.552307"
+                  stroke="none"/>
+        <polyline fill="#d8649d" fill-opacity="1.0"
+                  class="id_Q368535 id_Q324686"
+                  points="-27.449585,-727.038513 -25.207977,-720.715942 -31.162697,-721.451660"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q368535 id_Q78933"
+                  points="100.747475,-197.308731 98.552956,-190.969635 94.359489,-195.260895"
+                  stroke="none"/>
+        <polyline fill="#8704a9" fill-opacity="1.0"
+                  class="id_Q368535 id_Q543531"
+                  points="-549.245056,21.726358 -543.271912,18.673265 -543.218689,24.673029"
+                  stroke="none"/>
+        <polyline fill="#8704a9" fill-opacity="1.0"
+                  class="id_Q368535 id_Q58454497"
+                  points="337.583344,-379.717865 335.025574,-373.516418 331.087524,-378.043213"
+                  stroke="none"/>
+        <polyline fill="#8704a9" fill-opacity="1.0"
+                  class="id_Q368535 id_Q18616541"
+                  points="208.117096,66.424896 201.742386,68.513687 202.621231,62.578400"
+                  stroke="none"/>
+        <polyline fill="#d8649d" fill-opacity="1.0"
+                  class="id_Q368535 id_Q18057199"
+                  points="-257.491486,695.523560 -259.233826,689.045532 -253.354507,690.242920"
+                  stroke="none"/>
+        <polyline fill="#d8649d" fill-opacity="1.0"
+                  class="id_Q368535 id_Q1926915"
+                  points="-307.657166,-373.807098 -302.355042,-369.697632 -307.763428,-367.099731"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q368535 id_Q36821"
+                  points="-338.407745,185.106400 -335.460266,179.080444 -331.818481,183.848816"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0" class="id_Q368535 id_Q73911"
+                  points="-119.621910,-279.737549 -116.619339,-273.738831 -122.619339,-273.736267"
+                  stroke="none"/>
+        <polyline fill="#8704a9" fill-opacity="1.0"
+                  class="id_Q368535 id_Q216271"
+                  points="-31.641834,-23.978373 -35.766308,-18.687939 -38.348866,-24.103695"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q122971758"
+                  points="-197.248779,303.761292 -198.568726,297.184204 -192.779083,298.759094"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q452250"
+                  points="96.391388,453.261749 91.038094,449.219208 96.413460,446.553619"
+                  stroke="none"/>
+        <polyline fill="#d8649d" fill-opacity="1.0"
+                  class="id_Q368535 id_Q24236009"
+                  points="413.707001,325.790192 407.010864,325.388000 410.011108,320.191956"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q13142685"
+                  points="-636.059937,332.343140 -632.494568,326.660919 -629.374939,331.786102"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q103835150"
+                  points="-589.175842,-175.696396 -582.485352,-176.183334 -584.771973,-170.636154"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q112152632"
+                  points="-12.143103,257.480316 -17.334375,253.231720 -11.858976,250.778137"
+                  stroke="none"/>
+        <polyline fill="#f1087b" fill-opacity="1.0"
+                  class="id_Q368535 id_Q118496244"
+                  points="-6.937443,-235.890366 -6.627424,-229.189331 -12.112261,-231.621735"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q12362064 id_Q324686"
+                  points="2.521183,-807.111328 3.388937,-813.763184 8.363310,-810.408203"
+                  stroke="none"/>
+        <polyline fill="#c0c0c0" fill-opacity="1.0"
+                  class="id_Q877693 id_Q324686"
+                  points="-44.453220,-808.493896 -50.091328,-812.128723 -44.928249,-815.185242"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="8.037117"
+                class="id_Q216271" cy="-42.899673" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="363.29718"
+                class="id_Q37073" cy="-126.1814" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-493.18958"
+                class="id_Q675241" cy="1046.099" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-266.26392"
+                class="id_Q18057199" cy="738.5988" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="-367.90308"
+                class="id_Q846833" cy="-45.060295" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-346.00812"
+                class="id_Q9778" cy="1130.1774" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-373.3437"
+                class="id_Q36821" cy="211.78813" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="10.883728"
+                class="id_Q118496244" cy="-276.07544" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-22.059044"
+                class="id_Q324686" cy="-770.6662" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="766.44745"
+                class="id_Q474027" cy="-524.0583" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-999.27936"
+                class="id_Q30109466" cy="-340.42853" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-1042.3739"
+                class="id_Q203059" cy="477.3813" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="-987.3431"
+                class="id_Q131272" cy="27.612808" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="251.60243"
+                class="id_Q18616541" cy="72.86383" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="451.77606"
+                class="id_Q24236009" cy="347.7716" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="311.86273"
+                class="id_Q2572585" cy="-744.2526" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="740.64056"
+                class="id_Q216364" cy="617.2299" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="62.977097"
+                class="id_Q1765119" cy="-1175.3374" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="132.18762"
+                class="id_Q78933" cy="-228.03253" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-629.8177"
+                class="id_Q103835150" cy="-192.44972" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="681.3778"
+                class="id_Q2913982" cy="-663.38873" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-326.3893"
+                class="id_Q454071" cy="-762.5766" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="370.74915"
+                class="id_Q58454497" cy="-408.5703" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-950.73914"
+                class="id_Q211756" cy="626.8582" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="99.45935"
+                class="id_Q11401" cy="-489.0578" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-183.95961"
+                class="id_Q31837473" cy="1113.5925" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-208.78714"
+                class="id_Q122971758" cy="346.17944" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-326.69098"
+                class="id_Q1926915" cy="-413.4322" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="291.24384"
+                class="id_Q9794" cy="836.2557" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="829.39435"
+                class="id_Q202585" cy="450.45642" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="115.92117"
+                class="id_Q452250" cy="492.64478" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-80.06328"
+                class="id_Q111019644" cy="-1179.9456" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-119.64075"
+                class="id_Q73911" cy="-323.69702" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="5.8331833"
+                class="id_Q112152632" cy="297.59625" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-673.61017"
+                class="id_Q13142685" cy="355.1996" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#1e00d7" r="40.442707" cx="-593.2028"
+                class="id_Q543531" cy="22.11621" stroke="#0f006b"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#f1087b" r="40.442707" cx="-119.49436"
+                class="id_Q368535" cy="17.914978" stroke="#78043d"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="201.0186"
+                class="id_Q12362064" cy="-1101.4236" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="40.442707" cx="-226.53464"
+                class="id_Q877693" cy="-1116.0615" stroke="#606060"
+                stroke-opacity="1.0" stroke-width="7.033514"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="46" x="8.037117" y="-27.79805" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q216271" font-weight="bold">
+            Max Herre
+        </text>
+        <text font-size="46" x="363.29718" y="-111.07977" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q37073" font-weight="bold">
+            pop music
+        </text>
+        <text font-size="46" x="-493.18958" y="1061.2007" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q675241" font-weight="bold">
+            BPitch Control
+        </text>
+        <text font-size="46" x="-266.26392" y="753.70044" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q18057199" font-weight="bold">
+            Robot Koch
+        </text>
+        <text font-size="46" x="-367.90308" y="-29.958672" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q846833" font-weight="bold">
+            crossover jazz
+        </text>
+        <text font-size="46" x="-346.00812" y="1145.279" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q9778" font-weight="bold">
+            electronic music
+        </text>
+        <text font-size="46" x="-373.3437" y="226.88976" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q36821" font-weight="bold">
+            Yasha
+        </text>
+        <text font-size="46" x="10.883728" y="-260.97382" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q118496244" font-weight="bold">
+            Wa22ermann
+        </text>
+        <text font-size="46" x="-22.059044" y="-755.5646" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q324686" font-weight="bold">
+            Casper
+        </text>
+        <text font-size="46" x="766.44745" y="-508.95667" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q474027" font-weight="bold">
+            dancehall
+        </text>
+        <text font-size="46" x="-999.27936" y="-325.3269" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q30109466" font-weight="bold">
+            Lea
+        </text>
+        <text font-size="46" x="-1042.3739" y="492.4829" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q203059" font-weight="bold">
+            Virgin Records
+        </text>
+        <text font-size="46" x="-987.3431" y="42.71443" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q131272" font-weight="bold">
+            soul
+        </text>
+        <text font-size="46" x="251.60243" y="87.965454" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q18616541" font-weight="bold">
+            Balbina
+        </text>
+        <text font-size="46" x="451.77606" y="362.87323" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q24236009" font-weight="bold">
+            Kelvin Jones
+        </text>
+        <text font-size="46" x="311.86273" y="-729.151" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q2572585" font-weight="bold">
+            pop rap
+        </text>
+        <text font-size="46" x="740.64056" y="632.33154" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q216364" font-weight="bold">
+            Epic Records
+        </text>
+        <text font-size="46" x="62.977097" y="-1160.2358" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q1765119" font-weight="bold">
+            Selfmade Records
+        </text>
+        <text font-size="46" x="-629.8177" y="-177.3481" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q103835150" font-weight="bold">
+            Luna
+        </text>
+        <text font-size="46" x="681.3778" y="-648.2871" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q2913982" font-weight="bold">
+            trap music
+        </text>
+        <text font-size="46" x="-326.3893" y="-747.475" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q454071" font-weight="bold">
+            German hip-hop
+        </text>
+        <text font-size="46" x="370.74915" y="-393.4687" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q58454497" font-weight="bold">
+            Kelvyn Colt
+        </text>
+        <text font-size="46" x="-950.73914" y="641.95984" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q211756" font-weight="bold">
+            dance-pop
+        </text>
+        <text font-size="46" x="99.45935" y="-473.95618" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q11401" font-weight="bold">
+            hip-hop
+        </text>
+        <text font-size="46" x="-208.78714" y="361.28107" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q122971758" font-weight="bold">
+            Ikkimel
+        </text>
+        <text font-size="46" x="-326.69098" y="-398.33057" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q1926915" font-weight="bold">
+            Michael Beck
+        </text>
+        <text font-size="46" x="291.24384" y="851.3573" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q9794" font-weight="bold">
+            reggae
+        </text>
+        <text font-size="46" x="829.39435" y="465.55804" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q202585" font-weight="bold">
+            RCA Records
+        </text>
+        <text font-size="46" x="115.92117" y="507.7464" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q452250" font-weight="bold">
+            Gentleman
+        </text>
+        <text font-size="46" x="5.8331833" y="312.69788" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q112152632" font-weight="bold">
+            Domiziana
+        </text>
+        <text font-size="46" x="-673.61017" y="370.3012" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q13142685" font-weight="bold">
+            Ilira
+        </text>
+        <text font-size="46" x="-593.2028" y="37.217834" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q543531" font-weight="bold">
+            Joy Denalane
+        </text>
+        <text font-size="46" x="-119.49436" y="33.0166" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q368535" font-weight="bold">
+            Four Music
+        </text>
+        <text font-size="46" x="201.0186" y="-1086.322" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_Q12362064" font-weight="bold">
+            emo rap
+        </text>
+    </g>
+</svg>
