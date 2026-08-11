@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="TRYING TO FINISH IT UP">
+      <change afterPath="$PROJECT_DIR$/Main Code/Data/ensemblesMusicBrainzData.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Code/Data/personMusicBrainzData.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/auprOfGraphs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/graphTesting/auprOfGraphsNew.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/practice.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getFilesFromPages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/mbArtists_country_count.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/aupr_attempy.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/aja25/Downloads/mbGroupGenrePieChart.png",
+    "last_opened_file_path": "/home/aja25/PycharmProjects/IGASTNBK_MScDiss/Main Code/Data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,12 +73,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Main Code" />
       <recent name="$PROJECT_DIR$/Main Code/Data" />
+      <recent name="$PROJECT_DIR$/Main Code" />
       <recent name="$PROJECT_DIR$/Main Code/mapData" />
       <recent name="$PROJECT_DIR$/Main Code/func" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Main Code/graphTesting" />
       <recent name="$PROJECT_DIR$/Main Code/Data" />
       <recent name="$PROJECT_DIR$/Main Code" />
@@ -101,7 +104,7 @@
       <workItem from="1784898062576" duration="28489000" />
       <workItem from="1786267468684" duration="8595000" />
       <workItem from="1786384896613" duration="4967000" />
-      <workItem from="1786391999398" duration="3905000" />
+      <workItem from="1786391999398" duration="7136000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -271,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786401571017</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="TRYING TO FINISH IT UP">
+      <option name="closed" value="true" />
+      <created>1786443430092</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1786443430092</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
