@@ -235,4 +235,4 @@ def makeTop10(df, entity, column, columnLabel, site, title):
     print(groupedBY.head(5))
 
     top10 = groupedBY.drop_nulls()[0:10]
-    horizontalBarChart(top10[columnLabel].to_list(), top10[entity].to_list(), title, "Number of Groups" )
+    horizontalBarChart(top10[columnLabel].to_list(), top10[entity].to_list(), title, "Number of Entities" )

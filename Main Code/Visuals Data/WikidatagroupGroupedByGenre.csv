@@ -61,9 +61,9 @@ Q188450,electropop,256
 Q178145,gothic metal,252
 Q617240,stoner rock,249
 Q1133657,traditional heavy metal,243
-Q851213,electronic dance music,230
-Q20502,house music,230
 Q181861,noise rock,230
+Q20502,house music,230
+Q851213,electronic dance music,230
 Q1640319,experimental music,230
 Q188534,grindcore,227
 Q213714,bluegrass music,225
@@ -78,13 +78,13 @@ Q216961,Eurodance,201
 Q484179,folk metal,200
 Q208494,industrial metal,194
 Q193207,ambient music,192
-Q487965,industrial music,186
 Q325504,electronic rock,186
+Q487965,industrial music,186
 Q720959,sludge metal,181
 Q42201,independent music,179
 Q373342,popular music,178
-Q753520,Christian rock,174
 Q272167,shoegaze,174
+Q753520,Christian rock,174
 Q205560,trip hop,173
 Q546359,doo-wop,172
 Q316930,dance music,167
@@ -93,11 +93,11 @@ Q1379958,contemporary Christian music,164
 Q1317816,indie folk,163
 Q460674,ska punk,163
 Q58339,disco,162
-Q217597,electro,161
 Q592330,dream pop,161
 Q241662,groove metal,161
-Q180268,gospel music,158
+Q217597,electro,161
 Q3840596,dark wave,158
+Q180268,gospel music,158
 Q188539,glam metal,156
 Q379671,post-grunge,150
 Q274401,oi!,149
@@ -108,8 +108,8 @@ Q236913,space rock,135
 Q546264,beat music,133
 Q542703,melodic hardcore,127
 Q170435,trance,123
-Q1136331,nu jazz,121
 Q203720,rockabilly,121
+Q1136331,nu jazz,121
 Q76092,glam rock,119
 Q11363,screamo,118
 Q475221,deathcore,116
@@ -129,1578 +129,1578 @@ Q807820,barbershop music,97
 Q2089511,death-doom,97
 Q1958273,sertanejo,93
 Q1132152,math rock,90
-Q2389651,children's music,89
-Q854451,Celtic music,89
 Q188994,drum and bass,89
-Q910606,music of Brittany,88
-Q726239,noise music,88
+Q854451,Celtic music,89
+Q2389651,children's music,89
 Q775614,neofolk,88
+Q910606,music of Brittany,88
 Q877693,rap rock,88
+Q726239,noise music,88
 Q822914,Christian metal,87
 Q852767,Southern rock,85
-Q105757139,dansband music,84
 Q320592,Krautrock,84
-Q504635,crossover,84
+Q105757139,dansband music,84
 Q220830,surf music,84
+Q504635,crossover,84
 Q106298881,contemporary folk music,82
 Q1457545,pagan metal,82
-Q212688,dub music,80
 Q944465,jazz rock,80
+Q212688,dub music,80
 Q1403744,electro-industrial,79
 Q641357,avant-garde metal,79
 Q1062400,chanson,76
 Q203775,swing,75
 Q3724735,emo pop,74
-Q2265866,brutal death metal,73
 Q2407862,Americana,73
-Q1046768,música popular brasileira,72
+Q2265866,brutal death metal,73
 Q1507298,lo-fi music,72
+Q1046768,música popular brasileira,72
 Q286080,acoustic music,71
 Q1391336,comedy rock,71
 Q627906,electro house,69
 Q612024,contemporary classical music,67
 Q8361,Baroque music,66
-Q1695023,alternative music,65
 Q1650296,instrumental rock,65
-Q2296495,garage punk,64
-Q753679,gangsta rap,64
+Q1695023,alternative music,65
 Q465978,extreme metal,64
 Q383982,psychedelic pop,64
-Q372103,electronic body music,63
+Q2296495,garage punk,64
+Q753679,gangsta rap,64
 Q202930,reggaeton,63
+Q372103,electronic body music,63
+Q1185390,disco polo,62
 Q723418,cumbia,62
 Q966564,hardcore hip-hop,62
-Q1185390,disco polo,62
-Q11700058,folk-pop,61
 Q915152,progressive house,61
+Q11700058,folk-pop,61
 Q973150,mandopop,61
 Q213121,new age music,60
 Q1772422,stoner metal,59
-Q2913982,trap music,59
 Q828181,Rock Against Communism,59
-Q930995,queercore,57
+Q2913982,trap music,59
 Q208239,salsa,57
-Q1621467,symphonic black metal,56
-Q436016,early music,56
+Q930995,queercore,57
 Q370515,new wave of British heavy metal,56
+Q436016,early music,56
+Q1621467,symphonic black metal,56
 Q932977,crossover thrash,55
+Q11403,samba,55
 Q6452410,Christian music,55
 Q3327514,Galician folk music,55
-Q11403,samba,55
 Q131425,visual kei,54
-Q639197,instrumental music,53
 Q783874,nasheed,53
 Q14390274,tango,53
 Q608862,anime song,53
-Q856872,rap metal,52
-Q876171,East Coast hip-hop,52
+Q639197,instrumental music,53
 Q2662148,Celtic rock,52
+Q876171,East Coast hip-hop,52
 Q486365,anarcho-punk,52
+Q856872,rap metal,52
 Q547137,Latin pop,51
-Q13627677,psychobilly,51
 Q1268283,Romani music,51
+Q13627677,psychobilly,51
 Q474027,dancehall,50
 Q972424,old-time music,48
 Q2187392,alternative dance,47
-Q251192,downtempo,47
 Q739138,teen pop,47
 Q1055871,Japanese rock,47
+Q251192,downtempo,47
 Q4145841,rock fusion,46
+Q1840167,witch house,45
 Q1899347,post-punk revival,45
 Q719927,symphonic rock,45
-Q1840167,witch house,45
 Q1583807,art music,44
-Q1166218,dark rock,42
 Q213149,viking metal,42
+Q1166218,dark rock,42
+Q830325,horror punk,41
 Q388296,Afrobeat,41
 Q650316,drone music,41
 Q1524296,Neue Volksmusik,41
-Q830325,horror punk,41
-Q213572,Neue Deutsche Härte,40
-Q846119,psychedelic music,40
-Q1192110,C-pop,40
-Q622871,psychedelic trance,40
-Q429264,West Coast hip-hop,40
-Q703778,neo-psychedelia,40
 Q660984,intelligent dance music,40
+Q846119,psychedelic music,40
+Q213572,Neue Deutsche Härte,40
+Q622871,psychedelic trance,40
+Q1192110,C-pop,40
+Q703778,neo-psychedelia,40
+Q429264,West Coast hip-hop,40
 Q212944,klezmer,40
-Q2332751,avant-garde music,39
 Q2624785,Russian rock,39
 Q20474,dubstep,39
+Q2332751,avant-garde music,39
 Q383615,street punk,39
-Q1195253,sea shanty,39
 Q492096,Andean music,39
-Q3930216,rapcore,38
+Q1195253,sea shanty,39
 Q486263,bossa nova,38
+Q3930216,rapcore,38
 Q2994332,rock en español,38
-Q1643549,dance-punk,37
-Q659599,art punk,37
-Q1500364,psychedelic folk,37
-Q828243,futurepop,37
 Q2545135,noise pop,37
+Q1643549,dance-punk,37
 Q15957030,electro,37
-Q1418683,kayōkyoku,36
-Q476983,synth-punk,36
+Q659599,art punk,37
+Q828243,futurepop,37
+Q1500364,psychedelic folk,37
 Q2572585,pop rap,36
+Q476983,synth-punk,36
 Q138020,French hip-hop,36
 Q446241,neo-medieval music,36
+Q1418683,kayōkyoku,36
 Q1878514,post-black metal,36
-Q18345375,Latin music,35
 Q533914,National Socialist black metal,35
+Q5834708,epic doom metal,35
+Q646679,Neue Deutsche Welle,35
 Q7308175,reggae rock,35
 Q39052425,Midwest emo,35
-Q646679,Neue Deutsche Welle,35
-Q5834708,epic doom metal,35
-Q1378776,music of Ireland,34
-Q1929352,roots rock,34
-Q2532274,Volkstümliche Musik,34
+Q18345375,Latin music,35
 Q1147692,goregrind,34
-Q3117305,group sounds,34
-Q727781,music of Latin America,34
-Q616679,mathcore,34
+Q1929352,roots rock,34
+Q1378776,music of Ireland,34
 Q46046,baroque pop,34
+Q616679,mathcore,34
+Q727781,music of Latin America,34
+Q3117305,group sounds,34
+Q2532274,Volkstümliche Musik,34
+Q7482056,Irish folk music,33
 Q2281409,dance-rock,33
+Q667659,funk metal,33
 Q388906,hardcore,33
 Q2529400,urban contemporary,33
-Q667659,funk metal,33
-Q7482056,Irish folk music,33
 Q965635,underground hip-hop,32
-Q744417,Italo disco,32
 Q853873,cantopop,32
-Q1433387,drone metal,32
 Q2997058,melodic black metal,32
-Q2343562,coldwave,31
-Q65937017,atmospheric black metal,31
-Q517415,Europop,31
-Q221772,acid jazz,31
-Q3437841,French rock,31
-Q5151495,comedy music,31
+Q744417,Italo disco,32
+Q1433387,drone metal,32
 Q1166197,dark metal,31
+Q221772,acid jazz,31
+Q517415,Europop,31
+Q2343562,coldwave,31
+Q3437841,French rock,31
+Q65937017,atmospheric black metal,31
+Q5151495,comedy music,31
 Q663519,breakbeat,30
-Q7309098,regional Mexican,30
+Q1076513,choral music,30
 Q492264,film score,30
 Q1344,opera,30
 Q1051843,neo-prog,30
-Q1076513,choral music,30
-Q163775,medieval music,29
-Q861823,electroclash,29
-Q3328764,Thai pop,29
-Q211781,free jazz,29
-Q997481,bubblegum music,29
-Q573484,rocksteady,29
-Q1062702,video game music,29
-Q2238236,Christian hip-hop,29
+Q7309098,regional Mexican,30
 Q1780056,norteño,29
+Q211781,free jazz,29
+Q861823,electroclash,29
 Q2743,musical play,29
+Q1062702,video game music,29
+Q997481,bubblegum music,29
+Q2238236,Christian hip-hop,29
+Q163775,medieval music,29
+Q573484,rocksteady,29
+Q3328764,Thai pop,29
+Q1990122,Celtic punk,28
+Q9764,flamenco,28
+Q25094849,art pop,28
 Q1141081,lounge music,28
 Q11319210,techno-pop,28
-Q56351111,classic rock,28
-Q9764,flamenco,28
-Q1990122,Celtic punk,28
 Q1253172,Southern hip-hop,28
-Q25094849,art pop,28
-Q1151663,novelty music,27
-Q1374731,Eurodisco,27
+Q56351111,classic rock,28
 Q874038,deep house,27
 Q19938910,synthwave,27
-Q95469495,alternative pop,26
+Q1374731,Eurodisco,27
+Q1151663,novelty music,27
 Q1139136,horrorcore,26
-Q4056436,bard song,26
+Q95469495,alternative pop,26
 Q1435509,folktronica,26
+Q4056436,bard song,26
 Q268253,neo soul,26
+Q189201,chamber music,25
 Q325397,indietronica,25
 Q7171184,Peruvian cumbia,25
 Q844245,Gypsy jazz,25
-Q685884,vocal music,25
 Q1519864,sung poetry,25
-Q189201,chamber music,25
-Q906647,Dixieland jazz,24
-Q2668052,Dutch-language music,24
-Q1165777,UK garage,24
-Q1164252,deathrock,24
-Q885561,blue-eyed soul,24
-Q4490718,melodic metalcore,24
-Q1037693,modern rock,24
-Q105756581,big band music,24
+Q685884,vocal music,25
 Q823080,no wave,24
+Q4490718,melodic metalcore,24
 Q3724778,emotional hardcore,24
-Q11974316,hardcore,23
+Q1164252,deathrock,24
+Q1037693,modern rock,24
+Q1165777,UK garage,24
+Q906647,Dixieland jazz,24
+Q885561,blue-eyed soul,24
+Q105756581,big band music,24
+Q2668052,Dutch-language music,24
 Q27190,proto-punk,23
-Q12326776,metal music,23
-Q10283582,electronic forró,23
 Q858579,big beat,23
+Q11974316,hardcore,23
 Q38656,jazz-funk,23
 Q223840,hardstyle,23
-Q1207347,Shibuya-kei,22
-Q1431327,pub rock,22
-Q1077388,sentimental ballad,22
-Q3360459,pagode,22
+Q10283582,electronic forró,23
+Q12326776,metal music,23
 Q677542,riot grrrl,22
-Q1784106,Powerviolence,22
 Q185162,Latin rock,22
-Q454071,German hip-hop,21
+Q1784106,Powerviolence,22
+Q1077388,sentimental ballad,22
+Q1431327,pub rock,22
+Q3360459,pagode,22
+Q1207347,Shibuya-kei,22
 Q868855,old-school hip-hop,21
-Q641318,medieval folk rock,21
 Q28949059,depressive black metal,21
-Q969663,political hip-hop,21
-Q888612,deathgrind,21
-Q370778,twee pop,21
 Q592060,free improvisation,21
 Q1190565,jangle pop,21
-Q24383,German rock,20
+Q454071,German hip-hop,21
+Q888612,deathgrind,21
+Q969663,political hip-hop,21
+Q641318,medieval folk rock,21
+Q370778,twee pop,21
+Q428656,album-oriented rock,20
+Q2084353,electronicore,20
+Q3858,music of Israel,20
 Q740911,ragga,20
+Q936942,post-industrial music,20
+Q24383,German rock,20
 Q1435485,axé,20
 Q284543,ethereal wave,20
-Q936942,post-industrial music,20
-Q428656,album-oriented rock,20
-Q3858,music of Israel,20
-Q2084353,electronicore,20
-Q201405,Renaissance music,19
-Q899116,neoclassical dark wave,19
-Q1076539,choro,19
-Q574651,anti-folk,19
-Q4045538,nu-disco,19
-Q606089,skiffle,19
 Q1785028,sleaze rock,19
-Q848399,Easy Listening,18
-Q1983116,New York hardcore,18
+Q201405,Renaissance music,19
+Q606089,skiffle,19
+Q899116,neoclassical dark wave,19
+Q4045538,nu-disco,19
+Q574651,anti-folk,19
+Q1076539,choro,19
 Q2045695,shock rock,18
+Q1983116,New York hardcore,18
+Q848399,Easy Listening,18
 Q236932,acid rock,18
-Q1065742,religious music,17
-Q725011,neo-classical metal,17
-Q2225757,Christian hardcore,17
 Q2599472,blackened death metal,17
-Q602561,electro swing,17
-Q3482281,visa,17
 Q1339121,contemporary worship music,17
 Q282131,merengue,17
-Q829147,protest song,17
+Q3482281,visa,17
+Q602561,electro swing,17
+Q2225757,Christian hardcore,17
+Q1065742,religious music,17
 Q379033,arena rock,17
-Q1273641,punk pathetique,16
-Q483740,Anatolian rock,16
-Q11787389,club/dance music,16
+Q829147,protest song,17
+Q725011,neo-classical metal,17
 Q33246019,big-beat (Eastern bloc),16
-Q744327,joik,16
-Q972634,African popular music,16
-Q135637,chiptune,16
-Q12274232,Bulgarian folk music,16
-Q1123745,Glam punk,16
-Q11307326,city pop,16
-Q431415,tejano music,16
 Q1299260,roots reggae,16
-Q606393,Hi-NRG,16
+Q744327,joik,16
+Q1273641,punk pathetique,16
+Q11307326,city pop,16
+Q11787389,club/dance music,16
+Q12274232,Bulgarian folk music,16
 Q2832970,dialect music,16
-Q1190485,post-disco,15
+Q1123745,Glam punk,16
+Q135637,chiptune,16
+Q972634,African popular music,16
+Q431415,tejano music,16
+Q606393,Hi-NRG,16
+Q483740,Anatolian rock,16
 Q840065,new jack swing,15
-Q2336819,operatic pop,15
-Q106581470,surf rock,15
-Q179465,polyphony,15
-Q1936659,Nederpop,15
-Q586110,forró,15
-Q255406,jazz rap,15
 Q1166726,grime,15
+Q106581470,surf rock,15
+Q255406,jazz rap,15
+Q2336819,operatic pop,15
+Q1936659,Nederpop,15
+Q1190485,post-disco,15
+Q179465,polyphony,15
 Q854844,bhangra,15
-Q227045,zouk,14
+Q586110,forró,15
 Q378988,adult contemporary music,14
-Q2268922,cowpunk,14
 Q1455292,French house,14
-Q2707994,Catalan rumba,14
-Q2280497,country pop,14
-Q4390945,rautalanka,14
-Q3630966,avant-prog,14
-Q1026089,Cajun music,14
-Q25554481,punk music,14
-Q1891685,Russian chanson,14
 Q2697917,go-go,14
 Q89363113,singer-songwriter music,14
-Q20819985,Hasidic music,14
+Q3630966,avant-prog,14
 Q2743435,psychedelic soul,14
-Q1159539,dangdut,14
-Q22991878,chamber pop,14
-Q2532560,djent,14
+Q2707994,Catalan rumba,14
 Q1606591,reggae fusion,14
-Q1775316,progg,13
-Q2738544,Mizrahi music,13
-Q649634,progressive folk,13
-Q3453150,Congolese rumba,13
-Q727634,ranchera,13
-Q2746731,parody music,13
-Q572901,minimalist music,13
-Q602646,comedy hip-hop,13
-Q1196752,traditional pop,13
+Q2280497,country pop,14
+Q22991878,chamber pop,14
+Q227045,zouk,14
+Q2268922,cowpunk,14
+Q20819985,Hasidic music,14
+Q25554481,punk music,14
+Q1026089,Cajun music,14
+Q4390945,rautalanka,14
+Q1891685,Russian chanson,14
+Q1159539,dangdut,14
+Q2532560,djent,14
 Q610022,kaseko,13
+Q1775316,progg,13
 Q20022908,party music,13
-Q1045541,G-funk,13
-Q56580,digital hardcore,13
 Q185676,fado,13
-Q2461933,sunshine pop,13
-Q4428744,son cubano,13
-Q16855754,blackgaze,13
+Q649634,progressive folk,13
+Q602646,comedy hip-hop,13
+Q3453150,Congolese rumba,13
+Q2746731,parody music,13
+Q1045541,G-funk,13
+Q727634,ranchera,13
 Q790188,avant-garde jazz,13
-Q3726825,epic metal,12
-Q2726026,konpa,12
-Q1541229,American folk music,12
-Q2988851,Finnish rock,12
-Q1386554,Japanese ska,12
+Q16855754,blackgaze,13
+Q1196752,traditional pop,13
+Q56580,digital hardcore,13
+Q2461933,sunshine pop,13
+Q2738544,Mizrahi music,13
+Q4428744,son cubano,13
+Q572901,minimalist music,13
+Q3328778,tropical music,12
+Q56353998,Southern metal,12
 Q104695865,hyperpop,12
 Q1868278,black doom,12
+Q496929,maloya,12
+Q252833,Alpine folk music,12
+Q1973965,Nederhop,12
+Q2726026,konpa,12
+Q1541229,American folk music,12
 Q783243,Australian hip-hop,12
 Q15830404,bolero,12
-Q496929,maloya,12
+Q3726825,epic metal,12
+Q2988851,Finnish rock,12
+Q1386554,Japanese ska,12
 Q485915,trot,12
-Q252833,Alpine folk music,12
-Q3328778,tropical music,12
-Q1973965,Nederhop,12
-Q56353998,Southern metal,12
-Q1913888,power noise,11
-Q25094591,experimental pop,11
-Q1443316,Christmas music,11
-Q1797650,son jarocho,11
-Q848852,Eurobeat,11
-Q2076779,bubblegum dance,11
 Q264289,sophisti-pop,11
-Q646026,Argentine rock,11
+Q1913888,power noise,11
+Q3328774,symphonic music,11
+Q848852,Eurobeat,11
 Q1181308,death 'n' roll,11
-Q18370965,Pinoy pop,11
-Q1958247,Brazilian gaucho music,11
-Q1931130,funk carioca,11
-Q25448883,pagode baiano,11
 Q1537056,light music,11
+Q18370965,Pinoy pop,11
+Q253137,rock opera,11
+Q1547998,Rock identitaire français,11
+Q224694,white power music,11
+Q16829781,cloud rap,11
+Q28746819,bedroom pop,11
+Q2076779,bubblegum dance,11
+Q1931130,funk carioca,11
+Q5421158,experimental hip-hop,11
+Q2687544,power electronics,11
 Q1752683,soukous,11
 Q6774721,military music,11
-Q2687544,power electronics,11
+Q25448883,pagode baiano,11
 Q598593,tech house,11
-Q16829781,cloud rap,11
-Q253137,rock opera,11
 Q655514,freestyle music,11
-Q5421158,experimental hip-hop,11
-Q3328774,symphonic music,11
+Q1958247,Brazilian gaucho music,11
+Q1797650,son jarocho,11
 Q5724040,beatdown hardcore,11
-Q28746819,bedroom pop,11
-Q224694,white power music,11
-Q1547998,Rock identitaire français,11
-Q3879286,nueva canción chilena,10
-Q5398894,V-pop,10
-Q5494303,stoner doom,10
-Q601235,hip house,10
-Q6431989,Korean hip-hop,10
-Q1430587,minimal techno,10
-Q1092553,Celtic fusion,10
-Q212952,boogie-woogie,10
-Q3036886,atmospheric doom metal,10
-Q2551540,punk blues,10
+Q1443316,Christmas music,11
+Q646026,Argentine rock,11
+Q25094591,experimental pop,11
 Q339906,happy hardcore,10
-Q116985035,electronic pop,10
-Q25099840,Afrobeats,10
-Q9162904,avant-pop,10
-Q834959,samba rock,10
-Q898709,rave music,10
 Q835562,habanera,10
-Q2917227,Israeli rock,10
-Q1151260,D-beat,10
-Q7118426,alternative R&B,10
+Q5398894,V-pop,10
+Q3879286,nueva canción chilena,10
+Q1430587,minimal techno,10
+Q212952,boogie-woogie,10
 Q1795903,Kölschrock,10
+Q5494303,stoner doom,10
+Q7118426,alternative R&B,10
+Q25099840,Afrobeats,10
+Q3036886,atmospheric doom metal,10
+Q1151260,D-beat,10
+Q116985035,electronic pop,10
 Q784310,electro hop,10
-Q2090023,piano rock,10
+Q601235,hip house,10
 Q3046632,easycore,10
-Q48770364,emo revival,9
-Q13586773,war metal,9
-Q1490170,slowcore,9
-Q341364,acid house,9
-Q107736421,soundtrack,9
-Q6110311,flamenco rock,9
-Q6130346,slam death metal,9
-Q16562829,harsh noise,9
-Q63885,Christian punk,9
-Q196999,Zeuhl,9
-Q2101610,political punk,9
-Q20021059,future house,9
-Q3702442,Occitan folk music,9
-Q700423,Austropop,9
-Q1166158,dark cabaret,9
-Q742341,modern creative,9
-Q2104067,jazz pop,9
-Q388475,Cuban rumba,9
-Q1102161,jungle,9
-Q28401204,alternative folk,9
-Q65936391,acoustic rock,9
-Q3570024,ethnic music,9
-Q3397882,progressive pop,9
-Q12411192,Israeli hip hop,9
-Q26473,Gregorian chant,9
-Q1089050,Latin alternative,9
-Q930592,Italo dance,9
-Q542971,progressive death metal,9
-Q747717,heartland rock,9
-Q15300817,big room house,9
-Q15629158,medieval metal,9
-Q3827483,Latin hip-hop,9
-Q3328660,middle of the road,9
+Q6431989,Korean hip-hop,10
+Q9162904,avant-pop,10
+Q898709,rave music,10
+Q2551540,punk blues,10
+Q1092553,Celtic fusion,10
+Q834959,samba rock,10
+Q2917227,Israeli rock,10
+Q2090023,piano rock,10
 Q1995569,thrashcore,9
-Q3437855,Malaysian rock,8
-Q245296,zydeco,8
-Q1051735,soca music,8
-Q1049625,musical improvisation,8
-Q1046801,turntablism,8
-Q2549052,ethnic electronica,8
-Q124099574,cosmic black metal,8
-Q1588913,hatecore,8
-Q110874774,Rechtsrock,8
-Q2035976,Nintendocore,8
-Q2266376,boogie rock,8
-Q4078107,bard rock,8
-Q2260696,progressive trance,8
-Q2665906,music of Armenia,8
-Q31930766,symphonic power metal,8
-Q1890098,new beat,8
-Q2812726,banda music,8
-Q2525544,Celtic metal,8
+Q63885,Christian punk,9
+Q6110311,flamenco rock,9
+Q3702442,Occitan folk music,9
+Q13586773,war metal,9
+Q28401204,alternative folk,9
+Q6130346,slam death metal,9
+Q65936391,acoustic rock,9
+Q341364,acid house,9
+Q20021059,future house,9
+Q1166158,dark cabaret,9
+Q1102161,jungle,9
+Q15300817,big room house,9
+Q1490170,slowcore,9
+Q16562829,harsh noise,9
+Q3827483,Latin hip-hop,9
+Q196999,Zeuhl,9
+Q742341,modern creative,9
+Q12411192,Israeli hip hop,9
+Q388475,Cuban rumba,9
+Q930592,Italo dance,9
+Q747717,heartland rock,9
+Q3397882,progressive pop,9
+Q107736421,soundtrack,9
+Q1089050,Latin alternative,9
+Q700423,Austropop,9
+Q15629158,medieval metal,9
+Q2101610,political punk,9
+Q542971,progressive death metal,9
+Q3328660,middle of the road,9
+Q2104067,jazz pop,9
+Q26473,Gregorian chant,9
+Q48770364,emo revival,9
+Q3570024,ethnic music,9
 Q105637110,jazz house,8
-Q832665,Hard trance,8
-Q17018487,Scottish folk music,8
-Q2022163,Southern gospel,8
-Q2324411,geek rock,8
-Q10370558,sertanejo universitário,8
-Q1328560,trallpunk,8
-Q55296418,occult rock,8
-Q1078010,martial industrial,8
-Q3296134,wizard rock,8
+Q2266376,boogie rock,8
 Q108123046,slacker rock,8
+Q1051735,soca music,8
+Q4078107,bard rock,8
+Q10370558,sertanejo universitário,8
+Q2022163,Southern gospel,8
+Q3296134,wizard rock,8
+Q110874774,Rechtsrock,8
 Q970409,unblack metal,8
+Q245296,zydeco,8
+Q2665906,music of Armenia,8
+Q17018487,Scottish folk music,8
+Q2525544,Celtic metal,8
+Q1046801,turntablism,8
 Q2064394,worldbeat,8
-Q1100989,glitch,7
-Q13646229,gothic music,7
-Q212024,spirituals,7
-Q371745,timba,7
-Q11660484,denpa song,7
-Q12701217,pop yeh-yeh,7
-Q3753864,Xixón sound,7
-Q2280273,mod revival,7
-Q3163340,Afro-Cuban jazz,7
-Q47005557,Breton rock,7
+Q1588913,hatecore,8
+Q55296418,occult rock,8
+Q124099574,cosmic black metal,8
+Q2324411,geek rock,8
+Q2812726,banda music,8
+Q2035976,Nintendocore,8
+Q3437855,Malaysian rock,8
+Q1890098,new beat,8
+Q2260696,progressive trance,8
+Q832665,Hard trance,8
+Q1049625,musical improvisation,8
+Q1078010,martial industrial,8
+Q31930766,symphonic power metal,8
+Q2549052,ethnic electronica,8
+Q1328560,trallpunk,8
 Q3053954,new flamenco,7
-Q1326777,electroacoustic music,7
+Q12701217,pop yeh-yeh,7
+Q2280273,mod revival,7
 Q4020968,world fusion,7
-Q3868787,muziki wa dansi,7
-Q3191747,cadence rampa,7
-Q16011695,vocal surf,7
-Q132531675,feminist music,7
-Q464129,mariachi,7
-Q1781796,sega,7
-Q8560269,dirty south,7
-Q56342556,classical crossover,7
-Q29252685,trikiti,7
-Q2090950,Byzantine music,7
-Q106576145,neoclassical music,7
-Q773880,bitpop,7
-Q831354,Smooth jazz,7
-Q106581777,jam band music,7
+Q1326777,electroacoustic music,7
 Q2517263,Midwest hip-hop,7
-Q7800608,desert blues,7
+Q11660484,denpa song,7
+Q56342556,classical crossover,7
+Q212024,spirituals,7
+Q2090950,Byzantine music,7
+Q773880,bitpop,7
+Q3191747,cadence rampa,7
+Q47005557,Breton rock,7
+Q3753864,Xixón sound,7
+Q1100989,glitch,7
+Q106581777,jam band music,7
+Q464129,mariachi,7
+Q106576145,neoclassical music,7
+Q371745,timba,7
+Q16011695,vocal surf,7
+Q2631396,Brazilian rock,7
 Q16250593,pub rock,7
-Q369820,music of Africa,7
+Q890575,punk metal,7
+Q132531675,feminist music,7
+Q3163340,Afro-Cuban jazz,7
 Q11325235,neo-acoustic,7
 Q65089257,punk rap,7
-Q3486097,ska rock,7
-Q890575,punk metal,7
-Q209498,2 tone,7
-Q584752,pornogrind,7
-Q2631396,Brazilian rock,7
-Q873478,enka,7
-Q11787379,ritual music,7
 Q6950428,música criolla,7
+Q209498,2 tone,7
 Q15974722,Breton song,7
-Q2715283,Gypsy punk,6
-Q65937817,crossover prog,6
-Q1928583,Northern soul,6
-Q354204,Argentine folklore,6
-Q1143752,cumbia villera,6
-Q8011523,contemporary music,6
-Q5201841,Czech tramping music,6
-Q194492,gamelan,6
-Q956883,Carnatic music,6
-Q29480448,industrial techno,6
-Q786815,turbo-folk,6
-Q3813661,Catalan rock,6
-Q6749708,Manila sound,6
-Q1428470,klapa,6
-Q106926276,indigenous American folk music,6
-Q2614533,British folk rock,6
-Q98528482,abstract hip-hop,6
-Q1754592,nerdcore,6
+Q11787379,ritual music,7
+Q831354,Smooth jazz,7
+Q3486097,ska rock,7
+Q13646229,gothic music,7
+Q8560269,dirty south,7
+Q584752,pornogrind,7
+Q369820,music of Africa,7
+Q29252685,trikiti,7
+Q873478,enka,7
+Q3868787,muziki wa dansi,7
+Q1781796,sega,7
+Q7800608,desert blues,7
 Q4069711,Armenian folk music,6
-Q4155078,dark electro,6
-Q18342587,tropical house,6
-Q97216998,Java-pop,6
-Q1228230,Dutch house,6
-Q733804,hands up,6
-Q469343,UK rap,6
-Q752785,calypso,6
-Q3388814,Pinoy rock,6
-Q597240,New Romantic,6
-Q3908370,pop metal,6
-Q40461,bachata,6
-Q896513,Hamburger Schule,6
-Q98528277,Celtic folk music,6
-Q2702280,Italo house,6
-Q497957,nueva trova,6
 Q1362878,Neue Deutsche Todeskunst,6
-Q15733887,vaporwave,6
-Q227036,zouglou,6
-Q2004156,industrial hip-hop,6
-Q526463,Detroit techno,6
-Q1574985,Vallenato,6
-Q22908553,future bass,6
-Q727803,Canterbury scene,6
-Q757143,chill-out music,6
-Q16096634,kawaii metal,6
-Q1683348,Japanese hip-hop,6
-Q105513,bebop,6
-Q106621114,dark folk,6
-Q111540535,cantautor music,6
-Q117348352,traditional québécois music,6
-Q1067089,throat singing,6
+Q1143752,cumbia villera,6
 Q101440473,sierreña,6
-Q455686,samba reggae,6
-Q649823,country blues,6
-Q76825003,"folk, world and country",6
-Q3785732,Russian hip-hop,6
+Q3813661,Catalan rock,6
+Q786815,turbo-folk,6
+Q2702280,Italo house,6
+Q117348352,traditional québécois music,6
+Q105513,bebop,6
 Q928825,garage house,6
-Q6826021,Mexican cumbia,5
-Q118123362,triki-pop,5
-Q48971892,dungeon synth,5
-Q183016,ska jazz,5
-Q3231749,post-Britpop,5
-Q12876995,Greek folk music,5
-Q8812109,church music,5
-Q28444186,avant-punk,5
-Q1077172,instrumental hip-hop,5
-Q21684437,rumba,5
-Q529742,boom bap,5
-Q388207,African-American music,5
-Q749475,psybient,5
-Q2249365,kawina,5
-Q2448147,trailer music,5
-Q1632601,nuevo tango,5
-Q5146983,collegiate a cappella,5
+Q1428470,klapa,6
+Q455686,samba reggae,6
+Q526463,Detroit techno,6
+Q1067089,throat singing,6
+Q1928583,Northern soul,6
+Q1683348,Japanese hip-hop,6
+Q15733887,vaporwave,6
+Q956883,Carnatic music,6
+Q649823,country blues,6
+Q8011523,contemporary music,6
+Q3388814,Pinoy rock,6
+Q727803,Canterbury scene,6
+Q40461,bachata,6
+Q1754592,nerdcore,6
+Q76825003,"folk, world and country",6
+Q98528277,Celtic folk music,6
+Q106926276,indigenous American folk music,6
+Q111540535,cantautor music,6
+Q4155078,dark electro,6
+Q757143,chill-out music,6
+Q497957,nueva trova,6
+Q733804,hands up,6
+Q6749708,Manila sound,6
+Q65937817,crossover prog,6
+Q227036,zouglou,6
+Q469343,UK rap,6
+Q2614533,British folk rock,6
+Q5201841,Czech tramping music,6
+Q98528482,abstract hip-hop,6
+Q354204,Argentine folklore,6
+Q1574985,Vallenato,6
+Q752785,calypso,6
+Q16096634,kawaii metal,6
+Q2004156,industrial hip-hop,6
+Q597240,New Romantic,6
+Q896513,Hamburger Schule,6
+Q194492,gamelan,6
+Q1228230,Dutch house,6
+Q3908370,pop metal,6
+Q29480448,industrial techno,6
+Q2715283,Gypsy punk,6
+Q106621114,dark folk,6
+Q3785732,Russian hip-hop,6
+Q22908553,future bass,6
+Q97216998,Java-pop,6
+Q18342587,tropical house,6
 Q7050752,Nordic folk music,5
-Q108250543,music of Mediterranea,5
-Q2344635,Merseybeat,5
-Q6188299,Jesus music,5
-Q2456210,true metal,5
-Q3211884,music of the Balkans,5
-Q2626684,chillwave,5
-Q1930107,kroncong,5
-Q4400498,Russian folk music,5
-Q1952679,mundart music,5
-Q805130,ballade,5
-Q7248857,progressive music,5
-Q835131,Goa trance,5
-Q7654953,Swedish folk music,5
-Q624044,Arabic music,5
-Q1373485,underground music,5
-Q3328732,music of Occitania,5
-Q16527140,adult-oriented rock,5
-Q28328303,raw black metal,5
 Q1534821,golden age hip-hop,5
-Q220528,Rebetiko,5
-Q12362064,emo rap,5
-Q12307741,dansktop,5
-Q6496560,Latin ballad,5
-Q1027999,vocal trance,5
+Q1373485,underground music,5
+Q1162954,French pop,5
 Q47781397,EDM trap music,5
-Q1798870,pagan folk,5
-Q2047814,Palingsound,5
-Q1759189,mangue bit,5
+Q805130,ballade,5
+Q118123362,triki-pop,5
+Q183016,ska jazz,5
+Q5146983,collegiate a cappella,5
+Q12307741,dansktop,5
+Q2344635,Merseybeat,5
+Q16527140,adult-oriented rock,5
+Q624044,Arabic music,5
 Q30587784,progressive metalcore,5
-Q837389,Latin jazz,5
+Q1151259,nueva canción,5
+Q1930107,kroncong,5
+Q388100,Afro house,5
+Q1632601,nuevo tango,5
+Q1307555,punk'n'roll,5
+Q1952679,mundart music,5
+Q529742,boom bap,5
+Q3328732,music of Occitania,5
+Q1077172,instrumental hip-hop,5
+Q388207,African-American music,5
+Q48971892,dungeon synth,5
+Q278409,Hokkien pop,5
+Q28444186,avant-punk,5
+Q7654953,Swedish folk music,5
 Q4942839,boogie,5
 Q820049,gabber,5
-Q556959,mbalax,5
-Q4789437,Argentine cumbia,5
-Q388100,Afro house,5
-Q1307555,punk'n'roll,5
-Q1338153,20th-century classical music,5
-Q1162954,French pop,5
-Q1151259,nueva canción,5
-Q278409,Hokkien pop,5
+Q4400498,Russian folk music,5
 Q5928480,contemporary jazz,5
-Q2097664,Indorock,4
-Q899215,music of Brazil,4
-Q5160756,congregational singing,4
-Q9149801,ambient techno,4
-Q1071834,music of Hawaii,4
-Q129755289,melodic heavy metal,4
-Q963061,highlife,4
-Q1634085,tecno brega,4
-Q7692752,tecnocumbia,4
-Q107140632,powwow music,4
-Q1585015,hard house,4
-Q5110298,Christian alternative rock,4
-Q2657409,skacore,4
-Q3328599,Basque music,4
-Q6432024,Korean rock,4
-Q3422697,red dirt,4
-Q1143741,chicha,4
-Q2036172,pizzica,4
-Q2416307,outsider music,4
-Q65937946,modern classical music,4
-Q2369761,salon music,4
-Q1515757,jump blues,4
-Q12882577,pagan black metal,4
-Q1090048,chutney music,4
-Q920883,music of Colombia,4
-Q2404568,freak folk,4
+Q220528,Rebetiko,5
+Q21684437,rumba,5
+Q4789437,Argentine cumbia,5
+Q835131,Goa trance,5
+Q6496560,Latin ballad,5
+Q12876995,Greek folk music,5
+Q1338153,20th-century classical music,5
+Q2626684,chillwave,5
+Q3231749,post-Britpop,5
+Q12362064,emo rap,5
+Q837389,Latin jazz,5
+Q1798870,pagan folk,5
+Q2047814,Palingsound,5
+Q556959,mbalax,5
+Q2448147,trailer music,5
+Q3211884,music of the Balkans,5
+Q6826021,Mexican cumbia,5
+Q108250543,music of Mediterranea,5
+Q749475,psybient,5
+Q7248857,progressive music,5
+Q2249365,kawina,5
+Q28328303,raw black metal,5
+Q1027999,vocal trance,5
+Q2456210,true metal,5
+Q1759189,mangue bit,5
+Q6188299,Jesus music,5
+Q8812109,church music,5
 Q10367221,samba-funk,4
-Q1371364,ethno jazz,4
-Q2101613,Politrock,4
-Q814402,biguine,4
-Q2608506,space disco,4
-Q6665252,Phleng phuea chiwit,4
-Q3135794,Quebec hip hop,4
-Q783097,college rock,4
-Q869210,corrido,4
-Q1546028,Philadelphia soul,4
-Q1636684,yé-yé,4
-Q512410,qawwali,4
-Q5794676,Chilean cumbia,4
-Q1433547,jazzcore,4
-Q132531661,leftist music,4
-Q3487358,death industrial,4
-Q2002705,nouvelle chanson,4
-Q11894761,Finnish folk music,4
-Q640097,electric blues,4
 Q1051575,humppa,4
-Q98528291,heavy psych,4
-Q17723,Classical period,4
-Q56377253,technical thrash metal,4
-Q936573,crunk,4
-Q141459,conscious hip-hop,4
+Q65154273,Siberian punk,4
+Q512410,qawwali,4
+Q2657409,skacore,4
+Q2002705,nouvelle chanson,4
+Q324617,tarantella,4
+Q2097664,Indorock,4
+Q3437873,Peruvian rock,4
+Q890887,Eurotrance,4
+Q3487358,death industrial,4
 Q3048168,mákina,4
+Q65937946,modern classical music,4
+Q2337447,meditation music,4
+Q1433547,jazzcore,4
+Q4736507,alternative electronic,4
+Q1325966,electro wave,4
+Q2715398,plena,4
 Q6865341,minimal wave,4
+Q107140632,powwow music,4
+Q839029,raï,4
+Q1619932,hiplife,4
+Q1143741,chicha,4
 Q24910123,Jewish rock,4
+Q2404568,freak folk,4
+Q5110298,Christian alternative rock,4
+Q9149801,ambient techno,4
+Q1615483,soul jazz,4
+Q5794676,Chilean cumbia,4
+Q2101613,Politrock,4
+Q2736181,punk jazz,4
+Q2369761,salon music,4
+Q3328797,musique actuelle,4
+Q115178919,symphonic death metal,4
+Q3422697,red dirt,4
+Q2378916,music of Corsica,4
+Q123923529,bubblegrunge,4
+Q129755289,melodic heavy metal,4
+Q7692752,tecnocumbia,4
+Q1371364,ethno jazz,4
+Q2426383,crunkcore,4
+Q1585015,hard house,4
+Q1744327,sound art,4
+Q489913,bolero,4
+Q3135794,Quebec hip hop,4
+Q899215,music of Brazil,4
+Q1482325,Islamic music,4
+Q1538765,gothabilly,4
+Q55641646,Russ music,4
+Q17723,Classical period,4
+Q963061,highlife,4
+Q31837446,dark jazz,4
 Q98528178,chamber folk,4
 Q1262697,mento,4
-Q1482325,Islamic music,4
-Q1325966,electro wave,4
-Q1323698,Indian classical music,4
+Q4049849,spacesynth,4
+Q101112088,kaskawi,4
+Q130744704,progressive power metal,4
+Q56377253,technical thrash metal,4
+Q783097,college rock,4
+Q3328599,Basque music,4
+Q98528291,heavy psych,4
+Q141459,conscious hip-hop,4
+Q11894761,Finnish folk music,4
+Q1784032,viking rock,4
+Q1636684,yé-yé,4
+Q155119,cuarteto,4
+Q12882577,pagan black metal,4
+Q341395,acid techno,4
+Q1515757,jump blues,4
+Q1071834,music of Hawaii,4
+Q1546028,Philadelphia soul,4
+Q640097,electric blues,4
+Q5160756,congregational singing,4
+Q54329757,Latin trap,4
+Q3389124,pirate metal,4
 Q16679594,Slavic folk music,4
 Q669738,yass,4
-Q839029,raï,4
-Q130744704,progressive power metal,4
-Q2715398,plena,4
-Q2736181,punk jazz,4
-Q4049849,spacesynth,4
-Q3389124,pirate metal,4
-Q1455932,frevo,4
-Q31837446,dark jazz,4
-Q3437873,Peruvian rock,4
-Q55641646,Russ music,4
-Q469630,Canadian hip-hop,4
-Q3008180,cybergrind,4
-Q4736507,alternative electronic,4
-Q890887,Eurotrance,4
 Q967654,neurofunk,4
-Q12408914,contemporary Jewish religious music,4
-Q1127539,Delta blues,4
-Q2337447,meditation music,4
-Q324617,tarantella,4
-Q341395,acid techno,4
-Q1784032,viking rock,4
-Q115178919,symphonic death metal,4
-Q2087267,laïko,4
-Q155119,cuarteto,4
-Q1744327,sound art,4
-Q101112088,kaskawi,4
-Q65154273,Siberian punk,4
-Q2426383,crunkcore,4
-Q54329757,Latin trap,4
+Q2608506,space disco,4
+Q1323698,Indian classical music,4
 Q106957068,bygderock,4
-Q2378916,music of Corsica,4
-Q1615483,soul jazz,4
-Q1538765,gothabilly,4
-Q3328797,musique actuelle,4
-Q1619932,hiplife,4
-Q489913,bolero,4
-Q123923529,bubblegrunge,4
-Q1071873,Chicago blues,3
-Q16610474,Contemporary Catholic liturgical music,3
-Q2961759,Moroccan chaabi,3
-Q25407651,tourist song,3
-Q106594784,sass,3
-Q213608,beatboxing,3
-Q3437823,Chilean rock,3
-Q21092,moombahton,3
-Q7205507,plunderphonics,3
-Q98909757,norteño-banda,3
-Q6453929,könsrock,3
-Q2111784,production music,3
-Q3328727,music of Mongolia,3
-Q1048469,music of Scotland,3
-Q110185782,melodic techno,3
-Q105657448,Belarusian folk music,3
-Q1786724,marrabenta,3
-Q3304143,Thai rock,3
-Q1751409,2-step garage,3
-Q1810546,Turkish folk music,3
-Q20715191,Afro-Cuban music,3
-Q3437802,American rock,3
-Q7405759,salsa dura,3
-Q10296747,mood kayō,3
-Q105334717,progressive soul,3
-Q1195630,canzone napoletana,3
-Q3008122,cyber metal,3
-Q11324951,new music,3
-Q1538805,gothic punk,3
-Q65937906,leftfield electronic,3
-Q39046859,harsh noise wall,3
-Q10334896,music of Galicia,3
-Q107572242,progressive rap,3
-Q2420402,free rock,3
-Q29025044,psychedelic funk,3
-Q16942070,Mexican folk music,3
-Q4400803,Russian post-chanson,3
-Q544440,Indian film music,3
-Q1136765,uplifting trance,3
-Q1262781,dub techno,3
-Q107033667,Halloween music,3
-Q39052604,nu metalcore,3
-Q7385628,Ryūkōka,3
-Q110592421,Christian pop,3
-Q12671486,ritual ambient,3
-Q20820817,Frisian pop,3
-Q3083000,kan ha diskan,3
-Q1755959,Sufi music,3
-Q6024704,indigenous music,3
-Q3328694,Kabyle music,3
-Q108665706,corridos tumbados,3
-Q28146601,political music,3
-Q207591,Romantic music,3
-Q805044,Balkan brass,3
-Q65943557,old school death metal,3
-Q111973339,American roots music,3
-Q4400497,Russian folk song,3
-Q17053024,folkhop,3
-Q5110317,Christian country music,3
-Q1036183,carimbó,3
-Q15697534,drill,3
-Q9050551,noisegrind,3
-Q106368518,pandeireteiras,3
-Q132598288,anti-racist music,3
-Q108177317,Māori showband,3
-Q3090876,funaná,3
-Q1544863,music of Cuba,3
-Q2639210,Nederbeat,3
-Q918727,revue,3
-Q1567032,Southern soul,3
-Q1771297,English folk music,3
-Q25116,Argentine tango,3
-Q185652,ragtime,3
-Q3084222,hard techno,3
-Q4690168,Afro-Caribbean music,3
-Q1339027,dream trance,3
-Q9048261,urbano music,3
-Q1884689,Indo pop,3
-Q932477,music of Hungary,3
-Q48445,mashup,3
-Q98528166,Latin electronic music,3
-Q903735,breakcore,3
-Q114133626,garage pop,3
-Q3108920,glitch hop,3
-Q1585075,breakbeat hardcore,3
-Q3683985,combat folk,3
-Q2579987,music of Portugal,3
-Q113082312,demenzial rock,3
-Q3328681,popular folk music,3
-Q602498,nazi punk,3
-Q109469638,indie dance,3
-Q5510816,future garage,3
-Q1425111,western music,3
-Q1092837,post-bop,3
-Q13634037,samba-jazz,3
-Q12702016,rock kapak,3
-Q1064810,Chinese rock,3
-Q1060475,chamamé,3
-Q1123037,nursery rhyme,3
-Q79784514,progressive electronic music,3
-Q109833526,Scandinavian pop,3
-Q2956224,Inuit throat singing,3
-Q10466674,dansbandspop,3
-Q724473,chorale,3
-Q48834745,orchestral pop,3
-Q107486984,electro-folk,3
-Q1750049,modern jazz,3
-Q2566660,British rock,3
-Q935586,liturgical music,3
-Q108979517,traditional doom metal,3
-Q4971442,British rhythm and blues,3
-Q19815286,Japanese hardcore,3
-Q1414130,filk,3
-Q16241990,Chicano rock,3
-Q1091450,aggrotech,3
-Q1995980,new rave,3
-Q3541635,tsugaru-jamisen,3
-Q880270,traditional black gospel,3
-Q447962,swing revival,3
-Q675553,swamp rock,3
-Q2342263,space music,3
-Q31187915,modern metal,3
-Q1325944,electro,3
-Q6658771,livetronica,3
-Q31197689,gothic death-doom,3
-Q5612172,grupera,3
-Q64441232,ethnic rock,3
-Q546206,Miami bass,3
-Q30912564,Taiwanese mandopop,3
-Q674684,sevdalinka,3
-Q25099691,neon pop-punk,3
-Q105697907,swingbeat,3
-Q1730388,Western swing,3
-Q85741139,Amapiano,3
-Q3437861,Mexican rock music,3
-Q2465085,ambient house,3
-Q1046920,Dōjin music,3
-Q10397381,77 punk,3
-Q646528,Yugoslav new wave,3
-Q3337494,Ndombolo,3
-Q2924151,Bravú,3
-Q25419286,Gaúcho rock,3
-Q11700065,pop soul,3
-Q4797,conjunto,3
-Q918542,British blues,3
-Q3328603,music of Bolivia,3
-Q21662779,Neue Musik,3
-Q302401,punkabilly,3
-Q11822344,Polish folk music,3
-Q1622261,Latin metal,3
-Q7770873,bal-musette,3
-Q89423271,noisecore,3
+Q869210,corrido,4
+Q132531661,leftist music,4
+Q1455932,frevo,4
+Q6665252,Phleng phuea chiwit,4
+Q3008180,cybergrind,4
+Q2036172,pizzica,4
+Q1127539,Delta blues,4
+Q1634085,tecno brega,4
+Q6432024,Korean rock,4
+Q936573,crunk,4
+Q814402,biguine,4
+Q920883,music of Colombia,4
+Q12408914,contemporary Jewish religious music,4
+Q1090048,chutney music,4
+Q2416307,outsider music,4
+Q2087267,laïko,4
+Q469630,Canadian hip-hop,4
 Q716060,music of Korea,3
-Q7832297,traditional Japanese music,3
-Q661651,show tune,3
-Q1370345,musical theater,3
-Q65937845,funk soul,3
-Q1773654,country folk,3
-Q901610,min'yō,3
+Q108665706,corridos tumbados,3
+Q932477,music of Hungary,3
 Q361164,Wienerlied,3
+Q30912564,Taiwanese mandopop,3
+Q2465085,ambient house,3
+Q21092,moombahton,3
+Q1538805,gothic punk,3
+Q109833526,Scandinavian pop,3
+Q1425111,western music,3
+Q675553,swamp rock,3
+Q16610474,Contemporary Catholic liturgical music,3
+Q29025044,psychedelic funk,3
+Q20715191,Afro-Cuban music,3
+Q110592421,Christian pop,3
+Q79784514,progressive electronic music,3
+Q28146601,political music,3
+Q3108920,glitch hop,3
+Q302401,punkabilly,3
+Q4400497,Russian folk song,3
+Q4971442,British rhythm and blues,3
+Q2566660,British rock,3
+Q5612172,grupera,3
+Q1370345,musical theater,3
+Q1048469,music of Scotland,3
+Q1414130,filk,3
+Q11700065,pop soul,3
+Q2111784,production music,3
+Q724473,chorale,3
+Q918727,revue,3
+Q109469638,indie dance,3
+Q106368518,pandeireteiras,3
+Q19815286,Japanese hardcore,3
+Q2420402,free rock,3
+Q31187915,modern metal,3
 Q114443489,partyschlager,3
-Q1465419,music of Greece,2
-Q1109947,ragga hip hop,2
-Q2038317,new prog,2
-Q5618068,gumbé,2
-Q16056349,Indian rock,2
-Q9734,symphony,2
-Q5957561,cachaca,2
-Q2961766,Algerian chaabi,2
-Q7560584,son huasteco,2
-Q362515,electrotango,2
-Q16993565,Afro-Peruvian music,2
-Q10316114,lambadão cuiabano,2
-Q110593015,tribute music,2
-Q104842028,satirical music,2
-Q90730712,neo-classic music,2
-Q1165358,danzón,2
-Q11890008,ramopunk,2
-Q3328743,music of the Philippines,2
-Q599510,romance,2
-Q2707688,plainsong,2
-Q3924271,proto doom,2
-Q254890,nova cançó,2
-Q6168369,Afro-jazz,2
-Q1804789,wave,2
-Q48855105,Iê-iê-iê,2
-Q3328590,French baroque music,2
-Q1368139,Esperanto music,2
-Q101417642,Catholic music,2
-Q513357,coupé-décalé,2
-Q59351462,DPRK-pop,2
-Q1236268,music of Croatia,2
-Q856713,Christian hymn,2
-Q492643,trad jazz,2
-Q116148184,crack rock steady,2
-Q3889661,marchinha,2
-Q4088026,blatnaya pesnya,2
-Q949369,funky house,2
-Q63229806,cowboy pop,2
-Q10846275,Akiba-pop,2
-Q131597985,AI-generated music,2
-Q389631,jumpstyle,2
-Q623904,Andalusi classical music,2
-Q1147752,incidental music,2
-Q1191544,kuduro,2
-Q5662534,albazo,2
-Q96740854,bass music,2
-Q1182371,deep funk,2
-Q5967604,urban contemporary gospel,2
-Q7410145,sampledelia,2
-Q1752801,Rock in Opposition,2
-Q26234147,Afro trap,2
-Q105763581,experimental electronic music,2
-Q107290934,hookah rap,2
-Q97278139,brega funk,2
-Q1914924,mbaqanga,2
-Q1982973,new wave of new wave,2
-Q9253748,emo violence,2
-Q3121396,Basque radical rock,2
-Q1736883,kwela,2
-Q109301488,Streichmusik,2
-Q113436747,yoikrock,2
-Q3535998,Indian pop,2
-Q13060093,Sufi rock,2
-Q9302696,mafioso rap,2
-Q5128243,classic soul,2
-Q64055364,ethnic pop,2
-Q115482626,sonidero,2
-Q28102012,disco-pop,2
-Q1552806,guaracha,2
-Q107740285,cumbia,2
-Q17513988,Canadian folk music,2
-Q3328756,music of Quebec,2
-Q124099582,psychedelic black metal,2
-Q2706919,country rap,2
-Q774475,cantu a tenore,2
-Q1071244,punk revival,2
-Q5643186,cumbia amazónica,2
-Q2271589,Sephardic music,2
-Q7122786,Pacific reggae,2
-Q107565104,original Pilipino music,2
-Q1702909,raga rock,2
-Q106642137,black ambient,2
-Q1061165,champeta,2
-Q107589110,Karelian folk music,2
-Q4825029,Australian indie rock,2
-Q1335045,embolada,2
-Q752329,passacaglia,2
-Q98528290,garage rock revival,2
-Q11821889,polka,2
-Q21000514,rawstyle,2
-Q6942263,music of Sardinia,2
-Q4975996,brown-eyed soul,2
-Q2497323,suomisaundi,2
-Q97265899,lofi hip-hop,2
-Q1191923,depro-punk,2
-Q98528299,Liedermacher,2
-Q1756101,nu skool breaks,2
-Q2354912,street music,2
-Q2659045,oriental metal,2
-Q7295057,rasin,2
-Q823560,musique concrète,2
-Q12499696,Malay music,2
-Q4875789,beach music,2
-Q327547,cool jazz,2
-Q106594706,cinematic classical,2
-Q1716019,Jewish music,2
-Q61340552,stage and screen,2
-Q105637114,deep funk revival,2
-Q108297209,canzone d'autore,2
-Q846784,music of Sweden,2
-Q4499034,Chabad niggunim,2
-Q2607836,freakbeat,2
-Q846833,crossover jazz,2
-Q530750,Berlin School of electronic music,2
-Q10283583,forró pé de serra,2
-Q5464464,folk jazz,2
-Q1530455,vocal jazz,2
-Q2406633,broken beat,2
-Q3709211,dirty rap,2
-Q7196456,Pinoy hip hop,2
-Q10312897,Japanese metal,2
-Q4631020,21st-century classical music,2
-Q773084,Norwegian hip hop,2
-Q1673922,isicathamiya,2
-Q3437832,Spanish rock,2
-Q9067503,reggae punk,2
-Q1597549,kizomba,2
-Q90568328,phonk,2
-Q124357128,gabberpop,2
-Q193217,madrigal,2
-Q20102359,Catalan traditional folk music,2
-Q503354,Christmas carol,2
-Q106527826,Sekete,2
-Q1277532,early reggae,2
-Q257533,music of Japan,2
-Q16572889,liscio,2
-Q3855303,beat mass,2
-Q7624424,stronda,2
-Q6036427,Andean music of Peru,2
-Q7409412,Sami music,2
-Q6040713,neofolklore,2
-Q6296743,jovem guarda,2
-Q3990466,third wave ska,2
-Q1048249,Italian folk music,2
-Q8197165,ambient black metal,2
-Q10343541,pagode romântico,2
-Q916387,exotica,2
-Q2404891,music of Acadia,2
-Q535328,gaita zuliana,2
-Q24189851,epic music,2
-Q25456501,pop melayu,2
-Q766240,cueca,2
-Q99470350,Campirano,2
-Q2420447,trova,2
-Q108297222,cubaton,2
-Q1524033,free tekno,2
-Q7198347,Inuit music,2
-Q3644819,cello rock,2
-Q106590078,Israeli folk music,2
-Q2307786,huayno,2
-Q124791567,Drum and bass electronic rock,2
-Q28401124,yacht rock,2
-Q1474372,mugham,2
-Q22948243,Arabic rock,2
-Q5747258,canción melódica,2
-Q31174954,koplo,2
-Q1413061,tropicália,2
-Q27345019,bass house,2
-Q109148913,organic house,2
-Q107229142,Turkish Black Sea Region folk music,2
-Q6158987,Japanese reggae,2
-Q627181,industrial folk music,2
-Q5690120,trance metal,2
-Q2478478,dubtronica,2
-Q108757333,Tuvan throat singing,2
-Q181010,hard bop,2
-Q11346620,loud rock,2
-Q1658757,illbient,2
-Q870340,chalga,2
-Q12200830,progressive electronic dance music,2
-Q2956164,Quebec chanson,2
-Q860196,bikutsi,2
-Q98528171,minimal synth,2
-Q9079141,soul rock,2
-Q2464314,brega,2
-Q108297184,avant-folk,2
-Q6456152,Lao pop,2
-Q768134,mestizo,2
-Q3328601,Berber music,2
+Q6024704,indigenous music,3
+Q1036183,carimbó,3
+Q3541635,tsugaru-jamisen,3
+Q1995980,new rave,3
+Q107033667,Halloween music,3
+Q1064810,Chinese rock,3
+Q918542,British blues,3
+Q447962,swing revival,3
+Q9050551,noisegrind,3
+Q602498,nazi punk,3
+Q1773654,country folk,3
+Q7385628,Ryūkōka,3
+Q935586,liturgical music,3
+Q1810546,Turkish folk music,3
+Q98909757,norteño-banda,3
+Q16241990,Chicano rock,3
+Q9048261,urbano music,3
+Q3328681,popular folk music,3
+Q2579987,music of Portugal,3
+Q10397381,77 punk,3
+Q1755959,Sufi music,3
+Q880270,traditional black gospel,3
+Q110185782,melodic techno,3
+Q1262781,dub techno,3
+Q805044,Balkan brass,3
+Q1325944,electro,3
+Q107572242,progressive rap,3
+Q25407651,tourist song,3
+Q7832297,traditional Japanese music,3
+Q31197689,gothic death-doom,3
+Q3328603,music of Bolivia,3
+Q7205507,plunderphonics,3
+Q2342263,space music,3
+Q1123037,nursery rhyme,3
+Q17053024,folkhop,3
+Q1786724,marrabenta,3
+Q1091450,aggrotech,3
+Q105657448,Belarusian folk music,3
+Q4400803,Russian post-chanson,3
+Q1071873,Chicago blues,3
+Q1544863,music of Cuba,3
+Q7770873,bal-musette,3
+Q2924151,Bravú,3
+Q16942070,Mexican folk music,3
+Q213608,beatboxing,3
+Q185652,ragtime,3
+Q3008122,cyber metal,3
+Q1751409,2-step garage,3
+Q11324951,new music,3
+Q7405759,salsa dura,3
+Q3328727,music of Mongolia,3
+Q105334717,progressive soul,3
+Q85741139,Amapiano,3
+Q3337494,Ndombolo,3
+Q3083000,kan ha diskan,3
+Q1884689,Indo pop,3
+Q661651,show tune,3
+Q25116,Argentine tango,3
+Q2639210,Nederbeat,3
+Q13634037,samba-jazz,3
+Q3683985,combat folk,3
+Q1060475,chamamé,3
+Q15697534,drill,3
+Q111973339,American roots music,3
+Q5110317,Christian country music,3
+Q20820817,Frisian pop,3
+Q106594784,sass,3
+Q1092837,post-bop,3
+Q1730388,Western swing,3
+Q132598288,anti-racist music,3
+Q113082312,demenzial rock,3
+Q6453929,könsrock,3
+Q1046920,Dōjin music,3
+Q3437823,Chilean rock,3
+Q901610,min'yō,3
+Q25099691,neon pop-punk,3
+Q89423271,noisecore,3
+Q674684,sevdalinka,3
+Q65937845,funk soul,3
+Q10334896,music of Galicia,3
+Q48834745,orchestral pop,3
+Q114133626,garage pop,3
+Q12671486,ritual ambient,3
+Q1339027,dream trance,3
+Q105697907,swingbeat,3
+Q2961759,Moroccan chaabi,3
+Q1750049,modern jazz,3
+Q12702016,rock kapak,3
+Q25419286,Gaúcho rock,3
+Q3437861,Mexican rock music,3
+Q544440,Indian film music,3
+Q10296747,mood kayō,3
+Q646528,Yugoslav new wave,3
+Q1771297,English folk music,3
+Q6658771,livetronica,3
+Q1195630,canzone napoletana,3
+Q64441232,ethnic rock,3
+Q10466674,dansbandspop,3
+Q1567032,Southern soul,3
+Q2956224,Inuit throat singing,3
+Q1622261,Latin metal,3
+Q39046859,harsh noise wall,3
+Q39052604,nu metalcore,3
+Q108979517,traditional doom metal,3
+Q48445,mashup,3
+Q5510816,future garage,3
+Q1136765,uplifting trance,3
+Q3437802,American rock,3
+Q3328694,Kabyle music,3
+Q11822344,Polish folk music,3
+Q4797,conjunto,3
+Q3090876,funaná,3
+Q4690168,Afro-Caribbean music,3
+Q3084222,hard techno,3
+Q1585075,breakbeat hardcore,3
+Q108177317,Māori showband,3
+Q21662779,Neue Musik,3
+Q903735,breakcore,3
+Q65943557,old school death metal,3
+Q98528166,Latin electronic music,3
+Q207591,Romantic music,3
+Q107486984,electro-folk,3
+Q3304143,Thai rock,3
+Q65937906,leftfield electronic,3
+Q546206,Miami bass,3
 Q3606268,Afro-rock,2
-Q1779294,space age pop,2
-Q89423571,contra dance music,2
-Q1033912,hard dance,2
-Q6100475,Lazish music,2
-Q4780884,Appalachian music,2
-Q700805,Lâm-im,2
-Q4145692,Russian urban romance,2
-Q117745223,Brazilian funk,2
-Q3437821,Canadian rock,2
-Q18126969,Krishnacore,2
-Q28458027,hardbass,2
-Q65031097,Gengeton,2
-Q20108528,Laietana music,2
-Q30638997,mumble rap,2
-Q1815364,makossa,2
-Q1033073,candombe,2
-Q130572,music of the Soviet Union,2
-Q110592683,Disney music,2
-Q5069525,chamber jazz,2
-Q5332963,eclecticism in music,2
-Q3347093,néo-trad,2
-Q6120148,sanjuanito,2
-Q3752342,frat rock,2
+Q181010,hard bop,2
+Q101417642,Catholic music,2
+Q108297222,cubaton,2
+Q9079141,soul rock,2
+Q503354,Christmas carol,2
+Q7198347,Inuit music,2
+Q2478478,dubtronica,2
+Q6296743,jovem guarda,2
+Q3535998,Indian pop,2
+Q916387,exotica,2
+Q1530455,vocal jazz,2
+Q846784,music of Sweden,2
+Q9302696,mafioso rap,2
+Q124357128,gabberpop,2
+Q3889661,marchinha,2
+Q105763581,experimental electronic music,2
+Q6456152,Lao pop,2
 Q10283584,forró universitário,2
+Q860196,bikutsi,2
+Q389631,jumpstyle,2
+Q2307786,huayno,2
+Q63229806,cowboy pop,2
+Q1277532,early reggae,2
+Q108297209,canzone d'autore,2
+Q1236268,music of Croatia,2
+Q1033073,candombe,2
+Q2404891,music of Acadia,2
+Q106642137,black ambient,2
+Q1702909,raga rock,2
+Q9253748,emo violence,2
+Q1736883,kwela,2
+Q28401124,yacht rock,2
+Q1552806,guaracha,2
+Q90730712,neo-classic music,2
+Q5957561,cachaca,2
+Q28458027,hardbass,2
+Q6040713,neofolklore,2
+Q362515,electrotango,2
+Q1165358,danzón,2
+Q20102359,Catalan traditional folk music,2
+Q870340,chalga,2
+Q124791567,Drum and bass electronic rock,2
+Q130572,music of the Soviet Union,2
+Q3328756,music of Quebec,2
+Q5069525,chamber jazz,2
+Q1413061,tropicália,2
+Q5643186,cumbia amazónica,2
+Q106527826,Sekete,2
+Q2420447,trova,2
+Q28102012,disco-pop,2
+Q1815364,makossa,2
+Q2706919,country rap,2
+Q107290934,hookah rap,2
+Q4631020,21st-century classical music,2
+Q1658757,illbient,2
+Q492643,trad jazz,2
+Q3709211,dirty rap,2
+Q116148184,crack rock steady,2
+Q17513988,Canadian folk music,2
+Q110592683,Disney music,2
+Q5464464,folk jazz,2
+Q1465419,music of Greece,2
+Q5128243,classic soul,2
+Q3121396,Basque radical rock,2
+Q18126969,Krishnacore,2
+Q10316114,lambadão cuiabano,2
+Q48855105,Iê-iê-iê,2
+Q106590078,Israeli folk music,2
+Q1474372,mugham,2
+Q3924271,proto doom,2
+Q752329,passacaglia,2
+Q124099582,psychedelic black metal,2
+Q6100475,Lazish music,2
+Q1191923,depro-punk,2
+Q2707688,plainsong,2
+Q1982973,new wave of new wave,2
+Q4088026,blatnaya pesnya,2
+Q1191544,kuduro,2
+Q846833,crossover jazz,2
+Q823560,musique concrète,2
+Q7409412,Sami music,2
 Q19816,batucada,2
-Q66364245,Ukrainian folk music,2
+Q7196456,Pinoy hip hop,2
+Q1779294,space age pop,2
+Q6168369,Afro-jazz,2
+Q3437821,Canadian rock,2
+Q2406633,broken beat,2
 Q55644985,trap metal,2
-Q108297192,Basque folk music,1
-Q2956156,Occitan chanson,1
-Q11787400,vocal-instrumental music,1
-Q53806314,éntekhno,1
-Q1672398,music of Iran,1
-Q106641536,Afro-funk,1
-Q6942118,music of Hong Kong,1
-Q11955376,Xeremiers,1
-Q907799,Duranguense,1
-Q97181439,arrocha funk,1
-Q1477428,M-Base,1
-Q60462608,biker metal,1
-Q1399695,Chicano rap,1
-Q6153278,tropical rock,1
+Q1804789,wave,2
+Q105637114,deep funk revival,2
+Q1109947,ragga hip hop,2
+Q21000514,rawstyle,2
+Q4875789,beach music,2
+Q3990466,third wave ska,2
+Q7624424,stronda,2
+Q10343541,pagode romântico,2
+Q8197165,ambient black metal,2
+Q1147752,incidental music,2
+Q89423571,contra dance music,2
+Q2607836,freakbeat,2
+Q97278139,brega funk,2
+Q856713,Christian hymn,2
+Q108297184,avant-folk,2
+Q61340552,stage and screen,2
+Q7410145,sampledelia,2
+Q25456501,pop melayu,2
+Q774475,cantu a tenore,2
+Q3644819,cello rock,2
+Q96740854,bass music,2
+Q1071244,punk revival,2
+Q59351462,DPRK-pop,2
+Q11346620,loud rock,2
+Q108757333,Tuvan throat singing,2
+Q2464314,brega,2
+Q6120148,sanjuanito,2
+Q1182371,deep funk,2
+Q106594706,cinematic classical,2
+Q4499034,Chabad niggunim,2
+Q20108528,Laietana music,2
+Q115482626,sonidero,2
+Q10312897,Japanese metal,2
+Q11890008,ramopunk,2
+Q97265899,lofi hip-hop,2
+Q113436747,yoikrock,2
+Q535328,gaita zuliana,2
+Q3328590,French baroque music,2
+Q1048249,Italian folk music,2
+Q6158987,Japanese reggae,2
+Q16993565,Afro-Peruvian music,2
+Q7295057,rasin,2
+Q107565104,original Pilipino music,2
+Q5618068,gumbé,2
+Q1335045,embolada,2
+Q1597549,kizomba,2
+Q5967604,urban contemporary gospel,2
+Q30638997,mumble rap,2
+Q700805,Lâm-im,2
+Q2497323,suomisaundi,2
+Q9734,symphony,2
+Q4145692,Russian urban romance,2
+Q530750,Berlin School of electronic music,2
+Q131597985,AI-generated music,2
+Q10846275,Akiba-pop,2
+Q3328743,music of the Philippines,2
+Q16056349,Indian rock,2
+Q768134,mestizo,2
+Q12499696,Malay music,2
+Q26234147,Afro trap,2
+Q31174954,koplo,2
+Q66364245,Ukrainian folk music,2
+Q90568328,phonk,2
+Q99470350,Campirano,2
+Q773084,Norwegian hip hop,2
+Q117745223,Brazilian funk,2
+Q3437832,Spanish rock,2
+Q7560584,son huasteco,2
+Q16572889,liscio,2
+Q254890,nova cançó,2
+Q599510,romance,2
+Q4825029,Australian indie rock,2
+Q2354912,street music,2
+Q3347093,néo-trad,2
+Q24189851,epic music,2
+Q12200830,progressive electronic dance music,2
+Q3855303,beat mass,2
+Q11821889,polka,2
+Q327547,cool jazz,2
+Q1756101,nu skool breaks,2
+Q7122786,Pacific reggae,2
+Q257533,music of Japan,2
+Q2956164,Quebec chanson,2
+Q1033912,hard dance,2
+Q623904,Andalusi classical music,2
+Q109301488,Streichmusik,2
+Q1673922,isicathamiya,2
+Q5690120,trance metal,2
+Q2961766,Algerian chaabi,2
+Q193217,madrigal,2
+Q949369,funky house,2
+Q513357,coupé-décalé,2
+Q104842028,satirical music,2
+Q3752342,frat rock,2
+Q5662534,albazo,2
+Q98528299,Liedermacher,2
+Q22948243,Arabic rock,2
+Q9067503,reggae punk,2
+Q107229142,Turkish Black Sea Region folk music,2
+Q27345019,bass house,2
+Q1524033,free tekno,2
+Q13060093,Sufi rock,2
+Q98528171,minimal synth,2
+Q766240,cueca,2
+Q65031097,Gengeton,2
+Q1061165,champeta,2
+Q64055364,ethnic pop,2
+Q10283583,forró pé de serra,2
+Q1368139,Esperanto music,2
+Q2659045,oriental metal,2
+Q107740285,cumbia,2
+Q1716019,Jewish music,2
+Q109148913,organic house,2
+Q110593015,tribute music,2
+Q1752801,Rock in Opposition,2
+Q6036427,Andean music of Peru,2
+Q107589110,Karelian folk music,2
+Q4780884,Appalachian music,2
+Q98528290,garage rock revival,2
+Q4975996,brown-eyed soul,2
+Q5747258,canción melódica,2
+Q1914924,mbaqanga,2
+Q5332963,eclecticism in music,2
+Q6942263,music of Sardinia,2
+Q627181,industrial folk music,2
+Q2271589,Sephardic music,2
+Q2038317,new prog,2
+Q3328601,Berber music,2
+Q3408409,čalgija,1
+Q700440,Schrammelmusik,1
+Q2537356,Bay Area thrash metal,1
+Q105627377,progressive jazz,1
+Q500879,reggae en Español,1
+Q1762761,Finnish tango,1
+Q722989,Hungarian folk music,1
 Q65937774,breaks,1
-Q109527761,polkabilly,1
-Q7560585,son jaliscience,1
-Q120715924,asian rock,1
-Q6457912,LGBT music,1
+Q3791697,chopper,1
+Q771291,sean-nós singing,1
+Q1143744,digital cumbia,1
+Q2879826,baila,1
+Q11330425,therapy music,1
+Q60462608,biker metal,1
+Q1470503,semba,1
+Q16024685,Afro-soul,1
+Q5801257,deep trance,1
+Q2385862,progressive psytrance,1
+Q481900,acid trance,1
+Q1744304,sound collage,1
+Q10970468,Taquirari,1
+Q107697234,HexD,1
+Q16625659,space ambient,1
+Q1866223,live electronic music,1
+Q1661924,industrial dance,1
+Q106556293,Portuguese folk music,1
+Q1872505,lovers rock,1
+Q7139757,Parranda,1
+Q106520951,bayou funk,1
+Q964658,outlaw country,1
+Q3437817,Australian rock,1
+Q3092733,Portuguese rock,1
+Q11332204,funkot,1
+Q110592336,contemporary blues,1
+Q65937954,contemporary country,1
+Q1075799,music of Albania,1
+Q181999,minimal electro,1
+Q4841596,baggy,1
+Q18129813,music of Egypt,1
+Q3655722,Italian resistance song,1
+Q33160145,ambient pop,1
+Q502535,morna,1
+Q30902501,tecnorumba,1
+Q108562050,Latvian folk music,1
+Q6799787,mbube,1
+Q4045303,new-school hip-hop,1
+Q135397780,grindviolence,1
+Q6301761,benga music,1
+Q5794671,cumbia andina mexicana,1
+Q65047322,modern pagan music,1
+Q2932658,cadence-lypso,1
+Q25419984,atmospheric death metal,1
+Q1045756,microtonal music,1
+Q106369996,wave,1
+Q134983275,aliencore,1
+Q109382160,plugg music,1
+Q3217069,landó,1
+Q104503881,plena uruguaya,1
+Q3111428,gospel blues,1
+Q2963621,chillstep,1
+Q106877744,Philippine classical music,1
+Q5871848,Latin American fusion,1
+Q56351526,forró,1
+Q116296482,melodic house,1
+Q1206160,Deutschfolk,1
+Q1430045,Florida death metal,1
+Q5654316,harawi,1
+Q11344133,melodic speed metal,1
+Q613874,neoclassical new-age music,1
+Q1109497,Piedmont blues,1
+Q328296,GDR rock,1
+Q106528337,acid,1
+Q7855391,Turkish pop,1
+Q98528204,spiritual jazz,1
+Q1503406,music of the Middle East,1
+Q18170752,canto nuevo,1
+Q3807537,orchestral jazz,1
+Q3974631,boerenrock,1
+Q3278092,guarania,1
+Q112997482,drift phonk,1
+Q10831132,tình khúc 1954-1975,1
+Q10801096,Purple music,1
+Q1269729,Chicago soul,1
+Q1871532,tambu music,1
+Q3116754,grindie,1
+Q3328652,relaxation music,1
+Q2358064,Stubenmusik,1
+Q108297192,Basque folk music,1
+Q11971516,gammeldansmusikk,1
+Q114880130,bass music (EDM),1
+Q96395212,neoperreo,1
+Q502808,xote,1
+Q12716093,kjekkas-rap,1
+Q2235352,carnavalskraker,1
+Q3328768,music of Sri Lanka,1
+Q4448560,surrealist music,1
+Q131421534,Vemodspunk,1
+Q6036568,Argentinian popular music,1
+Q10286515,funk melody,1
+Q18915482,mincecore,1
+Q3572737,Aragonese rock,1
+Q114879326,Rusyn folk music,1
+Q7142141,pasillo,1
+Q4846346,bassline,1
+Q107197766,Tex-Mex,1
+Q3512282,process music,1
+Q97936699,Genjek,1
+Q5466607,footwork,1
+Q118123408,plaza musika,1
+Q10750971,nardcore,1
+Q5393053,filin,1
+Q940462,music hall,1
+Q3591962,Ethio-jazz,1
+Q108297198,black 'n' roll,1
+Q2278063,bomba,1
+Q122474125,egg punk,1
+Q2998920,country soul,1
+Q113493820,French electro,1
+Q94639707,Gascon folk music,1
+Q6942022,Bollywood film music,1
+Q4949812,bounce music,1
 Q5794682,cumbia norteña mexicana,1
 Q2961763,chaabi,1
-Q7690640,Tche music,1
-Q112610153,koa-á,1
-Q1470503,semba,1
-Q16148439,Gaelic music,1
-Q113493820,French electro,1
-Q10801096,Purple music,1
-Q2358064,Stubenmusik,1
-Q10750971,nardcore,1
-Q12339784,Time Lord rock,1
-Q116972319,first wave black metal,1
-Q3791697,chopper,1
-Q98528139,tribal ambient,1
-Q3135790,Algerian hip hop,1
-Q3843655,couplet,1
-Q7363273,Romo,1
-Q90414790,death jazz,1
-Q3293102,Marimbalax,1
-Q131722216,Japanese idol music,1
-Q2891921,batuque,1
-Q108909775,surf revival,1
-Q2932658,cadence-lypso,1
-Q18660751,Manserock,1
-Q105224848,chanson swing,1
-Q107000797,Korean folk music,1
-Q1227093,Bilbainada,1
-Q7541571,Slovak folk music,1
-Q1871532,tambu music,1
-Q10932272,technobanda,1
-Q11344133,melodic speed metal,1
-Q3322869,Palm Desert Scene,1
-Q815536,Belgian hip hop,1
-Q3328768,music of Sri Lanka,1
-Q10367259,sambalanço,1
-Q124312240,Afro fusion,1
+Q907799,Duranguense,1
 Q96647680,bardcore,1
-Q113496771,jazz yoik,1
-Q700440,Schrammelmusik,1
-Q1075799,music of Albania,1
-Q108562050,Latvian folk music,1
-Q11831728,pumping house,1
-Q106877744,Philippine classical music,1
-Q4917174,BisRock,1
-Q2748817,ghetto house,1
-Q1020611,bühnenmusik,1
-Q86729224,dobrado,1
-Q8030395,Wolof music,1
-Q6942216,music of New Zealand,1
-Q1233698,Harmonie,1
-Q110874730,Hungarian national rock,1
-Q16625659,space ambient,1
-Q4159719,Armenian jazz,1
-Q24077837,psydub,1
-Q65204373,lazer,1
-Q98528293,mod,1
-Q114880130,bass music (EDM),1
-Q7915876,variety,1
-Q107814971,Georgian folk music,1
-Q121306892,heavy yoik,1
-Q3394906,music of the Caribbean,1
-Q14493900,Texas country music,1
-Q48297861,Welsh folk music,1
-Q111738966,Dagestani folk music,1
-Q2343030,ritmo kombina,1
-Q106369996,wave,1
-Q771291,sean-nós singing,1
-Q135235711,Internet rap,1
-Q1432934,Paisley Underground,1
-Q11885649,opera metal,1
-Q33160145,ambient pop,1
-Q106522115,swamp pop,1
-Q497674,pungmul,1
-Q1646666,mambo,1
-Q30902501,tecnorumba,1
-Q2936886,cantèra,1
-Q134983275,aliencore,1
+Q1682210,mundart rock,1
 Q1987105,grebo,1
-Q9364028,UK funky,1
-Q1430045,Florida death metal,1
-Q5690818,rock urbano mexicano,1
-Q16530953,Bahoejy,1
-Q108107422,Livonian folk music,1
-Q1866223,live electronic music,1
-Q211418,British Invasion,1
-Q27973183,Schwobarock,1
-Q2138639,Levenslied,1
-Q533946,lambada,1
-Q4400125,runo song,1
-Q106876075,bubbling,1
-Q1521688,ghettotech,1
-Q7405765,salsa romántica,1
-Q114907537,folk-blues,1
-Q65937954,contemporary country,1
-Q1113204,dub poetry,1
-Q16002495,algorave,1
-Q665286,luk thung,1
-Q60985143,chaotic hardcore,1
-Q10831132,tình khúc 1954-1975,1
-Q106544624,eletrobrega,1
-Q3846957,Beiguan,1
-Q65047322,modern pagan music,1
-Q1662181,New Primitivism,1
-Q3587612,electroacoustic improvisation,1
-Q65943851,UK drill,1
-Q5341293,educational music,1
-Q108419648,conjunto andino,1
-Q110272079,Pasillo ecuatoriano,1
-Q121170607,Waama music,1
-Q3410876,punta rock,1
-Q124080511,doomgaze,1
-Q6106812,retro-soul,1
-Q10370216,seresta,1
+Q1026113,cakewalk,1
+Q131195966,Valencian folk music,1
+Q109873537,dark disco,1
+Q111738966,Dagestani folk music,1
 Q1982426,New Orleans jazz,1
-Q2278063,bomba,1
-Q19860267,Kazakh pop,1
-Q25419984,atmospheric death metal,1
-Q7439349,Scrumpy and Western,1
-Q107515261,digicore,1
-Q6783396,maskandi,1
-Q1440196,ambient industrial,1
-Q122474125,egg punk,1
-Q3655722,Italian resistance song,1
-Q107267446,rock andino,1
-Q18915482,mincecore,1
-Q2346484,music of Morocco,1
-Q942955,milonga,1
-Q106520951,bayou funk,1
-Q28517114,Andean music (Colombia),1
-Q12736123,Romanian folk music,1
-Q108865641,straight edge,1
-Q20104443,Catalan popular folk music,1
-Q718540,gagaku,1
-Q107985650,idol kayō,1
-Q4852979,Baltimore club,1
-Q30917612,Eurohouse,1
-Q4993553,ambient trance,1
-Q116296482,melodic house,1
-Q18129813,music of Egypt,1
-Q7684171,Tanzanian hip hop,1
-Q211745,atonality,1
-Q2866725,Balearic beat,1
-Q830634,Minnesang,1
-Q3328738,music of Uzbekistan,1
-Q18379604,Christian electronic dance music,1
-Q4045303,new-school hip-hop,1
-Q107697441,surf punk,1
-Q19832746,nerd punk,1
-Q65936979,alternative punk,1
-Q22949256,aita,1
-Q3217069,landó,1
-Q3868597,music of Uganda,1
-Q65052052,gothic country,1
+Q86729224,dobrado,1
+Q6457912,LGBT music,1
 Q2956178,French folk music,1
-Q1154911,carnavalito,1
-Q11971516,gammeldansmusikk,1
-Q3974631,boerenrock,1
-Q1143744,digital cumbia,1
-Q98528183,free folk,1
-Q7855391,Turkish pop,1
-Q3437817,Australian rock,1
-Q108857328,music of Eastern Europe,1
-Q110592499,vocal pop,1
-Q114879326,Rusyn folk music,1
-Q100151423,brutal prog,1
-Q2863648,arrocha,1
-Q722989,Hungarian folk music,1
-Q1682783,Turkish music style,1
-Q481900,acid trance,1
-Q1348260,Kagura,1
-Q2346991,UK bass,1
-Q5466607,footwork,1
-Q5405653,proletarian rock,1
-Q106085531,black gospel music,1
-Q892958,boogaloo,1
-Q16024685,Afro-soul,1
-Q107022182,television score,1
-Q6585404,Israeli jazz,1
-Q1232283,villancico,1
-Q1353390,background music,1
-Q6036543,litoraleña music,1
-Q5487269,freak metal,1
-Q107697234,HexD,1
-Q208341,pasodoble,1
-Q4752812,ancient Celtic music,1
-Q105636940,leftfield house,1
-Q53677895,Navarese jota,1
-Q623715,aleatoric music,1
-Q2915789,gwo ka,1
-Q8251828,brega pop,1
-Q6010117,Memphis rap,1
-Q23301960,dark pop,1
-Q11308620,synth music,1
-Q3656492,classic Neapolitan song,1
-Q5794674,cumbia boliviana,1
-Q6942315,music of the Valencian Community,1
-Q112628069,neocrust,1
-Q121667432,psychedelic rap,1
-Q1437709,canción,1
-Q2235352,carnavalskraker,1
-Q4501461,Christian ska,1
-Q25345818,hypnagogic pop,1
-Q105627377,progressive jazz,1
-Q1193470,theme music,1
-Q3089524,huapango,1
-Q1564596,taarab,1
-Q13126989,Welsh music,1
-Q2043175,hyphy,1
-Q108110644,vuelie,1
-Q18170752,canto nuevo,1
-Q111535905,cabaret music,1
-Q5794690,cumbia sureña,1
-Q131421534,Vemodspunk,1
-Q3876770,nightcore,1
-Q630689,bongo flava,1
-Q107819512,German folk music,1
-Q5978495,lolicore,1
-Q60973191,darksynth,1
-Q1744304,sound collage,1
-Q11319232,techno kayō,1
-Q56297567,brasspop,1
-Q11938279,Grallers,1
-Q3397325,music of Mexico,1
-Q106528337,acid,1
-Q7397320,Sacred Steel,1
-Q2621049,Afro-punk,1
-Q4947417,Bosnian and Herzegovinian hip hop,1
-Q98528292,atmospheric sludge metal,1
-Q11817196,piosenka aktorska,1
-Q113332645,mumble rock,1
-Q98528195,lăutărească music,1
-Q107033384,holiday music,1
-Q384181,freestyle rap,1
-Q11330425,therapy music,1
-Q107332291,dancefloor drum and bass,1
-Q211025,march,1
-Q5871848,Latin American fusion,1
-Q98528204,spiritual jazz,1
-Q1275972,raggacore,1
-Q2028627,orchestral song,1
-Q15141477,proto-metal,1
-Q940462,music hall,1
-Q106621063,symphonic prog,1
-Q3092733,Portuguese rock,1
-Q6184945,Jersey Shore sound,1
-Q5654316,harawi,1
-Q1426909,flamenco jazz,1
-Q7260406,Swedish punk,1
-Q17000631,Australian folk music,1
-Q2537356,Bay Area thrash metal,1
-Q1585558,music of Tibet,1
-Q11320501,digital rock,1
-Q107539904,estrada music,1
-Q11223087,Persian traditional music,1
-Q106493832,slap house,1
-Q97220894,sacred singing circle,1
-Q329385,schottische,1
-Q3408409,čalgija,1
-Q3512282,process music,1
-Q3512563,modern soul,1
-Q6098469,rajaleña,1
-Q7042753,No-Fi,1
-Q2784269,oriental music,1
-Q2719078,Western music,1
-Q98530850,Tuareg music,1
-Q28371127,cymrucana,1
-Q11325015,new rock,1
-Q613874,neoclassical new-age music,1
-Q7397641,sadcore,1
-Q7067688,nu-funk,1
-Q3572737,Aragonese rock,1
-Q6444335,kundiman,1
-Q781402,piyyut,1
-Q6742070,Malaysian popular music,1
-Q328296,GDR rock,1
-Q822309,cerdd dant,1
-Q107021951,score,1
-Q624221,Arabic hip-hop,1
-Q97936699,Genjek,1
-Q502448,coco,1
-Q4448560,surrealist music,1
-Q1661924,industrial dance,1
-Q4668383,indigenous rock,1
-Q110592336,contemporary blues,1
-Q1452181,murga,1
-Q2102553,Polish hip hop,1
-Q7541786,Slovenian-style polka,1
-Q122034475,gengetone,1
-Q848457,speedcore,1
-Q7134728,Paraguayan polka,1
-Q131286017,tough guy hardcore,1
-Q7005181,new acoustic music,1
-Q6868046,Minneapolis sound,1
-Q4940448,bomba,1
-Q500879,reggae en Español,1
-Q107331898,Croatian folk music,1
-Q8059887,Yu-Mex,1
-Q2258450,Spanish hip-hop,1
-Q3925627,punk funk,1
-Q118123408,plaza musika,1
-Q135397780,grindviolence,1
-Q3278092,guarania,1
-Q1522794,music of Yugoslavia,1
-Q1109497,Piedmont blues,1
-Q1672918,Irish rebel song,1
-Q120484427,dariacore,1
-Q1202208,joropo,1
-Q2165184,drinking song,1
-Q2748579,Čoček,1
-Q106556293,Portuguese folk music,1
-Q107197766,Tex-Mex,1
+Q16002495,algorave,1
+Q691771,overtone singing,1
+Q3032090,Salegy,1
 Q21427887,French progressive rock,1
-Q16152327,Ukrainian pop,1
-Q3116754,grindie,1
-Q4752840,fife and drum corps,1
-Q1931555,microhouse,1
-Q525073,music of Asia,1
-Q104503881,plena uruguaya,1
-Q108297241,flamenco pop,1
-Q17007779,Latin Christian music,1
-Q1335569,techstep,1
-Q17004572,hip hop galsen,1
-Q106654149,Yiddish folksong,1
-Q2178442,paramaribop,1
-Q19678100,nerd music,1
-Q28721502,Finnish grime,1
-Q2464833,Turkish hip-hop,1
-Q577080,P-Funk,1
-Q4950496,bouyon,1
-Q13212139,Venetian popular song,1
-Q114023769,slow-rock,1
+Q2346484,music of Morocco,1
+Q2138639,Levenslied,1
+Q1564596,taarab,1
+Q718540,gagaku,1
+Q114238485,meme techno,1
+Q97220894,sacred singing circle,1
+Q1193470,theme music,1
+Q208341,pasodoble,1
+Q1348260,Kagura,1
+Q384181,freestyle rap,1
+Q21059341,cumbia pop,1
+Q3307225,progressive bluegrass,1
+Q6444335,kundiman,1
+Q1426909,flamenco jazz,1
+Q4736555,alternative reggaeton,1
+Q16530953,Bahoejy,1
+Q18391540,Christian R&B,1
+Q815536,Belgian hip hop,1
+Q4971454,British soul,1
+Q19832746,nerd punk,1
+Q111535905,cabaret music,1
+Q110592499,vocal pop,1
+Q7005181,new acoustic music,1
+Q7260406,Swedish punk,1
+Q105637106,clubjazz,1
+Q65052052,gothic country,1
+Q3868597,music of Uganda,1
+Q106876075,bubbling,1
+Q387916,twist,1
+Q15221176,music of Guadeloupe,1
+Q131286017,tough guy hardcore,1
+Q3925627,punk funk,1
+Q630689,bongo flava,1
+Q108857328,music of Eastern Europe,1
 Q4851628,ballet,1
 Q2302695,tech trance,1
-Q108167943,maracatu nação,1
-Q5334415,Ecuadorian rock,1
-Q840748,Iranian hip hop,1
-Q104733809,folk-polo,1
-Q19672555,nerd-folk,1
-Q12472139,gamelan angklung,1
-Q106654134,zolo,1
-Q1206160,Deutschfolk,1
-Q4841596,baggy,1
-Q108055228,pipe band music,1
-Q3328652,relaxation music,1
-Q6799787,mbube,1
-Q1753071,maracatu,1
-Q105637106,clubjazz,1
-Q181999,minimal electro,1
-Q115248229,I-pop,1
-Q110544183,doomcore,1
-Q98528253,pop reggae,1
-Q2879826,baila,1
-Q106594523,Latin freestyle,1
-Q1518063,Ottoman classical music,1
-Q4846346,bassline,1
-Q17091278,Romanian muzica populara,1
-Q2032053,music of Georgia,1
-Q1143743,cumbia romántica,1
-Q2064873,math metal,1
-Q28196971,erotic-patriotic,1
-Q4736555,alternative reggaeton,1
-Q56244093,gambus,1
-Q7142141,pasillo,1
-Q1989725,nigun,1
-Q1045756,microtonal music,1
-Q6036568,Argentinian popular music,1
-Q106582953,steampunk music,1
-Q2879857,bailecito,1
-Q373982,logobi,1
-Q3029796,disco-funk,1
-Q5393053,filin,1
-Q5794671,cumbia andina mexicana,1
-Q3807537,orchestral jazz,1
-Q3613770,ambient dub,1
-Q17176205,Chicano punk,1
-Q130479301,Christian children's music,1
-Q624081,Arabic pop,1
-Q9051097,Nueva ola,1
-Q106917640,kleinkunst,1
-Q1503406,music of the Middle East,1
-Q107033631,Mongolian hip hop,1
-Q1071961,Chicago house,1
-Q145980,Zamrock,1
-Q1191299,industrial hardcore,1
-Q60199541,emo rock,1
-Q1026113,cakewalk,1
-Q21059341,cumbia pop,1
-Q4216001,Sinawi,1
-Q2509521,Peruvian waltz,1
-Q3487087,Smyrneiko,1
-Q16575969,horror metal,1
-Q7397088,Sacred Harp,1
-Q531426,music of India,1
-Q110020243,Swedish pop,1
-Q1499262,yellow music,1
-Q4971454,British soul,1
-Q28055053,Q-pop,1
-Q6301761,benga music,1
-Q10286515,funk melody,1
-Q3679098,music of Italy,1
-Q1746023,piano quintet,1
-Q1762761,Finnish tango,1
-Q124099577,progressive black metal,1
-Q1682210,mundart rock,1
-Q5801257,deep trance,1
-Q7878542,Ukrainian hip hop,1
-Q91611922,Israeli funk,1
-Q109382160,plugg music,1
-Q963369,vispop,1
-Q3591962,Ethio-jazz,1
-Q5898242,Peruvian hip hop,1
-Q98528238,Mande music,1
-Q130711854,Dikir Barat Singapura,1
-Q420883,LGBT hip hop,1
-Q502808,xote,1
-Q2963621,chillstep,1
-Q5894518,Hong Kong English pop,1
+Q11325015,new rock,1
 Q7016547,Newar music,1
-Q106588693,Chuvash folk music,1
-Q3032090,Salegy,1
-Q96395212,neoperreo,1
-Q5147976,Colombian rock,1
-Q750811,minimal house,1
-Q116764541,science fiction music,1
-Q7513991,Sikuri,1
-Q11325293,neo shibuya-kei,1
-Q131195966,Valencian folk music,1
-Q109382432,drone ambient,1
-Q20492204,music in Catalan language,1
-Q277393,music of China,1
-Q5794688,cumbia santafesina,1
-Q7777494,theatre music,1
-Q2385634,Spanish progressive rock,1
-Q12881722,nisiotika,1
-Q12716093,kjekkas-rap,1
-Q15221176,music of Guadeloupe,1
-Q3111428,gospel blues,1
-Q155858,music of Ukraine,1
-Q10970468,Taquirari,1
-Q7139757,Parranda,1
-Q98528189,Arabic folk music,1
-Q3408028,proto-prog,1
-Q106440193,emo trap,1
-Q11992876,Norwegian new wave,1
-Q6942022,Bollywood film music,1
-Q1234748,retro-prog,1
-Q11332204,funkot,1
-Q18391540,Christian R&B,1
-Q131481683,mall screamo,1
-Q2746831,quiet storm,1
-Q5219868,Danish folk music,1
-Q2000173,Gnawa music,1
-Q4949812,bounce music,1
-Q2998920,country soul,1
-Q56351526,forró,1
-Q3307225,progressive bluegrass,1
-Q2956176,chanson à texte,1
-Q1269729,Chicago soul,1
-Q387916,twist,1
-Q10331354,moda de viola,1
-Q109873537,dark disco,1
-Q30895273,Sovietwave,1
+Q4993553,ambient trance,1
+Q18379604,Christian electronic dance music,1
+Q1071961,Chicago house,1
+Q211745,atonality,1
 Q116984510,tundra blues,1
-Q3106448,zamba,1
-Q3554510,vanera,1
-Q108297198,black 'n' roll,1
-Q25513043,Kazakh folk music,1
-Q65065491,riddim,1
-Q3094259,Scottish Gaelic punk,1
-Q2385862,progressive psytrance,1
-Q108297249,Goral folk music,1
-Q94639707,Gascon folk music,1
-Q691771,overtone singing,1
-Q645992,music of Argentina,1
-Q239459,trip rock,1
-Q502535,morna,1
-Q112997482,drift phonk,1
-Q10801097,nhạc trẻ,1
-Q672134,music of France,1
 Q2109360,Danza,1
+Q11787400,vocal-instrumental music,1
+Q1672918,Irish rebel song,1
+Q624221,Arabic hip-hop,1
+Q65065491,riddim,1
+Q6942216,music of New Zealand,1
+Q107819512,German folk music,1
+Q2784269,oriental music,1
+Q420883,LGBT hip hop,1
+Q4947417,Bosnian and Herzegovinian hip hop,1
+Q7915876,variety,1
+Q645992,music of Argentina,1
+Q12736123,Romanian folk music,1
+Q7397320,Sacred Steel,1
+Q98528293,mod,1
+Q4501461,Christian ska,1
+Q20104443,Catalan popular folk music,1
+Q7541571,Slovak folk music,1
+Q11325293,neo shibuya-kei,1
+Q5794690,cumbia sureña,1
+Q2956176,chanson à texte,1
+Q131722216,Japanese idol music,1
+Q131481683,mall screamo,1
+Q135235711,Internet rap,1
+Q124312240,Afro fusion,1
+Q120484427,dariacore,1
+Q155858,music of Ukraine,1
+Q10801097,nhạc trẻ,1
+Q2748817,ghetto house,1
+Q830634,Minnesang,1
+Q5334415,Ecuadorian rock,1
+Q2385634,Spanish progressive rock,1
+Q106440193,emo trap,1
+Q1275972,raggacore,1
+Q5894518,Hong Kong English pop,1
+Q2028627,orchestral song,1
+Q4940448,bomba,1
+Q106654149,Yiddish folksong,1
+Q56244093,gambus,1
+Q110874730,Hungarian national rock,1
+Q106522115,swamp pop,1
+Q2879857,bailecito,1
+Q4852979,Baltimore club,1
+Q6184945,Jersey Shore sound,1
+Q1399695,Chicano rap,1
+Q9051097,Nueva ola,1
+Q892958,boogaloo,1
+Q12339784,Time Lord rock,1
+Q3487087,Smyrneiko,1
+Q5147976,Colombian rock,1
+Q48297861,Welsh folk music,1
+Q373982,logobi,1
+Q145980,Zamrock,1
+Q107331898,Croatian folk music,1
+Q112610153,koa-á,1
+Q3293102,Marimbalax,1
+Q2258450,Spanish hip-hop,1
+Q672134,music of France,1
+Q2915789,gwo ka,1
+Q106654134,zolo,1
+Q1440196,ambient industrial,1
+Q53677895,Navarese jota,1
+Q3397325,music of Mexico,1
+Q3679098,music of Italy,1
+Q60985143,chaotic hardcore,1
+Q28371127,cymrucana,1
+Q3394906,music of the Caribbean,1
+Q6942315,music of the Valencian Community,1
+Q106917640,kleinkunst,1
+Q1499262,yellow music,1
+Q104733809,folk-polo,1
+Q2956156,Occitan chanson,1
+Q56297567,brasspop,1
+Q12881722,nisiotika,1
+Q6036543,litoraleña music,1
+Q3554510,vanera,1
+Q28196971,erotic-patriotic,1
+Q7439349,Scrumpy and Western,1
+Q7397088,Sacred Harp,1
+Q3106448,zamba,1
+Q4752840,fife and drum corps,1
+Q107033631,Mongolian hip hop,1
+Q3408028,proto-prog,1
+Q12472139,gamelan angklung,1
+Q98530850,Tuareg music,1
 Q140323396,transcore,1
-Q114238485,meme techno,1
-Q964658,outlaw country,1
-Q1872505,lovers rock,1
+Q497674,pungmul,1
+Q106641536,Afro-funk,1
+Q11223087,Persian traditional music,1
+Q211418,British Invasion,1
+Q100151423,brutal prog,1
+Q2464833,Turkish hip-hop,1
+Q4752812,ancient Celtic music,1
+Q13212139,Venetian popular song,1
+Q109527761,polkabilly,1
+Q1746023,piano quintet,1
+Q121170607,Waama music,1
+Q22949256,aita,1
+Q5794674,cumbia boliviana,1
+Q60973191,darksynth,1
+Q121667432,psychedelic rap,1
+Q239459,trip rock,1
+Q122034475,gengetone,1
+Q2748579,Čoček,1
+Q3135790,Algerian hip hop,1
+Q6098469,rajaleña,1
+Q65936979,alternative punk,1
+Q110272079,Pasillo ecuatoriano,1
+Q106582953,steampunk music,1
+Q4917174,BisRock,1
+Q2866725,Balearic beat,1
+Q108865641,straight edge,1
+Q108909775,surf revival,1
+Q2343030,ritmo kombina,1
+Q624081,Arabic pop,1
+Q1233698,Harmonie,1
+Q130479301,Christian children's music,1
+Q1682783,Turkish music style,1
+Q7397641,sadcore,1
+Q17091278,Romanian muzica populara,1
+Q116972319,first wave black metal,1
+Q130711854,Dikir Barat Singapura,1
+Q5794688,cumbia santafesina,1
+Q3029796,disco-funk,1
+Q105224848,chanson swing,1
+Q106544624,eletrobrega,1
+Q28517114,Andean music (Colombia),1
+Q8030395,Wolof music,1
+Q1437709,canción,1
+Q781402,piyyut,1
+Q1452181,murga,1
+Q2102553,Polish hip hop,1
+Q1931555,microhouse,1
+Q1585558,music of Tibet,1
+Q110544183,doomcore,1
+Q108297249,Goral folk music,1
+Q105636940,leftfield house,1
+Q6010117,Memphis rap,1
+Q25513043,Kazakh folk music,1
+Q2064873,math metal,1
+Q3613770,ambient dub,1
+Q1232283,villancico,1
+Q114907537,folk-blues,1
+Q1518063,Ottoman classical music,1
+Q108107422,Livonian folk music,1
+Q107033384,holiday music,1
+Q109382432,drone ambient,1
+Q2178442,paramaribop,1
+Q1672398,music of Iran,1
+Q2863648,arrocha,1
+Q6868046,Minneapolis sound,1
+Q5219868,Danish folk music,1
+Q7541786,Slovenian-style polka,1
+Q1234748,retro-prog,1
+Q1521688,ghettotech,1
+Q98528189,Arabic folk music,1
+Q4400125,runo song,1
+Q3322869,Palm Desert Scene,1
+Q2000173,Gnawa music,1
+Q1753071,maracatu,1
+Q11817196,piosenka aktorska,1
+Q11320501,digital rock,1
+Q6942118,music of Hong Kong,1
+Q277393,music of China,1
+Q113332645,mumble rock,1
+Q2746831,quiet storm,1
+Q107814971,Georgian folk music,1
+Q4159719,Armenian jazz,1
+Q19678100,nerd music,1
+Q98528238,Mande music,1
+Q1989725,nigun,1
+Q7405765,salsa romántica,1
+Q1154911,carnavalito,1
+Q6742070,Malaysian popular music,1
+Q11885649,opera metal,1
+Q3094259,Scottish Gaelic punk,1
+Q17007779,Latin Christian music,1
+Q4950496,bouyon,1
+Q3587612,electroacoustic improvisation,1
+Q65204373,lazer,1
+Q4216001,Sinawi,1
+Q11992876,Norwegian new wave,1
+Q7690640,Tche music,1
+Q2165184,drinking song,1
+Q7878542,Ukrainian hip hop,1
+Q11955376,Xeremiers,1
+Q107332291,dancefloor drum and bass,1
+Q121306892,heavy yoik,1
+Q7363273,Romo,1
+Q822309,cerdd dant,1
+Q525073,music of Asia,1
+Q5690818,rock urbano mexicano,1
+Q1522794,music of Yugoslavia,1
+Q7067688,nu-funk,1
+Q30917612,Eurohouse,1
+Q6153278,tropical rock,1
+Q53806314,éntekhno,1
+Q30895273,Sovietwave,1
+Q840748,Iranian hip hop,1
+Q3089524,huapango,1
+Q5978495,lolicore,1
+Q107267446,rock andino,1
+Q108055228,pipe band music,1
+Q110020243,Swedish pop,1
+Q2891921,batuque,1
+Q502448,coco,1
+Q20492204,music in Catalan language,1
+Q2043175,hyphy,1
+Q10370216,seresta,1
+Q1353390,background music,1
+Q107985650,idol kayō,1
+Q7560585,son jaliscience,1
+Q3846957,Beiguan,1
+Q17000631,Australian folk music,1
+Q2621049,Afro-punk,1
+Q107000797,Korean folk music,1
+Q18660751,Manserock,1
+Q106621063,symphonic prog,1
+Q531426,music of India,1
+Q98528139,tribal ambient,1
+Q27973183,Schwobarock,1
+Q1432934,Paisley Underground,1
+Q65943851,UK drill,1
+Q114023769,slow-rock,1
+Q3410876,punta rock,1
+Q623715,aleatoric music,1
+Q10331354,moda de viola,1
+Q11319232,techno kayō,1
+Q10932272,technobanda,1
+Q7684171,Tanzanian hip hop,1
+Q107021951,score,1
+Q5341293,educational music,1
+Q7042753,No-Fi,1
+Q124099577,progressive black metal,1
+Q5405653,proletarian rock,1
+Q106594523,Latin freestyle,1
+Q13126989,Welsh music,1
+Q107022182,television score,1
+Q7134728,Paraguayan polka,1
+Q3843655,couplet,1
+Q3328738,music of Uzbekistan,1
+Q1477428,M-Base,1
+Q60199541,emo rock,1
+Q115248229,I-pop,1
+Q17004572,hip hop galsen,1
+Q750811,minimal house,1
+Q14493900,Texas country music,1
+Q108110644,vuelie,1
+Q112628069,neocrust,1
+Q211025,march,1
+Q11308620,synth music,1
+Q8059887,Yu-Mex,1
+Q106588693,Chuvash folk music,1
+Q16152327,Ukrainian pop,1
+Q1662181,New Primitivism,1
+Q25345818,hypnagogic pop,1
+Q98528195,lăutărească music,1
+Q106493832,slap house,1
+Q15141477,proto-metal,1
+Q8251828,brega pop,1
+Q3876770,nightcore,1
+Q2032053,music of Georgia,1
+Q533946,lambada,1
+Q23301960,dark pop,1
+Q11831728,pumping house,1
+Q113496771,jazz yoik,1
+Q1202208,joropo,1
+Q963369,vispop,1
+Q108297241,flamenco pop,1
+Q2936886,cantèra,1
+Q10367259,sambalanço,1
+Q97181439,arrocha funk,1
+Q1646666,mambo,1
+Q665286,luk thung,1
+Q2719078,Western music,1
+Q98528292,atmospheric sludge metal,1
+Q1191299,industrial hardcore,1
+Q17176205,Chicano punk,1
+Q19860267,Kazakh pop,1
+Q848457,speedcore,1
+Q4668383,indigenous rock,1
+Q116764541,science fiction music,1
+Q24077837,psydub,1
+Q106085531,black gospel music,1
+Q942955,milonga,1
+Q1113204,dub poetry,1
+Q3512563,modern soul,1
+Q5898242,Peruvian hip hop,1
+Q98528253,pop reggae,1
+Q1335569,techstep,1
+Q108167943,maracatu nação,1
+Q6783396,maskandi,1
+Q329385,schottische,1
+Q90414790,death jazz,1
+Q19672555,nerd-folk,1
+Q5487269,freak metal,1
+Q9364028,UK funky,1
+Q124080511,doomgaze,1
+Q7513991,Sikuri,1
+Q11938279,Grallers,1
+Q7777494,theatre music,1
+Q107697441,surf punk,1
+Q6585404,Israeli jazz,1
+Q107539904,estrada music,1
+Q28721502,Finnish grime,1
+Q16575969,horror metal,1
+Q1227093,Bilbainada,1
+Q577080,P-Funk,1
+Q1020611,bühnenmusik,1
+Q3656492,classic Neapolitan song,1
+Q120715924,asian rock,1
+Q6106812,retro-soul,1
+Q2509521,Peruvian waltz,1
+Q108419648,conjunto andino,1
+Q91611922,Israeli funk,1
+Q98528183,free folk,1
+Q1143743,cumbia romántica,1
+Q16148439,Gaelic music,1
+Q28055053,Q-pop,1
+Q2346991,UK bass,1
+Q107515261,digicore,1
