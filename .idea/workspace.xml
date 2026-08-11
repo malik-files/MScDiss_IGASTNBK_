@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="TRYING TO FINISH IT UP">
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/ensemblesMusicBrainzData.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main Code/Data/personMusicBrainzData.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Find_The_Music_Files/getFilesFromPages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/Visuals Data/mbArtists_country_count.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main Code/aupr_attempy.ipynb" beforeDir="false" />
+    <list default="true" id="6a9ae890-1589-404b-b200-44ab639cc7d5" name="Changes" comment="crafting the submission file">
+      <change beforePath="$PROJECT_DIR$/Main Code/create_knowledge_graph_wikidata_groups.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/evaluating_knowledge_graph_test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_artist_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Main Code/inspecting_analysing_group_MB_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <workItem from="1784898062576" duration="28489000" />
       <workItem from="1786267468684" duration="8595000" />
       <workItem from="1786384896613" duration="4967000" />
-      <workItem from="1786391999398" duration="7136000" />
+      <workItem from="1786391999398" duration="8943000" />
     </task>
     <task id="LOCAL-00001" summary="Creating a new, cleaner, organised repository for the dissertation.">
       <option name="closed" value="true" />
@@ -282,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786443430092</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="crafting the submission file">
+      <option name="closed" value="true" />
+      <created>1786446855418</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1786446855418</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +313,8 @@
     <MESSAGE value="Made the trip hop networks" />
     <MESSAGE value="Added the link prediction code" />
     <MESSAGE value="TRYING TO FINISH IT UP" />
-    <option name="LAST_COMMIT_MESSAGE" value="TRYING TO FINISH IT UP" />
+    <MESSAGE value="crafting the submission file" />
+    <option name="LAST_COMMIT_MESSAGE" value="crafting the submission file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IGASTNBK_MScDiss$auprOfGraphs.coverage" NAME="auprOfGraphs Coverage Results" MODIFIED="1786268505925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Code" />
